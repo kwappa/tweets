@@ -534,7 +534,7 @@ Grailbird.data.tweets_2014_03 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "chezou",
+      "name" : "Aki Ariga",
       "screen_name" : "chezou",
       "indices" : [ 3, 10 ],
       "id_str" : "813051000",
@@ -577,7 +577,7 @@ Grailbird.data.tweets_2014_03 =
     "id" : 450127750276198401,
     "created_at" : "2014-03-30 04:29:53 +0000",
     "user" : {
-      "name" : "chezou",
+      "name" : "Aki Ariga",
       "screen_name" : "chezou",
       "protected" : false,
       "id_str" : "813051000",
@@ -1373,7 +1373,7 @@ Grailbird.data.tweets_2014_03 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "chezou",
+      "name" : "Aki Ariga",
       "screen_name" : "chezou",
       "indices" : [ 15, 22 ],
       "id_str" : "813051000",
@@ -2761,7 +2761,7 @@ Grailbird.data.tweets_2014_03 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "chezou",
+      "name" : "Aki Ariga",
       "screen_name" : "chezou",
       "indices" : [ 0, 7 ],
       "id_str" : "813051000",
@@ -3297,7 +3297,7 @@ Grailbird.data.tweets_2014_03 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "chezou",
+      "name" : "Aki Ariga",
       "screen_name" : "chezou",
       "indices" : [ 0, 7 ],
       "id_str" : "813051000",
@@ -3352,7 +3352,7 @@ Grailbird.data.tweets_2014_03 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "chezou",
+      "name" : "Aki Ariga",
       "screen_name" : "chezou",
       "indices" : [ 0, 7 ],
       "id_str" : "813051000",
@@ -3619,7 +3619,7 @@ Grailbird.data.tweets_2014_03 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3066\u3043\u3070 #\u80B2\u4F11\u30E9\u30B9\u30C8\u30A6\u30A3\u30FC\u30AF",
+      "name" : "\u3066\u3043\u3070\u306F\u5A18\u5358\u63A8\u3057",
       "screen_name" : "rechiba3",
       "indices" : [ 0, 9 ],
       "id_str" : "43306194",
@@ -5544,7 +5544,7 @@ Grailbird.data.tweets_2014_03 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "chezou",
+      "name" : "Aki Ariga",
       "screen_name" : "chezou",
       "indices" : [ 0, 7 ],
       "id_str" : "813051000",
@@ -7938,7 +7938,7 @@ Grailbird.data.tweets_2014_03 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "chezou",
+      "name" : "Aki Ariga",
       "screen_name" : "chezou",
       "indices" : [ 0, 7 ],
       "id_str" : "813051000",

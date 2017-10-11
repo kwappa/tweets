@@ -9094,7 +9094,7 @@ Grailbird.data.tweets_2011_02 =
   "source" : "\u003Ca href=\"http:\/\/janetter.net\/\" rel=\"nofollow\"\u003EJanetter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "10\u500D\u3060\u305E10\u500D",
+      "name" : "\u30C6\u30B9\u30E9\u6B32\u3057\u3044",
       "screen_name" : "fd0",
       "indices" : [ 10, 14 ],
       "id_str" : "13089332",
@@ -9556,7 +9556,7 @@ Grailbird.data.tweets_2011_02 =
   "source" : "\u003Ca href=\"http:\/\/friendfeed.com\" rel=\"nofollow\"\u003EFriendFeed\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u7F8E\u54B2\u3072\u3044\u308D@iaitokyo",
+      "name" : "\u7F8E\u54B2\u3072\u3044\u308D@M3\u79CB G-04a",
       "screen_name" : "misakihiiro",
       "indices" : [ 1, 13 ],
       "id_str" : "167441536",
@@ -9584,7 +9584,7 @@ Grailbird.data.tweets_2011_02 =
   "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u7F8E\u54B2\u3072\u3044\u308D@iaitokyo",
+      "name" : "\u7F8E\u54B2\u3072\u3044\u308D@M3\u79CB G-04a",
       "screen_name" : "misakihiiro",
       "indices" : [ 35, 47 ],
       "id_str" : "167441536",
@@ -23251,7 +23251,7 @@ Grailbird.data.tweets_2011_02 =
   "source" : "\u003Ca href=\"http:\/\/www.hatena.ne.jp\/guide\/twitter\" rel=\"nofollow\"\u003EHatena\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "igaiga",
+      "name" : "\u3044\u304C\u3044\u304C \u6280\u8853\u66F8\u5178\u304604Rails\u6559\u79D1\u66F8",
       "screen_name" : "igaiga555",
       "indices" : [ 25, 35 ],
       "id_str" : "4596601",

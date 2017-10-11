@@ -1245,7 +1245,7 @@ Grailbird.data.tweets_2010_06 =
       "id_str" : "13437942",
       "id" : 13437942
     }, {
-      "name" : "igaiga",
+      "name" : "\u3044\u304C\u3044\u304C \u6280\u8853\u66F8\u5178\u304604Rails\u6559\u79D1\u66F8",
       "screen_name" : "igaiga555",
       "indices" : [ 15, 25 ],
       "id_str" : "4596601",
@@ -9013,7 +9013,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/sites.google.com\/site\/yorufukurou\/\" rel=\"nofollow\"\u003EYoruFukurou\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3067\u3085\u3089\u306F\u3093\uFF08\u30E1\u30A4\u30C9\u30A4\u30F3\u732B\u6CBC\uFF09",
+      "name" : "\u3067\u3085\u3089\u306F\u3093\uFF08\u732B\u754C\u6226\u7DDA\uFF09",
       "screen_name" : "Dullahan",
       "indices" : [ 0, 9 ],
       "id_str" : "4342821",
@@ -9151,7 +9151,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "igaiga",
+      "name" : "\u3044\u304C\u3044\u304C \u6280\u8853\u66F8\u5178\u304604Rails\u6559\u79D1\u66F8",
       "screen_name" : "igaiga555",
       "indices" : [ 12, 22 ],
       "id_str" : "4596601",
@@ -13278,7 +13278,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "igaiga",
+      "name" : "\u3044\u304C\u3044\u304C \u6280\u8853\u66F8\u5178\u304604Rails\u6559\u79D1\u66F8",
       "screen_name" : "igaiga555",
       "indices" : [ 3, 13 ],
       "id_str" : "4596601",
@@ -13305,7 +13305,7 @@ Grailbird.data.tweets_2010_06 =
     "id" : 15892458302,
     "created_at" : "2010-06-11 01:14:49 +0000",
     "user" : {
-      "name" : "igaiga",
+      "name" : "\u3044\u304C\u3044\u304C \u6280\u8853\u66F8\u5178\u304604Rails\u6559\u79D1\u66F8",
       "screen_name" : "igaiga555",
       "protected" : false,
       "id_str" : "4596601",
@@ -19244,7 +19244,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "tokoya",
       "protected" : false,
       "id_str" : "4119831",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/813027309540163584\/DHeMQaCb_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/917582152811741184\/oFt1DWGA_normal.jpg",
       "id" : 4119831,
       "verified" : false
     }

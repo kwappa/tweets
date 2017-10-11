@@ -2229,7 +2229,7 @@ Grailbird.data.tweets_2016_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "10\u500D\u3060\u305E10\u500D",
+      "name" : "\u30C6\u30B9\u30E9\u6B32\u3057\u3044",
       "screen_name" : "fd0",
       "indices" : [ 0, 4 ],
       "id_str" : "13089332",
@@ -3339,7 +3339,7 @@ Grailbird.data.tweets_2016_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3057\u3087\u3053@\u76EE\u6307\u305B45kg",
+      "name" : "\u3057\u3087\u3053@10\/17\uD83C\uDF82",
       "screen_name" : "okoysm",
       "indices" : [ 0, 7 ],
       "id_str" : "758356490",

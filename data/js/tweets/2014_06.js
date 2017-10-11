@@ -82,7 +82,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "chezou",
+      "name" : "Aki Ariga",
       "screen_name" : "chezou",
       "indices" : [ 0, 7 ],
       "id_str" : "813051000",
@@ -1280,7 +1280,7 @@ Grailbird.data.tweets_2014_06 =
       "id_str" : "6164512",
       "id" : 6164512
     }, {
-      "name" : "chezou",
+      "name" : "Aki Ariga",
       "screen_name" : "chezou",
       "indices" : [ 8, 15 ],
       "id_str" : "813051000",
@@ -4130,7 +4130,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3066\u3043\u3070 #\u80B2\u4F11\u30E9\u30B9\u30C8\u30A6\u30A3\u30FC\u30AF",
+      "name" : "\u3066\u3043\u3070\u306F\u5A18\u5358\u63A8\u3057",
       "screen_name" : "rechiba3",
       "indices" : [ 3, 12 ],
       "id_str" : "43306194",
@@ -4157,7 +4157,7 @@ Grailbird.data.tweets_2014_06 =
     "id" : 478528807888896000,
     "created_at" : "2014-06-16 13:25:33 +0000",
     "user" : {
-      "name" : "\u3066\u3043\u3070 #\u80B2\u4F11\u30E9\u30B9\u30C8\u30A6\u30A3\u30FC\u30AF",
+      "name" : "\u3066\u3043\u3070\u306F\u5A18\u5358\u63A8\u3057",
       "screen_name" : "rechiba3",
       "protected" : false,
       "id_str" : "43306194",
@@ -4865,7 +4865,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "chezou",
+      "name" : "Aki Ariga",
       "screen_name" : "chezou",
       "indices" : [ 0, 7 ],
       "id_str" : "813051000",
@@ -6600,7 +6600,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30D7\u30EA\u30F3\u30BB\u30B9\u30FB\u30D7\u30EA\u30F3\u30B7\u30D1\u30EB\u3092\u898B\u3066bot",
+      "name" : "\u307C\u308A",
       "screen_name" : "bori_so1",
       "indices" : [ 0, 9 ],
       "id_str" : "91105992",
@@ -7918,7 +7918,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "igaiga",
+      "name" : "\u3044\u304C\u3044\u304C \u6280\u8853\u66F8\u5178\u304604Rails\u6559\u79D1\u66F8",
       "screen_name" : "igaiga555",
       "indices" : [ 0, 10 ],
       "id_str" : "4596601",

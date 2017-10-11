@@ -5688,7 +5688,7 @@ Grailbird.data.tweets_2017_02 =
       "screen_name" : "lilicalprese",
       "protected" : false,
       "id_str" : "292907264",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/875573974985351168\/HBgYCNOU_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/916496140807180289\/Tj46kohZ_normal.jpg",
       "id" : 292907264,
       "verified" : false
     }

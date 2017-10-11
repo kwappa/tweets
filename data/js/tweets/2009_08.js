@@ -7800,7 +7800,7 @@ Grailbird.data.tweets_2009_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u304D\u3089\u3089@\u6A2A\u6D5C\u30DE\u30E9\u30BD\u30F3\u8FC430\u65E5",
+      "name" : "\u304D\u3089\u3089@\u6A2A\u6D5C\u30DE\u30E9\u30BD\u30F3\u8FC418\u65E5",
       "screen_name" : "kirara_397",
       "indices" : [ 3, 14 ],
       "id_str" : "16978219",
@@ -8060,7 +8060,7 @@ Grailbird.data.tweets_2009_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3084\u3059\u3086\u304D@\u30D9\u30D3\u30E1\u30BF\u30D5\u30A1\u30F3\uFF06\u3055\u304F\u3089\u5B66\u9662\u7236\u5144",
+      "name" : "\u3084\u3059\u3086\u304D@\u3055\u304F\u3089\u5B66\u9662\u5B66\u9662\u796D11\/19\u53C2\u89B3",
       "screen_name" : "yasuyukima",
       "indices" : [ 0, 11 ],
       "id_str" : "4469481",
@@ -11871,7 +11871,7 @@ Grailbird.data.tweets_2009_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "igaiga",
+      "name" : "\u3044\u304C\u3044\u304C \u6280\u8853\u66F8\u5178\u304604Rails\u6559\u79D1\u66F8",
       "screen_name" : "igaiga555",
       "indices" : [ 0, 10 ],
       "id_str" : "4596601",
@@ -11992,13 +11992,13 @@ Grailbird.data.tweets_2009_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u304A\u3082\u3061\u306D\u3053",
+      "name" : "\uD83D\uDE08\uD83C\uDF83\u304A\u3082\u3061\u306D\u3053\uD83C\uDF83\uD83D\uDC7F",
       "screen_name" : "lovalotta",
       "indices" : [ 17, 27 ],
       "id_str" : "14222267",
       "id" : 14222267
     }, {
-      "name" : "\u304A\u3082\u3061\u306D\u3053",
+      "name" : "\uD83D\uDE08\uD83C\uDF83\u304A\u3082\u3061\u306D\u3053\uD83C\uDF83\uD83D\uDC7F",
       "screen_name" : "lovalotta",
       "indices" : [ 83, 93 ],
       "id_str" : "14222267",
@@ -13425,7 +13425,7 @@ Grailbird.data.tweets_2009_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3084\u3059\u3086\u304D@\u30D9\u30D3\u30E1\u30BF\u30D5\u30A1\u30F3\uFF06\u3055\u304F\u3089\u5B66\u9662\u7236\u5144",
+      "name" : "\u3084\u3059\u3086\u304D@\u3055\u304F\u3089\u5B66\u9662\u5B66\u9662\u796D11\/19\u53C2\u89B3",
       "screen_name" : "yasuyukima",
       "indices" : [ 0, 11 ],
       "id_str" : "4469481",
@@ -14070,7 +14070,7 @@ Grailbird.data.tweets_2009_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3084\u3059\u3086\u304D@\u30D9\u30D3\u30E1\u30BF\u30D5\u30A1\u30F3\uFF06\u3055\u304F\u3089\u5B66\u9662\u7236\u5144",
+      "name" : "\u3084\u3059\u3086\u304D@\u3055\u304F\u3089\u5B66\u9662\u5B66\u9662\u796D11\/19\u53C2\u89B3",
       "screen_name" : "yasuyukima",
       "indices" : [ 10, 21 ],
       "id_str" : "4469481",
@@ -15453,7 +15453,7 @@ Grailbird.data.tweets_2009_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u304A\u3082\u3061\u306D\u3053",
+      "name" : "\uD83D\uDE08\uD83C\uDF83\u304A\u3082\u3061\u306D\u3053\uD83C\uDF83\uD83D\uDC7F",
       "screen_name" : "lovalotta",
       "indices" : [ 11, 21 ],
       "id_str" : "14222267",
@@ -15590,7 +15590,7 @@ Grailbird.data.tweets_2009_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u304A\u3082\u3061\u306D\u3053",
+      "name" : "\uD83D\uDE08\uD83C\uDF83\u304A\u3082\u3061\u306D\u3053\uD83C\uDF83\uD83D\uDC7F",
       "screen_name" : "lovalotta",
       "indices" : [ 45, 55 ],
       "id_str" : "14222267",
@@ -15809,7 +15809,7 @@ Grailbird.data.tweets_2009_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "igaiga",
+      "name" : "\u3044\u304C\u3044\u304C \u6280\u8853\u66F8\u5178\u304604Rails\u6559\u79D1\u66F8",
       "screen_name" : "igaiga555",
       "indices" : [ 17, 27 ],
       "id_str" : "4596601",
@@ -23357,7 +23357,7 @@ Grailbird.data.tweets_2009_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3084\u3059\u3086\u304D@\u30D9\u30D3\u30E1\u30BF\u30D5\u30A1\u30F3\uFF06\u3055\u304F\u3089\u5B66\u9662\u7236\u5144",
+      "name" : "\u3084\u3059\u3086\u304D@\u3055\u304F\u3089\u5B66\u9662\u5B66\u9662\u796D11\/19\u53C2\u89B3",
       "screen_name" : "yasuyukima",
       "indices" : [ 10, 21 ],
       "id_str" : "4469481",
@@ -24380,7 +24380,7 @@ Grailbird.data.tweets_2009_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "igaiga",
+      "name" : "\u3044\u304C\u3044\u304C \u6280\u8853\u66F8\u5178\u304604Rails\u6559\u79D1\u66F8",
       "screen_name" : "igaiga555",
       "indices" : [ 0, 10 ],
       "id_str" : "4596601",

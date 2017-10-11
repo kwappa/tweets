@@ -13341,7 +13341,7 @@ Grailbird.data.tweets_2013_02 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u99C4\u732B\uFF08\u4EE3\u8868\u53D6\u7DE0\u5F79\u990A\u5206\uFF09",
+      "name" : "\u9752\u5E74\u5931\u696D\u5BB6 \u3060\u306D\u3074\u3087\u3093",
       "screen_name" : "daneko0123",
       "indices" : [ 0, 11 ],
       "id_str" : "107102477",
@@ -15655,7 +15655,7 @@ Grailbird.data.tweets_2013_02 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "igaiga",
+      "name" : "\u3044\u304C\u3044\u304C \u6280\u8853\u66F8\u5178\u304604Rails\u6559\u79D1\u66F8",
       "screen_name" : "igaiga555",
       "indices" : [ 3, 13 ],
       "id_str" : "4596601",
@@ -15682,7 +15682,7 @@ Grailbird.data.tweets_2013_02 =
     "id" : 298456294677966848,
     "created_at" : "2013-02-04 15:41:40 +0000",
     "user" : {
-      "name" : "igaiga",
+      "name" : "\u3044\u304C\u3044\u304C \u6280\u8853\u66F8\u5178\u304604Rails\u6559\u79D1\u66F8",
       "screen_name" : "igaiga555",
       "protected" : false,
       "id_str" : "4596601",
@@ -16228,16 +16228,16 @@ Grailbird.data.tweets_2013_02 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 17, 37 ],
-      "url" : "http:\/\/t.co\/ggqc3xLy",
-      "expanded_url" : "http:\/\/tou.ch\/HQYsFE",
-      "display_url" : "tou.ch\/HQYsFE"
+      "indices" : [ 26, 46 ],
+      "url" : "http:\/\/t.co\/MNX3U0Um",
+      "expanded_url" : "http:\/\/tou.ch\/RrwxcR",
+      "display_url" : "tou.ch\/RrwxcR"
     } ]
   },
   "geo" : { },
-  "id_str" : "298227920730722304",
-  "text" : "\u300C\u304B\u307E\u304F\u3089\u300D\u30B7\u30FC\u30EB\u3092\u624B\u306B\u5165\u308C\u305F! http:\/\/t.co\/ggqc3xLy",
-  "id" : 298227920730722304,
+  "id_str" : "298227918595825665",
+  "text" : "\u7740\u5E2D\u3057\u3066\u3044\u307E\u3059 @ \u30AF\u30C3\u30AF\u30D1\u30C3\u30C9\u682A\u5F0F\u4F1A\u793E\u306B\u30BF\u30C3\u30C1\uFF01 http:\/\/t.co\/MNX3U0Um",
+  "id" : 298227918595825665,
   "created_at" : "2013-02-04 00:34:11 +0000",
   "user" : {
     "name" : "SHIOYA, Hiromu",
@@ -16255,16 +16255,16 @@ Grailbird.data.tweets_2013_02 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 26, 46 ],
-      "url" : "http:\/\/t.co\/MNX3U0Um",
-      "expanded_url" : "http:\/\/tou.ch\/RrwxcR",
-      "display_url" : "tou.ch\/RrwxcR"
+      "indices" : [ 17, 37 ],
+      "url" : "http:\/\/t.co\/ggqc3xLy",
+      "expanded_url" : "http:\/\/tou.ch\/HQYsFE",
+      "display_url" : "tou.ch\/HQYsFE"
     } ]
   },
   "geo" : { },
-  "id_str" : "298227918595825665",
-  "text" : "\u7740\u5E2D\u3057\u3066\u3044\u307E\u3059 @ \u30AF\u30C3\u30AF\u30D1\u30C3\u30C9\u682A\u5F0F\u4F1A\u793E\u306B\u30BF\u30C3\u30C1\uFF01 http:\/\/t.co\/MNX3U0Um",
-  "id" : 298227918595825665,
+  "id_str" : "298227920730722304",
+  "text" : "\u300C\u304B\u307E\u304F\u3089\u300D\u30B7\u30FC\u30EB\u3092\u624B\u306B\u5165\u308C\u305F! http:\/\/t.co\/ggqc3xLy",
+  "id" : 298227920730722304,
   "created_at" : "2013-02-04 00:34:11 +0000",
   "user" : {
     "name" : "SHIOYA, Hiromu",

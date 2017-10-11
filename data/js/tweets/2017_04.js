@@ -490,7 +490,7 @@ Grailbird.data.tweets_2017_04 =
       "screen_name" : "mzsm_j",
       "protected" : false,
       "id_str" : "74623201",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/852875121333157888\/9IjydlKe_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/915076361835786240\/8vmEi0Ab_normal.jpg",
       "id" : 74623201,
       "verified" : false
     }

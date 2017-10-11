@@ -210,7 +210,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "igaiga",
+      "name" : "\u3044\u304C\u3044\u304C \u6280\u8853\u66F8\u5178\u304604Rails\u6559\u79D1\u66F8",
       "screen_name" : "igaiga555",
       "indices" : [ 0, 10 ],
       "id_str" : "4596601",
@@ -965,7 +965,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "chezou",
+      "name" : "Aki Ariga",
       "screen_name" : "chezou",
       "indices" : [ 0, 7 ],
       "id_str" : "813051000",
@@ -1180,7 +1180,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "chezou",
+      "name" : "Aki Ariga",
       "screen_name" : "chezou",
       "indices" : [ 0, 7 ],
       "id_str" : "813051000",
@@ -4013,7 +4013,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3082\u3046\u73FE\u5834\u3057\u304B\u898B\u3048\u306D\u3048",
+      "name" : "\u73FE\u5B9F",
       "screen_name" : "uzzu",
       "indices" : [ 0, 5 ],
       "id_str" : "14086745",
@@ -4386,7 +4386,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "chezou",
+      "name" : "Aki Ariga",
       "screen_name" : "chezou",
       "indices" : [ 0, 7 ],
       "id_str" : "813051000",
@@ -5654,7 +5654,7 @@ Grailbird.data.tweets_2014_08 =
       "id_str" : "14655478",
       "id" : 14655478
     }, {
-      "name" : "\u5909\u306A\u67C4\u306E\u30B7\u30E3\u30C4\u3092\u7740\u308B",
+      "name" : "\u30B8\u30A7\u30C3\u30C8\u30E9\u30B0\u3067\u30DD\u30F3\u30B3\u30C4\u306B\u306A\u3063\u305F",
       "screen_name" : "makimoto",
       "indices" : [ 12, 21 ],
       "id_str" : "5787652",
@@ -6983,7 +6983,7 @@ Grailbird.data.tweets_2014_08 =
       "id_str" : "6164512",
       "id" : 6164512
     }, {
-      "name" : "chezou",
+      "name" : "Aki Ariga",
       "screen_name" : "chezou",
       "indices" : [ 8, 15 ],
       "id_str" : "813051000",

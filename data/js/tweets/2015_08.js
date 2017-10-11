@@ -3514,7 +3514,7 @@ Grailbird.data.tweets_2015_08 =
       "id_str" : "5161091",
       "id" : 5161091
     }, {
-      "name" : "\u5909\u306A\u67C4\u306E\u30B7\u30E3\u30C4\u3092\u7740\u308B",
+      "name" : "\u30B8\u30A7\u30C3\u30C8\u30E9\u30B0\u3067\u30DD\u30F3\u30B3\u30C4\u306B\u306A\u3063\u305F",
       "screen_name" : "makimoto",
       "indices" : [ 8, 17 ],
       "id_str" : "5787652",
@@ -3633,7 +3633,7 @@ Grailbird.data.tweets_2015_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3072\u308D\u305F@\u753A\u4F1A\u8B70\u540D\u53E4\u5C4B\u30AB\u30E1\u30E9",
+      "name" : "\u3072\u308D\u305F@OC4",
       "screen_name" : "kawauso3",
       "indices" : [ 3, 12 ],
       "id_str" : "11919052",
@@ -3795,7 +3795,7 @@ Grailbird.data.tweets_2015_08 =
     "in_reply_to_screen_name" : "MobileHackerz",
     "in_reply_to_user_id_str" : "36681605",
     "user" : {
-      "name" : "\u3072\u308D\u305F@\u753A\u4F1A\u8B70\u540D\u53E4\u5C4B\u30AB\u30E1\u30E9",
+      "name" : "\u3072\u308D\u305F@OC4",
       "screen_name" : "kawauso3",
       "protected" : false,
       "id_str" : "11919052",
@@ -8095,7 +8095,7 @@ Grailbird.data.tweets_2015_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "chezou",
+      "name" : "Aki Ariga",
       "screen_name" : "chezou",
       "indices" : [ 0, 7 ],
       "id_str" : "813051000",

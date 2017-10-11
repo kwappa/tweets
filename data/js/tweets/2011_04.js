@@ -6631,7 +6631,7 @@ Grailbird.data.tweets_2011_04 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u5DE5\u5834\u9577\u30D5\u30A1\u30F3\u30DF11\/12",
+      "name" : "\u5DE5\u5834\u9577\u3053\u306E\u4E16\u754C\u306E\u30D5\u30A1\u30F3\u30DF11\/12",
       "screen_name" : "IINAlab",
       "indices" : [ 3, 11 ],
       "id_str" : "27799066",
@@ -6658,7 +6658,7 @@ Grailbird.data.tweets_2011_04 =
     "id" : 62316620760100864,
     "created_at" : "2011-04-25 00:46:54 +0000",
     "user" : {
-      "name" : "\u5DE5\u5834\u9577\u30D5\u30A1\u30F3\u30DF11\/12",
+      "name" : "\u5DE5\u5834\u9577\u3053\u306E\u4E16\u754C\u306E\u30D5\u30A1\u30F3\u30DF11\/12",
       "screen_name" : "IINAlab",
       "protected" : false,
       "id_str" : "27799066",
@@ -13944,7 +13944,7 @@ Grailbird.data.tweets_2011_04 =
   "source" : "\u003Ca href=\"http:\/\/sites.google.com\/site\/yorufukurou\/\" rel=\"nofollow\"\u003EYoruFukurou\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3088\u3046",
+      "name" : "\u3088\u3046@ \u6280\u8853\u66F8\u51783(\u304605)",
       "screen_name" : "youchan",
       "indices" : [ 0, 8 ],
       "id_str" : "16497395",
@@ -17364,7 +17364,7 @@ Grailbird.data.tweets_2011_04 =
     "id" : 59233226769698816,
     "created_at" : "2011-04-16 12:34:36 +0000",
     "user" : {
-      "name" : "\u3066\u3043\u3070 #\u80B2\u4F11\u30E9\u30B9\u30C8\u30A6\u30A3\u30FC\u30AF",
+      "name" : "\u3066\u3043\u3070\u306F\u5A18\u5358\u63A8\u3057",
       "screen_name" : "rechiba3",
       "protected" : false,
       "id_str" : "43306194",
@@ -17992,7 +17992,7 @@ Grailbird.data.tweets_2011_04 =
     "in_reply_to_screen_name" : "kwappa",
     "in_reply_to_user_id_str" : "6304032",
     "user" : {
-      "name" : "\u3066\u3043\u3070 #\u80B2\u4F11\u30E9\u30B9\u30C8\u30A6\u30A3\u30FC\u30AF",
+      "name" : "\u3066\u3043\u3070\u306F\u5A18\u5358\u63A8\u3057",
       "screen_name" : "rechiba3",
       "protected" : false,
       "id_str" : "43306194",
@@ -23214,7 +23214,7 @@ Grailbird.data.tweets_2011_04 =
   "source" : "\u003Ca href=\"http:\/\/sites.google.com\/site\/yorufukurou\/\" rel=\"nofollow\"\u003EYoruFukurou\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "LIND \u25CE",
+      "name" : "LIND",
       "screen_name" : "LIND",
       "indices" : [ 0, 5 ],
       "id_str" : "3702251",
@@ -30734,7 +30734,7 @@ Grailbird.data.tweets_2011_04 =
   "source" : "\u003Ca href=\"http:\/\/motionobj.com\/simplytweet\" rel=\"nofollow\"\u003ESimplyTweet\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "LIND \u25CE",
+      "name" : "LIND",
       "screen_name" : "LIND",
       "indices" : [ 5, 10 ],
       "id_str" : "3702251",

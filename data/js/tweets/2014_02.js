@@ -5849,7 +5849,7 @@ Grailbird.data.tweets_2014_02 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3053\u3044\u308F(10\/8 \u91E7\u8DEF\u30D7\u30ED\u30B3\u30F3)",
+      "name" : "\u3053\u3044\u308F(null)",
       "screen_name" : "koiwa",
       "indices" : [ 3, 9 ],
       "id_str" : "9824792",
@@ -5876,7 +5876,7 @@ Grailbird.data.tweets_2014_02 =
     "id" : 431268275457380352,
     "created_at" : "2014-02-06 03:29:04 +0000",
     "user" : {
-      "name" : "\u3053\u3044\u308F(10\/8 \u91E7\u8DEF\u30D7\u30ED\u30B3\u30F3)",
+      "name" : "\u3053\u3044\u308F(null)",
       "screen_name" : "koiwa",
       "protected" : false,
       "id_str" : "9824792",

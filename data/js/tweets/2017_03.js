@@ -326,7 +326,7 @@ Grailbird.data.tweets_2017_03 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30AB\u30CA\u30D8\u30A4\u25CE\u30D5\u30A1\u30DF\u30DE\u304F\u3058\u958B\u50AC\u4E2D",
+      "name" : "\u30AB\u30CA\u30D8\u30A4\u25CE\u30AB\u30D5\u30A7\u30B3\u30E0\u30B5\u6E0B\u8C37\u897F\u6B66\u5E97\u30B3\u30E9\u30DC\u4E2D",
       "screen_name" : "kanahei_",
       "indices" : [ 3, 12 ],
       "id_str" : "106361099",
@@ -419,7 +419,7 @@ Grailbird.data.tweets_2017_03 =
     "id" : 846925118584455168,
     "created_at" : "2017-03-29 03:20:58 +0000",
     "user" : {
-      "name" : "\u30AB\u30CA\u30D8\u30A4\u25CE\u30D5\u30A1\u30DF\u30DE\u304F\u3058\u958B\u50AC\u4E2D",
+      "name" : "\u30AB\u30CA\u30D8\u30A4\u25CE\u30AB\u30D5\u30A7\u30B3\u30E0\u30B5\u6E0B\u8C37\u897F\u6B66\u5E97\u30B3\u30E9\u30DC\u4E2D",
       "screen_name" : "kanahei_",
       "protected" : false,
       "id_str" : "106361099",

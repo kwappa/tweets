@@ -5703,7 +5703,7 @@ Grailbird.data.tweets_2014_12 =
   "source" : "\u003Ca href=\"http:\/\/klinkerapps.com\" rel=\"nofollow\"\u003ETalon (Classic)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "chezou",
+      "name" : "Aki Ariga",
       "screen_name" : "chezou",
       "indices" : [ 0, 7 ],
       "id_str" : "813051000",
@@ -7280,7 +7280,7 @@ Grailbird.data.tweets_2014_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3066\u3043\u3070 #\u80B2\u4F11\u30E9\u30B9\u30C8\u30A6\u30A3\u30FC\u30AF",
+      "name" : "\u3066\u3043\u3070\u306F\u5A18\u5358\u63A8\u3057",
       "screen_name" : "rechiba3",
       "indices" : [ 3, 12 ],
       "id_str" : "43306194",
@@ -7313,7 +7313,7 @@ Grailbird.data.tweets_2014_12 =
     "id" : 540824089015775232,
     "created_at" : "2014-12-05 11:04:45 +0000",
     "user" : {
-      "name" : "\u3066\u3043\u3070 #\u80B2\u4F11\u30E9\u30B9\u30C8\u30A6\u30A3\u30FC\u30AF",
+      "name" : "\u3066\u3043\u3070\u306F\u5A18\u5358\u63A8\u3057",
       "screen_name" : "rechiba3",
       "protected" : false,
       "id_str" : "43306194",
@@ -7337,7 +7337,7 @@ Grailbird.data.tweets_2014_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3066\u3043\u3070 #\u80B2\u4F11\u30E9\u30B9\u30C8\u30A6\u30A3\u30FC\u30AF",
+      "name" : "\u3066\u3043\u3070\u306F\u5A18\u5358\u63A8\u3057",
       "screen_name" : "rechiba3",
       "indices" : [ 3, 12 ],
       "id_str" : "43306194",
@@ -7392,7 +7392,7 @@ Grailbird.data.tweets_2014_12 =
     "id" : 540824000029396993,
     "created_at" : "2014-12-05 11:04:24 +0000",
     "user" : {
-      "name" : "\u3066\u3043\u3070 #\u80B2\u4F11\u30E9\u30B9\u30C8\u30A6\u30A3\u30FC\u30AF",
+      "name" : "\u3066\u3043\u3070\u306F\u5A18\u5358\u63A8\u3057",
       "screen_name" : "rechiba3",
       "protected" : false,
       "id_str" : "43306194",
@@ -7403,67 +7403,6 @@ Grailbird.data.tweets_2014_12 =
   },
   "id" : 541069639166332928,
   "created_at" : "2014-12-06 03:20:29 +0000",
-  "user" : {
-    "name" : "SHIOYA, Hiromu",
-    "screen_name" : "kwappa",
-    "protected" : false,
-    "id_str" : "6304032",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2012344290\/kwappa_icon_large_normal.jpeg",
-    "id" : 6304032,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "yossy (*DESIGNER)",
-      "screen_name" : "yossy_morisaki",
-      "indices" : [ 3, 18 ],
-      "id_str" : "9815822",
-      "id" : 9815822
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 106, 128 ],
-      "url" : "http:\/\/t.co\/kf9OPppRrX",
-      "expanded_url" : "http:\/\/coliss.com\/articles\/book-review\/isbn10-4844337009.html",
-      "display_url" : "coliss.com\/articles\/book-\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "541069618459058176",
-  "text" : "RT @yossy_morisaki: GitHub\u4FBF\u5229\u3067\u3059\u3002\u3082\u3063\u3068\u4F7F\u3044\u3053\u306A\u3057\u305F\u3044\u3002:  \"GitHub\u3092\u4F7F\u3063\u305FWeb\u5236\u4F5C\u306E\u30D5\u30ED\u30FC\u304C\u3088\u304F\u5206\u304B\u308B\uFF01GitHub\u306E\u4F7F\u3044\u624B\u306B\u306A\u308C\u308B\u30AA\u30B9\u30B9\u30E1\u306E\u672C -GitHub\u306E\u6559\u79D1\u66F8\" http:\/\/t.co\/kf9OPppRrX",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.apple.com\" rel=\"nofollow\"\u003EiOS\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 86, 108 ],
-        "url" : "http:\/\/t.co\/kf9OPppRrX",
-        "expanded_url" : "http:\/\/coliss.com\/articles\/book-review\/isbn10-4844337009.html",
-        "display_url" : "coliss.com\/articles\/book-\u2026"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "541065753412116480",
-    "text" : "GitHub\u4FBF\u5229\u3067\u3059\u3002\u3082\u3063\u3068\u4F7F\u3044\u3053\u306A\u3057\u305F\u3044\u3002:  \"GitHub\u3092\u4F7F\u3063\u305FWeb\u5236\u4F5C\u306E\u30D5\u30ED\u30FC\u304C\u3088\u304F\u5206\u304B\u308B\uFF01GitHub\u306E\u4F7F\u3044\u624B\u306B\u306A\u308C\u308B\u30AA\u30B9\u30B9\u30E1\u306E\u672C -GitHub\u306E\u6559\u79D1\u66F8\" http:\/\/t.co\/kf9OPppRrX",
-    "id" : 541065753412116480,
-    "created_at" : "2014-12-06 03:05:02 +0000",
-    "user" : {
-      "name" : "yossy (*DESIGNER)",
-      "screen_name" : "yossy_morisaki",
-      "protected" : false,
-      "id_str" : "9815822",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/891225435488399360\/AxbUHrpn_normal.jpg",
-      "id" : 9815822,
-      "verified" : false
-    }
-  },
-  "id" : 541069618459058176,
-  "created_at" : "2014-12-06 03:20:24 +0000",
   "user" : {
     "name" : "SHIOYA, Hiromu",
     "screen_name" : "kwappa",

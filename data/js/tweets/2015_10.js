@@ -3675,7 +3675,7 @@ Grailbird.data.tweets_2015_10 =
       "screen_name" : "ic_40shioka",
       "protected" : false,
       "id_str" : "2799100176",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/911022218431291392\/a2fSMKeW_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/916167037826646017\/WqR-Ey5m_normal.jpg",
       "id" : 2799100176,
       "verified" : false
     }
@@ -4585,7 +4585,7 @@ Grailbird.data.tweets_2015_10 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30D7\u30FC\u30A2\u30AB\u3061\u3083\u3093\u3055\u3093",
+      "name" : "\u30D7\u30FC\u30A2\u30AB\u3061\u3083\u3093@\u79CB\u4F8B\u5927\u796D\u305F46b",
       "screen_name" : "puakachan",
       "indices" : [ 3, 13 ],
       "id_str" : "73373196",
@@ -4622,7 +4622,7 @@ Grailbird.data.tweets_2015_10 =
     "id" : 651735130415890432,
     "created_at" : "2015-10-07 12:25:38 +0000",
     "user" : {
-      "name" : "\u30D7\u30FC\u30A2\u30AB\u3061\u3083\u3093\u3055\u3093",
+      "name" : "\u30D7\u30FC\u30A2\u30AB\u3061\u3083\u3093@\u79CB\u4F8B\u5927\u796D\u305F46b",
       "screen_name" : "puakachan",
       "protected" : false,
       "id_str" : "73373196",

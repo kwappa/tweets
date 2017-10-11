@@ -340,7 +340,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30E9\u30D6\u30EA\u30FC",
+      "name" : "\u751F\u304D\u5EF6\u3073\u308B",
       "screen_name" : "usadamasa",
       "indices" : [ 2, 12 ],
       "id_str" : "5685672",
@@ -373,7 +373,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30E9\u30D6\u30EA\u30FC",
+      "name" : "\u751F\u304D\u5EF6\u3073\u308B",
       "screen_name" : "usadamasa",
       "indices" : [ 3, 13 ],
       "id_str" : "5685672",
@@ -410,7 +410,7 @@ Grailbird.data.tweets_2015_06 =
     "id" : 614414486787612673,
     "created_at" : "2015-06-26 12:46:43 +0000",
     "user" : {
-      "name" : "\u30E9\u30D6\u30EA\u30FC",
+      "name" : "\u751F\u304D\u5EF6\u3073\u308B",
       "screen_name" : "usadamasa",
       "protected" : false,
       "id_str" : "5685672",
@@ -434,7 +434,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30E9\u30D6\u30EA\u30FC",
+      "name" : "\u751F\u304D\u5EF6\u3073\u308B",
       "screen_name" : "usadamasa",
       "indices" : [ 3, 13 ],
       "id_str" : "5685672",
@@ -478,7 +478,7 @@ Grailbird.data.tweets_2015_06 =
     "in_reply_to_screen_name" : "kwappa",
     "in_reply_to_user_id_str" : "6304032",
     "user" : {
-      "name" : "\u30E9\u30D6\u30EA\u30FC",
+      "name" : "\u751F\u304D\u5EF6\u3073\u308B",
       "screen_name" : "usadamasa",
       "protected" : false,
       "id_str" : "5685672",
@@ -650,7 +650,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u99C4\u732B\uFF08\u4EE3\u8868\u53D6\u7DE0\u5F79\u990A\u5206\uFF09",
+      "name" : "\u9752\u5E74\u5931\u696D\u5BB6 \u3060\u306D\u3074\u3087\u3093",
       "screen_name" : "daneko0123",
       "indices" : [ 0, 11 ],
       "id_str" : "107102477",
@@ -777,7 +777,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u99C4\u732B\uFF08\u4EE3\u8868\u53D6\u7DE0\u5F79\u990A\u5206\uFF09",
+      "name" : "\u9752\u5E74\u5931\u696D\u5BB6 \u3060\u306D\u3074\u3087\u3093",
       "screen_name" : "daneko0123",
       "indices" : [ 0, 11 ],
       "id_str" : "107102477",
@@ -826,7 +826,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u99C4\u732B\uFF08\u4EE3\u8868\u53D6\u7DE0\u5F79\u990A\u5206\uFF09",
+      "name" : "\u9752\u5E74\u5931\u696D\u5BB6 \u3060\u306D\u3074\u3087\u3093",
       "screen_name" : "daneko0123",
       "indices" : [ 0, 11 ],
       "id_str" : "107102477",

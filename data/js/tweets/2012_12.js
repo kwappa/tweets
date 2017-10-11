@@ -1392,7 +1392,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30B8\u30E3\u30D0\u30B9\u30AF\u30A8\u30F3\u30B8\u30CB\u30A2",
+      "name" : "\u3059\u3089\u3044\u3080",
       "screen_name" : "horimislime",
       "indices" : [ 3, 15 ],
       "id_str" : "17899009",
@@ -1419,7 +1419,7 @@ Grailbird.data.tweets_2012_12 =
     "id" : 283884249919156225,
     "created_at" : "2012-12-26 10:37:34 +0000",
     "user" : {
-      "name" : "\u30B8\u30E3\u30D0\u30B9\u30AF\u30A8\u30F3\u30B8\u30CB\u30A2",
+      "name" : "\u3059\u3089\u3044\u3080",
       "screen_name" : "horimislime",
       "protected" : false,
       "id_str" : "17899009",
@@ -2847,7 +2847,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u4E8C\u4EE3\u76EE\u559C\u591A\u5DDD\u4E07\u592A\u90CE",
+      "name" : "\u4E8C\u4EE3\u76EE\u559C\u591A\u5DDD\u4E07\u592A\u90CE (CV:\u7D50\u57CE\u6BD4\u5442)",
       "screen_name" : "120reset",
       "indices" : [ 0, 9 ],
       "id_str" : "17675079",
@@ -3281,7 +3281,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "igaiga",
+      "name" : "\u3044\u304C\u3044\u304C \u6280\u8853\u66F8\u5178\u304604Rails\u6559\u79D1\u66F8",
       "screen_name" : "igaiga555",
       "indices" : [ 3, 13 ],
       "id_str" : "4596601",
@@ -3308,7 +3308,7 @@ Grailbird.data.tweets_2012_12 =
     "id" : 281913571275837440,
     "created_at" : "2012-12-21 00:06:47 +0000",
     "user" : {
-      "name" : "igaiga",
+      "name" : "\u3044\u304C\u3044\u304C \u6280\u8853\u66F8\u5178\u304604Rails\u6559\u79D1\u66F8",
       "screen_name" : "igaiga555",
       "protected" : false,
       "id_str" : "4596601",

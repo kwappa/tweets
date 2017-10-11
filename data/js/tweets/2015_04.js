@@ -2077,7 +2077,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "tanaka51(70.70)",
+      "name" : "tanaka51(71.40)",
       "screen_name" : "tanaka51",
       "indices" : [ 3, 12 ],
       "id_str" : "81307149",
@@ -2104,7 +2104,7 @@ Grailbird.data.tweets_2015_04 =
     "id" : 589705399323889664,
     "created_at" : "2015-04-19 08:21:38 +0000",
     "user" : {
-      "name" : "tanaka51(72.10)",
+      "name" : "tanaka51(71.40)",
       "screen_name" : "tanaka51",
       "protected" : false,
       "id_str" : "81307149",
@@ -2743,7 +2743,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "SBU",
+      "name" : "eiryu",
       "screen_name" : "eiryu",
       "indices" : [ 0, 6 ],
       "id_str" : "15780142",

@@ -91,7 +91,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3075\u306A\u3057\u30FC@TL\u898B\u3066\u306A\u3044@\u79CB\uFF83\uFF68\uFF71\u53C2\u52A0",
+      "name" : "\u3075\u306A\u3057\u30FC@\u79CB\uFF83\uFF68\uFF71\u53C2\u52A0",
       "screen_name" : "funashii",
       "indices" : [ 0, 9 ],
       "id_str" : "309454720",

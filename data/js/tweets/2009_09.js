@@ -3914,7 +3914,7 @@ Grailbird.data.tweets_2009_09 =
       "id_str" : "4571551",
       "id" : 4571551
     }, {
-      "name" : "LIND \u25CE",
+      "name" : "LIND",
       "screen_name" : "LIND",
       "indices" : [ 20, 25 ],
       "id_str" : "3702251",
@@ -4103,7 +4103,7 @@ Grailbird.data.tweets_2009_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "LIND \u25CE",
+      "name" : "LIND",
       "screen_name" : "LIND",
       "indices" : [ 0, 5 ],
       "id_str" : "3702251",
@@ -5456,7 +5456,7 @@ Grailbird.data.tweets_2009_09 =
       "id_str" : "42180481",
       "id" : 42180481
     }, {
-      "name" : "\u75E9\u305B\u308B\uD83C\uDF54",
+      "name" : "\u30E9\u30FC\u30E1\u30F3\u7981\u98DF",
       "screen_name" : "smokeymonkey",
       "indices" : [ 57, 70 ],
       "id_str" : "5217451",
@@ -10161,7 +10161,7 @@ Grailbird.data.tweets_2009_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3084\u3059\u3086\u304D@\u30D9\u30D3\u30E1\u30BF\u30D5\u30A1\u30F3\uFF06\u3055\u304F\u3089\u5B66\u9662\u7236\u5144",
+      "name" : "\u3084\u3059\u3086\u304D@\u3055\u304F\u3089\u5B66\u9662\u5B66\u9662\u796D11\/19\u53C2\u89B3",
       "screen_name" : "yasuyukima",
       "indices" : [ 0, 11 ],
       "id_str" : "4469481",
@@ -10602,7 +10602,7 @@ Grailbird.data.tweets_2009_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3084\u3059\u3086\u304D@\u30D9\u30D3\u30E1\u30BF\u30D5\u30A1\u30F3\uFF06\u3055\u304F\u3089\u5B66\u9662\u7236\u5144",
+      "name" : "\u3084\u3059\u3086\u304D@\u3055\u304F\u3089\u5B66\u9662\u5B66\u9662\u796D11\/19\u53C2\u89B3",
       "screen_name" : "yasuyukima",
       "indices" : [ 0, 11 ],
       "id_str" : "4469481",
@@ -11905,7 +11905,7 @@ Grailbird.data.tweets_2009_09 =
       "id_str" : "3989301",
       "id" : 3989301
     }, {
-      "name" : "\u75E9\u305B\u308B\uD83C\uDF54",
+      "name" : "\u30E9\u30FC\u30E1\u30F3\u7981\u98DF",
       "screen_name" : "smokeymonkey",
       "indices" : [ 19, 32 ],
       "id_str" : "5217451",
@@ -11917,7 +11917,7 @@ Grailbird.data.tweets_2009_09 =
       "id_str" : "3749911",
       "id" : 3749911
     }, {
-      "name" : "\u30B3\u30B0\u30EC\u30DE\u30B5\u30C8\uD83C\uDF7A\uD83E\uDD43\uD83C\uDF77\uD83E\uDD51\uD83D\uDC11",
+      "name" : "\u30DE\u30B5\u30C8\u30FB\u30B3\u30B0\u30EC\uD83C\uDF7A\uD83E\uDD43\uD83C\uDF77\uD83E\uDD51\uD83D\uDC11",
       "screen_name" : "kogure",
       "indices" : [ 62, 69 ],
       "id_str" : "2067291",
@@ -12248,7 +12248,7 @@ Grailbird.data.tweets_2009_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3084\u3059\u3086\u304D@\u30D9\u30D3\u30E1\u30BF\u30D5\u30A1\u30F3\uFF06\u3055\u304F\u3089\u5B66\u9662\u7236\u5144",
+      "name" : "\u3084\u3059\u3086\u304D@\u3055\u304F\u3089\u5B66\u9662\u5B66\u9662\u796D11\/19\u53C2\u89B3",
       "screen_name" : "yasuyukima",
       "indices" : [ 14, 25 ],
       "id_str" : "4469481",
@@ -16460,7 +16460,7 @@ Grailbird.data.tweets_2009_09 =
       "id_str" : "200332587",
       "id" : 200332587
     }, {
-      "name" : "\u3084\u3059\u3086\u304D@\u30D9\u30D3\u30E1\u30BF\u30D5\u30A1\u30F3\uFF06\u3055\u304F\u3089\u5B66\u9662\u7236\u5144",
+      "name" : "\u3084\u3059\u3086\u304D@\u3055\u304F\u3089\u5B66\u9662\u5B66\u9662\u796D11\/19\u53C2\u89B3",
       "screen_name" : "yasuyukima",
       "indices" : [ 74, 85 ],
       "id_str" : "4469481",
@@ -16709,7 +16709,7 @@ Grailbird.data.tweets_2009_09 =
       "id_str" : "778959676025167872",
       "id" : 778959676025167872
     }, {
-      "name" : "\u3084\u3059\u3086\u304D@\u30D9\u30D3\u30E1\u30BF\u30D5\u30A1\u30F3\uFF06\u3055\u304F\u3089\u5B66\u9662\u7236\u5144",
+      "name" : "\u3084\u3059\u3086\u304D@\u3055\u304F\u3089\u5B66\u9662\u5B66\u9662\u796D11\/19\u53C2\u89B3",
       "screen_name" : "yasuyukima",
       "indices" : [ 29, 40 ],
       "id_str" : "4469481",
@@ -18162,7 +18162,7 @@ Grailbird.data.tweets_2009_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3084\u3059\u3086\u304D@\u30D9\u30D3\u30E1\u30BF\u30D5\u30A1\u30F3\uFF06\u3055\u304F\u3089\u5B66\u9662\u7236\u5144",
+      "name" : "\u3084\u3059\u3086\u304D@\u3055\u304F\u3089\u5B66\u9662\u5B66\u9662\u796D11\/19\u53C2\u89B3",
       "screen_name" : "yasuyukima",
       "indices" : [ 0, 11 ],
       "id_str" : "4469481",
@@ -18195,7 +18195,7 @@ Grailbird.data.tweets_2009_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3084\u3059\u3086\u304D@\u30D9\u30D3\u30E1\u30BF\u30D5\u30A1\u30F3\uFF06\u3055\u304F\u3089\u5B66\u9662\u7236\u5144",
+      "name" : "\u3084\u3059\u3086\u304D@\u3055\u304F\u3089\u5B66\u9662\u5B66\u9662\u796D11\/19\u53C2\u89B3",
       "screen_name" : "yasuyukima",
       "indices" : [ 0, 11 ],
       "id_str" : "4469481",
@@ -18531,7 +18531,7 @@ Grailbird.data.tweets_2009_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "igaiga",
+      "name" : "\u3044\u304C\u3044\u304C \u6280\u8853\u66F8\u5178\u304604Rails\u6559\u79D1\u66F8",
       "screen_name" : "igaiga555",
       "indices" : [ 0, 10 ],
       "id_str" : "4596601",
@@ -20918,7 +20918,7 @@ Grailbird.data.tweets_2009_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u304D\u3089\u3089@\u6A2A\u6D5C\u30DE\u30E9\u30BD\u30F3\u8FC430\u65E5",
+      "name" : "\u304D\u3089\u3089@\u6A2A\u6D5C\u30DE\u30E9\u30BD\u30F3\u8FC418\u65E5",
       "screen_name" : "kirara_397",
       "indices" : [ 0, 11 ],
       "id_str" : "16978219",

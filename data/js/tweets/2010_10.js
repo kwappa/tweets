@@ -11483,7 +11483,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/yellowcheer.appspot.com\" rel=\"nofollow\"\u003EYellowCheer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30C1\u30A7\u30EC\u5C71",
+      "name" : "\u661F\u91CE\u30C1\u30A7\u30EC",
       "screen_name" : "cherenkov",
       "indices" : [ 0, 10 ],
       "id_str" : "16806416",
@@ -13286,7 +13286,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/sites.google.com\/site\/yorufukurou\/\" rel=\"nofollow\"\u003EYoruFukurou\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "chikayoshi BAN",
+      "name" : "\u53E4\u5C4B\u654F\u9053",
       "screen_name" : "ymrl",
       "indices" : [ 3, 8 ],
       "id_str" : "5742082",
@@ -13319,7 +13319,7 @@ Grailbird.data.tweets_2010_10 =
     "id" : 27522109544,
     "created_at" : "2010-10-16 07:49:58 +0000",
     "user" : {
-      "name" : "chikayoshi BAN",
+      "name" : "\u53E4\u5C4B\u654F\u9053",
       "screen_name" : "ymrl",
       "protected" : false,
       "id_str" : "5742082",
@@ -13942,7 +13942,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/yellowcheer.appspot.com\" rel=\"nofollow\"\u003EYellowCheer\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "chikayoshi BAN",
+      "name" : "\u53E4\u5C4B\u654F\u9053",
       "screen_name" : "ymrl",
       "indices" : [ 0, 5 ],
       "id_str" : "5742082",
@@ -16324,7 +16324,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/motionobj.com\/simplytweet\" rel=\"nofollow\"\u003ESimplyTweet\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "10\u500D\u3060\u305E10\u500D",
+      "name" : "\u30C6\u30B9\u30E9\u6B32\u3057\u3044",
       "screen_name" : "fd0",
       "indices" : [ 0, 4 ],
       "id_str" : "13089332",
@@ -23657,7 +23657,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/motionobj.com\/simplytweet\" rel=\"nofollow\"\u003ESimplyTweet\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3084\u3059\u3086\u304D@\u30D9\u30D3\u30E1\u30BF\u30D5\u30A1\u30F3\uFF06\u3055\u304F\u3089\u5B66\u9662\u7236\u5144",
+      "name" : "\u3084\u3059\u3086\u304D@\u3055\u304F\u3089\u5B66\u9662\u5B66\u9662\u796D11\/19\u53C2\u89B3",
       "screen_name" : "yasuyukima",
       "indices" : [ 0, 11 ],
       "id_str" : "4469481",
