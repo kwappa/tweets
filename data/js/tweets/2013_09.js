@@ -285,7 +285,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDC64",
+      "name" : "(^^)",
       "screen_name" : "miyucy",
       "indices" : [ 0, 7 ],
       "id_str" : "18154852",
@@ -2075,17 +2075,17 @@ Grailbird.data.tweets_2013_09 =
         "resize" : "fit",
         "w" : 396
       }, {
+        "h" : 238,
+        "resize" : "fit",
+        "w" : 396
+      }, {
+        "h" : 238,
+        "resize" : "fit",
+        "w" : 396
+      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
-      }, {
-        "h" : 238,
-        "resize" : "fit",
-        "w" : 396
-      }, {
-        "h" : 238,
-        "resize" : "fit",
-        "w" : 396
       } ],
       "display_url" : "pic.twitter.com\/1ZWKnaEgHw"
     } ],
@@ -4996,7 +4996,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDC64",
+      "name" : "(^^)",
       "screen_name" : "miyucy",
       "indices" : [ 0, 7 ],
       "id_str" : "18154852",

@@ -1867,13 +1867,13 @@ Grailbird.data.tweets_2016_06 =
           "resize" : "fit",
           "w" : 397
         }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
           "h" : 564,
           "resize" : "fit",
           "w" : 397
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
         }, {
           "h" : 564,
           "resize" : "fit",
@@ -3417,7 +3417,7 @@ Grailbird.data.tweets_2016_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3042\u3060\u540D\u304C\u30EA\u30FC\u30C0\u30FC",
+      "name" : "\u3058\u3063\u304F\u308A\u30B3\u30C8\u30B3\u30C8\u716E\u8FBC\u3093\u3060\u30EA\u30FC\u30C0\u30FC",
       "screen_name" : "iara",
       "indices" : [ 3, 8 ],
       "id_str" : "10235322",
@@ -3454,7 +3454,7 @@ Grailbird.data.tweets_2016_06 =
     "id" : 740713623740252160,
     "created_at" : "2016-06-09 01:14:24 +0000",
     "user" : {
-      "name" : "\u3042\u3060\u540D\u304C\u30EA\u30FC\u30C0\u30FC",
+      "name" : "\u3058\u3063\u304F\u308A\u30B3\u30C8\u30B3\u30C8\u716E\u8FBC\u3093\u3060\u30EA\u30FC\u30C0\u30FC",
       "screen_name" : "iara",
       "protected" : false,
       "id_str" : "10235322",

@@ -773,7 +773,7 @@ Grailbird.data.tweets_2016_10 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Hiroyuki Yamaoka \uD83D\uDC30",
+      "name" : "\u5C71\u5CA1\u5E83\u5E78 | Hiroyuki Yamaoka \uD83D\uDC30",
       "screen_name" : "hiro_y",
       "indices" : [ 3, 10 ],
       "id_str" : "3628001",
@@ -800,11 +800,11 @@ Grailbird.data.tweets_2016_10 =
     "id" : 790946289970098176,
     "created_at" : "2016-10-25 16:01:05 +0000",
     "user" : {
-      "name" : "Hiroyuki Yamaoka \uD83D\uDC30",
+      "name" : "\u5C71\u5CA1\u5E83\u5E78 | Hiroyuki Yamaoka \uD83D\uDC30",
       "screen_name" : "hiro_y",
       "protected" : false,
       "id_str" : "3628001",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/852025825289314304\/PZB8raXK_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/945294397452705793\/dUyZ9MJm_normal.jpg",
       "id" : 3628001,
       "verified" : false
     }
@@ -3823,21 +3823,21 @@ Grailbird.data.tweets_2016_10 =
       "id" : 781879894728777728,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CtnLnyZUIAAdgAy.jpg",
       "sizes" : [ {
-        "h" : 623,
-        "resize" : "fit",
-        "w" : 728
-      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
       }, {
+        "h" : 582,
+        "resize" : "fit",
+        "w" : 680
+      }, {
         "h" : 623,
         "resize" : "fit",
         "w" : 728
       }, {
-        "h" : 582,
+        "h" : 623,
         "resize" : "fit",
-        "w" : 680
+        "w" : 728
       }, {
         "h" : 623,
         "resize" : "fit",

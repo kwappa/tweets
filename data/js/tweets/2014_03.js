@@ -3151,21 +3151,21 @@ Grailbird.data.tweets_2014_03 =
       "id" : 447555895874957312,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BjYJt07CMAAdxum.jpg",
       "sizes" : [ {
+        "h" : 400,
+        "resize" : "fit",
+        "w" : 876
+      }, {
+        "h" : 400,
+        "resize" : "fit",
+        "w" : 876
+      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
       }, {
-        "h" : 400,
-        "resize" : "fit",
-        "w" : 876
-      }, {
         "h" : 311,
         "resize" : "fit",
         "w" : 680
-      }, {
-        "h" : 400,
-        "resize" : "fit",
-        "w" : 876
       }, {
         "h" : 400,
         "resize" : "fit",
@@ -3619,7 +3619,7 @@ Grailbird.data.tweets_2014_03 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3066\u3043\u3070\u306F\u5A18\u5358\u63A8\u3057",
+      "name" : "\u30DB\u30FC\u30E0\u30B7\u30C3\u30AF\u306A\u3066\u3043\u3070",
       "screen_name" : "rechiba3",
       "indices" : [ 0, 9 ],
       "id_str" : "43306194",
@@ -3761,7 +3761,7 @@ Grailbird.data.tweets_2014_03 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "r7kamura",
+      "name" : "\u4EAC\u90FD\u6C34\u65CF\u9928",
       "screen_name" : "r7kamura",
       "indices" : [ 3, 12 ],
       "id_str" : "405374281",
@@ -3788,7 +3788,7 @@ Grailbird.data.tweets_2014_03 =
     "id" : 446323539289718784,
     "created_at" : "2014-03-19 16:33:18 +0000",
     "user" : {
-      "name" : "r7kamura",
+      "name" : "\u4EAC\u90FD\u6C34\u65CF\u9928",
       "screen_name" : "r7kamura",
       "protected" : false,
       "id_str" : "405374281",
@@ -5232,7 +5232,7 @@ Grailbird.data.tweets_2014_03 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u306E\u308D\u304F",
+      "name" : "\uD83D\uDD25\u77F3\u6CB9\u30B9\u30C8\u30FC\u30D6\uD83D\uDD25",
       "screen_name" : "No6",
       "indices" : [ 3, 7 ],
       "id_str" : "5533072",
@@ -5259,7 +5259,7 @@ Grailbird.data.tweets_2014_03 =
     "id" : 444357147246088192,
     "created_at" : "2014-03-14 06:19:34 +0000",
     "user" : {
-      "name" : "\u306E\u308D\u304F",
+      "name" : "\uD83D\uDD25\u77F3\u6CB9\u30B9\u30C8\u30FC\u30D6\uD83D\uDD25",
       "screen_name" : "No6",
       "protected" : false,
       "id_str" : "5533072",
@@ -6025,21 +6025,21 @@ Grailbird.data.tweets_2014_03 =
       "id" : 443343206747754496,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BicSTC_IUAA1KCq.jpg",
       "sizes" : [ {
+        "h" : 400,
+        "resize" : "fit",
+        "w" : 876
+      }, {
+        "h" : 400,
+        "resize" : "fit",
+        "w" : 876
+      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
       }, {
-        "h" : 400,
-        "resize" : "fit",
-        "w" : 876
-      }, {
         "h" : 311,
         "resize" : "fit",
         "w" : 680
-      }, {
-        "h" : 400,
-        "resize" : "fit",
-        "w" : 876
       }, {
         "h" : 400,
         "resize" : "fit",
@@ -6448,7 +6448,7 @@ Grailbird.data.tweets_2014_03 =
       "screen_name" : "tatsu_zine",
       "protected" : false,
       "id_str" : "94234704",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3510139609\/98576f64f8e3926b4c75c36663473c35_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/934961233291182080\/WQ753aKH_normal.jpg",
       "id" : 94234704,
       "verified" : false
     }
@@ -8199,17 +8199,17 @@ Grailbird.data.tweets_2014_03 =
       "id" : 439767206532874241,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Bhpd8cFCAAEL6Qm.jpg",
       "sizes" : [ {
-        "h" : 311,
-        "resize" : "fit",
-        "w" : 680
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
       }, {
         "h" : 400,
         "resize" : "fit",
         "w" : 876
       }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
+        "h" : 311,
+        "resize" : "fit",
+        "w" : 680
       }, {
         "h" : 400,
         "resize" : "fit",

@@ -880,7 +880,7 @@ Grailbird.data.tweets_2012_03 =
       "id_str" : "5161091",
       "id" : 5161091
     }, {
-      "name" : "\u3044\u304C\u3044\u304C \u6280\u8853\u66F8\u5178\u304604Rails\u6559\u79D1\u66F8",
+      "name" : "igaiga",
       "screen_name" : "igaiga555",
       "indices" : [ 8, 18 ],
       "id_str" : "4596601",
@@ -1001,7 +1001,7 @@ Grailbird.data.tweets_2012_03 =
   "source" : "\u003Ca href=\"http:\/\/www.hatena.ne.jp\/guide\/twitter\" rel=\"nofollow\"\u003EHatena\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "chris anthony dauzat",
+      "name" : "chrisss\uD83D\uDC4C",
       "screen_name" : "it",
       "indices" : [ 34, 37 ],
       "id_str" : "243850444",
@@ -1977,7 +1977,7 @@ Grailbird.data.tweets_2012_03 =
     "user" : {
       "name" : "\u3053\u3071\u306B\u3063\u3064\u3041",
       "screen_name" : "kopanitsa",
-      "protected" : true,
+      "protected" : false,
       "id_str" : "138281920",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/859241360\/3813102_1363865287_normal.jpg",
       "id" : 138281920,
@@ -2854,7 +2854,7 @@ Grailbird.data.tweets_2012_03 =
       "id_str" : "72931235",
       "id" : 72931235
     }, {
-      "name" : "1007\u756A\u76EE\u306E\u30B8\u30E7\u30FC\u30AB\u30FC",
+      "name" : "\u30B8\u30E7\u30FC\u30AB\u30FC 1007",
       "screen_name" : "joker1007",
       "indices" : [ 48, 58 ],
       "id_str" : "6592592",
@@ -4615,7 +4615,7 @@ Grailbird.data.tweets_2012_03 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30B3\u30A6\u30CE\uFF2010\/14\u4E00\u6761\u767E\u9B3C\u591C\u884C",
+      "name" : "\u30B3\u30A6\u30CE\uFF20\u4EAC\u90FD\u306E\u5996\u602A\u306E\u4EBA",
       "screen_name" : "kouno0521",
       "indices" : [ 3, 13 ],
       "id_str" : "201291586",
@@ -4642,7 +4642,7 @@ Grailbird.data.tweets_2012_03 =
     "id" : 182400197593268225,
     "created_at" : "2012-03-21 09:36:10 +0000",
     "user" : {
-      "name" : "\u30B3\u30A6\u30CE\uFF2010\/14\u4E00\u6761\u767E\u9B3C\u591C\u884C",
+      "name" : "\u30B3\u30A6\u30CE\uFF20\u4EAC\u90FD\u306E\u5996\u602A\u306E\u4EBA",
       "screen_name" : "kouno0521",
       "protected" : false,
       "id_str" : "201291586",
@@ -5038,7 +5038,7 @@ Grailbird.data.tweets_2012_03 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3088\u3046@ \u6280\u8853\u66F8\u51783(\u304605)",
+      "name" : "\u3088\u3046",
       "screen_name" : "youchan",
       "indices" : [ 3, 11 ],
       "id_str" : "16497395",
@@ -5065,7 +5065,7 @@ Grailbird.data.tweets_2012_03 =
     "id" : 182128621090123778,
     "created_at" : "2012-03-20 15:37:01 +0000",
     "user" : {
-      "name" : "\u3088\u3046@ \u6280\u8853\u66F8\u51783(\u304605)",
+      "name" : "\u3088\u3046",
       "screen_name" : "youchan",
       "protected" : false,
       "id_str" : "16497395",
@@ -7719,7 +7719,7 @@ Grailbird.data.tweets_2012_03 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "null",
+      "name" : "( \u000B \u000E\u000F \u2000\u2001\u2002\u2003\u2004\u2005\u2006\u2007\u2008\u2009\u200A\u200B\u200C\u200D\u200E\u200F\u3000null)",
       "screen_name" : "yuroyoro",
       "indices" : [ 3, 12 ],
       "id_str" : "6310812",
@@ -7746,7 +7746,7 @@ Grailbird.data.tweets_2012_03 =
     "id" : 180087421403271168,
     "created_at" : "2012-03-15 00:26:01 +0000",
     "user" : {
-      "name" : "null",
+      "name" : "( \u000B \u000E\u000F \u2000\u2001\u2002\u2003\u2004\u2005\u2006\u2007\u2008\u2009\u200A\u200B\u200C\u200D\u200E\u200F\u3000null)",
       "screen_name" : "yuroyoro",
       "protected" : false,
       "id_str" : "6310812",
@@ -10648,7 +10648,7 @@ Grailbird.data.tweets_2012_03 =
   "source" : "\u003Ca href=\"http:\/\/sites.google.com\/site\/yorufukurou\/\" rel=\"nofollow\"\u003EYoruFukurou\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3044\u304C\u3044\u304C \u6280\u8853\u66F8\u5178\u304604Rails\u6559\u79D1\u66F8",
+      "name" : "igaiga",
       "screen_name" : "igaiga555",
       "indices" : [ 0, 10 ],
       "id_str" : "4596601",
@@ -10703,7 +10703,7 @@ Grailbird.data.tweets_2012_03 =
   "source" : "\u003Ca href=\"http:\/\/sites.google.com\/site\/yorufukurou\/\" rel=\"nofollow\"\u003EYoruFukurou\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3044\u304C\u3044\u304C \u6280\u8853\u66F8\u5178\u304604Rails\u6559\u79D1\u66F8",
+      "name" : "igaiga",
       "screen_name" : "igaiga555",
       "indices" : [ 0, 10 ],
       "id_str" : "4596601",
@@ -10780,7 +10780,7 @@ Grailbird.data.tweets_2012_03 =
   "source" : "\u003Ca href=\"http:\/\/sites.google.com\/site\/yorufukurou\/\" rel=\"nofollow\"\u003EYoruFukurou\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3044\u304C\u3044\u304C \u6280\u8853\u66F8\u5178\u304604Rails\u6559\u79D1\u66F8",
+      "name" : "igaiga",
       "screen_name" : "igaiga555",
       "indices" : [ 0, 10 ],
       "id_str" : "4596601",
@@ -11320,7 +11320,7 @@ Grailbird.data.tweets_2012_03 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDC64",
+      "name" : "\uD83C\uDF35",
       "screen_name" : "miyucy",
       "indices" : [ 0, 7 ],
       "id_str" : "18154852",
@@ -13257,7 +13257,7 @@ Grailbird.data.tweets_2012_03 =
   "source" : "\u003Ca href=\"http:\/\/sites.google.com\/site\/yorufukurou\/\" rel=\"nofollow\"\u003EYoruFukurou\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u305B\u304D\u3084\u3059\u3072\u3055\uFF20M3 M-02b",
+      "name" : "\u305B\u304D\u3084\u3059\u3072\u3055\uFF20C93\u843D\u9078",
       "screen_name" : "office_acer",
       "indices" : [ 0, 12 ],
       "id_str" : "101812086",

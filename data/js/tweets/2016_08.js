@@ -2707,7 +2707,7 @@ Grailbird.data.tweets_2016_08 =
   "source" : "\u003Ca href=\"http:\/\/www.hatena.ne.jp\/guide\/twitter\" rel=\"nofollow\"\u003EHatena\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "chris anthony dauzat",
+      "name" : "chrisss\uD83D\uDC4C",
       "screen_name" : "it",
       "indices" : [ 87, 90 ],
       "id_str" : "243850444",
@@ -3339,7 +3339,7 @@ Grailbird.data.tweets_2016_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3057\u3087\u3053@10\/17\uD83C\uDF82",
+      "name" : "\u3057\u3087\u3053@\u5C31\u8077\u6D3B\u52D5\u4E2D",
       "screen_name" : "okoysm",
       "indices" : [ 0, 7 ],
       "id_str" : "758356490",

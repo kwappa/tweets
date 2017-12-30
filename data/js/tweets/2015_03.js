@@ -1341,7 +1341,7 @@ Grailbird.data.tweets_2015_03 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30B8\u30A7\u30C3\u30C8\u30E9\u30B0\u3067\u30DD\u30F3\u30B3\u30C4\u306B\u306A\u3063\u305F",
+      "name" : "\u51AC\u4F11\u307F",
       "screen_name" : "makimoto",
       "indices" : [ 0, 9 ],
       "id_str" : "5787652",
@@ -1374,7 +1374,7 @@ Grailbird.data.tweets_2015_03 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30B8\u30A7\u30C3\u30C8\u30E9\u30B0\u3067\u30DD\u30F3\u30B3\u30C4\u306B\u306A\u3063\u305F",
+      "name" : "\u51AC\u4F11\u307F",
       "screen_name" : "makimoto",
       "indices" : [ 0, 9 ],
       "id_str" : "5787652",
@@ -1407,7 +1407,7 @@ Grailbird.data.tweets_2015_03 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30B8\u30A7\u30C3\u30C8\u30E9\u30B0\u3067\u30DD\u30F3\u30B3\u30C4\u306B\u306A\u3063\u305F",
+      "name" : "\u51AC\u4F11\u307F",
       "screen_name" : "makimoto",
       "indices" : [ 0, 9 ],
       "id_str" : "5787652",
@@ -1440,7 +1440,7 @@ Grailbird.data.tweets_2015_03 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30B8\u30A7\u30C3\u30C8\u30E9\u30B0\u3067\u30DD\u30F3\u30B3\u30C4\u306B\u306A\u3063\u305F",
+      "name" : "\u51AC\u4F11\u307F",
       "screen_name" : "makimoto",
       "indices" : [ 0, 9 ],
       "id_str" : "5787652",
@@ -3199,7 +3199,7 @@ Grailbird.data.tweets_2015_03 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDC86",
+      "name" : "\uD83D\uDC76",
       "screen_name" : "negipo",
       "indices" : [ 3, 10 ],
       "id_str" : "5632552",
@@ -3226,7 +3226,7 @@ Grailbird.data.tweets_2015_03 =
     "id" : 578552534735962112,
     "created_at" : "2015-03-19 13:44:07 +0000",
     "user" : {
-      "name" : "\uD83D\uDC86",
+      "name" : "\uD83D\uDC76",
       "screen_name" : "negipo",
       "protected" : false,
       "id_str" : "5632552",
@@ -3561,7 +3561,7 @@ Grailbird.data.tweets_2015_03 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3086\u30FC\u3058\u3093",
+      "name" : "\u3086\u30FC\u3058\u3093\u2606",
       "screen_name" : "EugeneK",
       "indices" : [ 0, 8 ],
       "id_str" : "14866139",
@@ -5930,7 +5930,7 @@ Grailbird.data.tweets_2015_03 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u5FA9\u6D3B",
+      "name" : "[x] \u79C1\u306F\u30ED\u30DC\u30C3\u30C8\u3067\u306F\u3042\u308A\u307E\u305B\u3093",
       "screen_name" : "mizchi",
       "indices" : [ 0, 7 ],
       "id_str" : "14407731",
@@ -5963,7 +5963,7 @@ Grailbird.data.tweets_2015_03 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u5FA9\u6D3B",
+      "name" : "[x] \u79C1\u306F\u30ED\u30DC\u30C3\u30C8\u3067\u306F\u3042\u308A\u307E\u305B\u3093",
       "screen_name" : "mizchi",
       "indices" : [ 0, 7 ],
       "id_str" : "14407731",
@@ -6147,17 +6147,17 @@ Grailbird.data.tweets_2015_03 =
         "id" : 573679521901060097,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/B_YefFXUIAEHZlX.jpg",
         "sizes" : [ {
-          "h" : 402,
-          "resize" : "fit",
-          "w" : 600
-        }, {
-          "h" : 402,
-          "resize" : "fit",
-          "w" : 600
-        }, {
           "h" : 150,
           "resize" : "crop",
           "w" : 150
+        }, {
+          "h" : 402,
+          "resize" : "fit",
+          "w" : 600
+        }, {
+          "h" : 402,
+          "resize" : "fit",
+          "w" : 600
         }, {
           "h" : 402,
           "resize" : "fit",

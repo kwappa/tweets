@@ -4067,7 +4067,7 @@ Grailbird.data.tweets_2013_12 =
       "screen_name" : "cookpad_pr",
       "protected" : false,
       "id_str" : "121365838",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/877454941777838081\/wCGG3lEn_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/943486533318852608\/E5HJTpAE_normal.jpg",
       "id" : 121365838,
       "verified" : true
     }

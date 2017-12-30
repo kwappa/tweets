@@ -4717,7 +4717,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3057\u307E\u3074\u3087\u3093\u3055\u3093\uF8FF\u590F\u6691\u3044\u306E\u3067\u304C\u3093\u3070\u3089\u306A\u3044",
+      "name" : "\u3057\u307E\u3074\u3087\u3093\u3055\u3093\uF8FF\u51AC\u5BD2\u3044\u306E\u3067\u304C\u3093\u3070\u3089\u306A\u3044",
       "screen_name" : "shimacpyon",
       "indices" : [ 0, 11 ],
       "id_str" : "300216832",
@@ -7507,7 +7507,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3066\u3043\u3070\u306F\u5A18\u5358\u63A8\u3057",
+      "name" : "\u30DB\u30FC\u30E0\u30B7\u30C3\u30AF\u306A\u3066\u3043\u3070",
       "screen_name" : "rechiba3",
       "indices" : [ 0, 9 ],
       "id_str" : "43306194",
@@ -7687,7 +7687,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30AB\u30C3\u30B7\u30FC 11\/23@\u3042\u3079\u306E\u30CF\u30EB\u30AB\u30B9",
+      "name" : "\u30AB\u30C3\u30B7\u30FC",
       "screen_name" : "strive",
       "indices" : [ 3, 10 ],
       "id_str" : "5926562",
@@ -7719,7 +7719,7 @@ Grailbird.data.tweets_2015_01 =
     "id" : 553344975476232192,
     "created_at" : "2015-01-09 00:18:17 +0000",
     "user" : {
-      "name" : "\u30AB\u30C3\u30B7\u30FC 11\/23@\u3042\u3079\u306E\u30CF\u30EB\u30AB\u30B9",
+      "name" : "\u30AB\u30C3\u30B7\u30FC",
       "screen_name" : "strive",
       "protected" : false,
       "id_str" : "5926562",
@@ -9332,13 +9332,13 @@ Grailbird.data.tweets_2015_01 =
         "resize" : "fit",
         "w" : 600
       }, {
-        "h" : 624,
-        "resize" : "fit",
-        "w" : 600
-      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
+      }, {
+        "h" : 624,
+        "resize" : "fit",
+        "w" : 600
       }, {
         "h" : 624,
         "resize" : "fit",
@@ -9373,13 +9373,13 @@ Grailbird.data.tweets_2015_01 =
           "resize" : "fit",
           "w" : 600
         }, {
-          "h" : 624,
-          "resize" : "fit",
-          "w" : 600
-        }, {
           "h" : 150,
           "resize" : "crop",
           "w" : 150
+        }, {
+          "h" : 624,
+          "resize" : "fit",
+          "w" : 600
         }, {
           "h" : 624,
           "resize" : "fit",

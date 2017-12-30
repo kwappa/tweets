@@ -646,7 +646,7 @@ Grailbird.data.tweets_2016_11 =
   "source" : "\u003Ca href=\"http:\/\/www.hatena.ne.jp\/guide\/twitter\" rel=\"nofollow\"\u003EHatena\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "chris anthony dauzat",
+      "name" : "chrisss\uD83D\uDC4C",
       "screen_name" : "it",
       "indices" : [ 92, 95 ],
       "id_str" : "243850444",
@@ -1738,7 +1738,7 @@ Grailbird.data.tweets_2016_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "DroidKaigi(Official)",
+      "name" : "DroidKaigi",
       "screen_name" : "DroidKaigi",
       "indices" : [ 3, 14 ],
       "id_str" : "3076352371",
@@ -1775,11 +1775,11 @@ Grailbird.data.tweets_2016_11 =
     "id" : 800504622397825025,
     "created_at" : "2016-11-21 01:02:29 +0000",
     "user" : {
-      "name" : "DroidKaigi(Official)",
+      "name" : "DroidKaigi",
       "screen_name" : "DroidKaigi",
       "protected" : false,
       "id_str" : "3076352371",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/785634412092231680\/s1mQclV2_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/933892121525862400\/jhwf4EGc_normal.jpg",
       "id" : 3076352371,
       "verified" : false
     }
@@ -1835,6 +1835,10 @@ Grailbird.data.tweets_2016_11 =
       "id" : 800328466037997568,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CxtWf-HUAAAg5lz.jpg",
       "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
         "h" : 1044,
         "resize" : "fit",
         "w" : 1600
@@ -1846,10 +1850,6 @@ Grailbird.data.tweets_2016_11 =
         "h" : 444,
         "resize" : "fit",
         "w" : 680
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
       }, {
         "h" : 783,
         "resize" : "fit",

@@ -668,10 +668,6 @@ Grailbird.data.tweets_2017_06 =
         "resize" : "fit",
         "w" : 510
       }, {
-        "h" : 2048,
-        "resize" : "fit",
-        "w" : 1536
-      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
@@ -679,6 +675,10 @@ Grailbird.data.tweets_2017_06 =
         "h" : 1200,
         "resize" : "fit",
         "w" : 900
+      }, {
+        "h" : 2048,
+        "resize" : "fit",
+        "w" : 1536
       }, {
         "h" : 4032,
         "resize" : "fit",
@@ -709,10 +709,6 @@ Grailbird.data.tweets_2017_06 =
           "resize" : "fit",
           "w" : 510
         }, {
-          "h" : 2048,
-          "resize" : "fit",
-          "w" : 1536
-        }, {
           "h" : 150,
           "resize" : "crop",
           "w" : 150
@@ -720,6 +716,10 @@ Grailbird.data.tweets_2017_06 =
           "h" : 1200,
           "resize" : "fit",
           "w" : 900
+        }, {
+          "h" : 2048,
+          "resize" : "fit",
+          "w" : 1536
         }, {
           "h" : 4032,
           "resize" : "fit",
@@ -841,7 +841,7 @@ Grailbird.data.tweets_2017_06 =
   "source" : "\u003Ca href=\"http:\/\/www.hatena.ne.jp\/guide\/twitter\" rel=\"nofollow\"\u003EHatena\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "chris anthony dauzat",
+      "name" : "chrisss\uD83D\uDC4C",
       "screen_name" : "it",
       "indices" : [ 69, 72 ],
       "id_str" : "243850444",
@@ -988,7 +988,7 @@ Grailbird.data.tweets_2017_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30C9\u30E9\u30B4\u30F3\u753B\u5ECA\u30FB\u30EA\u30FC",
+      "name" : "\u30C9\u30E9\u30B4\u30F3\u753B\u5ECA\u30FB\u30EA\u30FC 30\u65E5\u67716\u30C615a",
       "screen_name" : "dragongarowLEE",
       "indices" : [ 3, 18 ],
       "id_str" : "1487310253",
@@ -1003,13 +1003,17 @@ Grailbird.data.tweets_2017_06 =
       "id" : 876107200678182915,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DCiO23GVwAM1euP.jpg",
       "sizes" : [ {
+        "h" : 1440,
+        "resize" : "fit",
+        "w" : 2048
+      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
       }, {
-        "h" : 1440,
+        "h" : 844,
         "resize" : "fit",
-        "w" : 2048
+        "w" : 1200
       }, {
         "h" : 1440,
         "resize" : "fit",
@@ -1018,10 +1022,6 @@ Grailbird.data.tweets_2017_06 =
         "h" : 478,
         "resize" : "fit",
         "w" : 680
-      }, {
-        "h" : 844,
-        "resize" : "fit",
-        "w" : 1200
       } ],
       "display_url" : "pic.twitter.com\/d9zGlaxxr9"
     } ],
@@ -1044,13 +1044,17 @@ Grailbird.data.tweets_2017_06 =
         "id" : 876107200678182915,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DCiO23GVwAM1euP.jpg",
         "sizes" : [ {
+          "h" : 1440,
+          "resize" : "fit",
+          "w" : 2048
+        }, {
           "h" : 150,
           "resize" : "crop",
           "w" : 150
         }, {
-          "h" : 1440,
+          "h" : 844,
           "resize" : "fit",
-          "w" : 2048
+          "w" : 1200
         }, {
           "h" : 1440,
           "resize" : "fit",
@@ -1059,10 +1063,6 @@ Grailbird.data.tweets_2017_06 =
           "h" : 478,
           "resize" : "fit",
           "w" : 680
-        }, {
-          "h" : 844,
-          "resize" : "fit",
-          "w" : 1200
         } ],
         "display_url" : "pic.twitter.com\/d9zGlaxxr9"
       } ],
@@ -1075,7 +1075,7 @@ Grailbird.data.tweets_2017_06 =
     "id" : 876107221356093441,
     "created_at" : "2017-06-17 16:00:13 +0000",
     "user" : {
-      "name" : "\u30C9\u30E9\u30B4\u30F3\u753B\u5ECA\u30FB\u30EA\u30FC",
+      "name" : "\u30C9\u30E9\u30B4\u30F3\u753B\u5ECA\u30FB\u30EA\u30FC 30\u65E5\u67716\u30C615a",
       "screen_name" : "dragongarowLEE",
       "protected" : false,
       "id_str" : "1487310253",
@@ -1603,7 +1603,7 @@ Grailbird.data.tweets_2017_06 =
       "screen_name" : "chiecco009",
       "protected" : false,
       "id_str" : "6803402",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/828902935920730112\/__OnhAoc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931913550028611586\/U8Wxh9rS_normal.jpg",
       "id" : 6803402,
       "verified" : false
     }

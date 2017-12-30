@@ -405,6 +405,10 @@ Grailbird.data.tweets_2013_07 =
         "resize" : "fit",
         "w" : 496
       }, {
+        "h" : 680,
+        "resize" : "fit",
+        "w" : 412
+      }, {
         "h" : 818,
         "resize" : "fit",
         "w" : 496
@@ -412,10 +416,6 @@ Grailbird.data.tweets_2013_07 =
         "h" : 150,
         "resize" : "crop",
         "w" : 150
-      }, {
-        "h" : 680,
-        "resize" : "fit",
-        "w" : 412
       } ],
       "display_url" : "pic.twitter.com\/KfT04jzOi4"
     } ],
@@ -8071,7 +8071,7 @@ Grailbird.data.tweets_2013_07 =
       "id_str" : "3857121",
       "id" : 3857121
     }, {
-      "name" : "chris anthony dauzat",
+      "name" : "chrisss\uD83D\uDC4C",
       "screen_name" : "it",
       "indices" : [ 11, 14 ],
       "id_str" : "243850444",
@@ -8088,7 +8088,7 @@ Grailbird.data.tweets_2013_07 =
     "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "chris anthony dauzat",
+        "name" : "chrisss\uD83D\uDC4C",
         "screen_name" : "it",
         "indices" : [ 0, 3 ],
         "id_str" : "243850444",
@@ -10823,13 +10823,13 @@ Grailbird.data.tweets_2013_07 =
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "\u99D2\u5D0E\u5F18\u6A39\uFF2010\u6708\u300C\u304A\u3084\u3053\u57FA\u5730\u30B7\u30D6\u30E4\u300D\u958B\u5712",
+        "name" : "\u99D2\u5D0E\u5F18\u6A39\uFF20\u300C\u3053\u3069\u3082\u5B85\u98DF\u300D\u306B\u3075\u308B\u3055\u3068\u7D0D\u7A0E\u3092\uFF01",
         "screen_name" : "Hiroki_Komazaki",
         "indices" : [ 115, 131 ],
         "id_str" : "69259365",
         "id" : 69259365
       }, {
-        "name" : "\u3076\u3045",
+        "name" : "\u3076\u3045@\u3061\u304E\u308A\u6295\u3052\u75B2\u308C",
         "screen_name" : "bu0210",
         "indices" : [ 132, 139 ],
         "id_str" : "276574980",
@@ -12086,7 +12086,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u304C\u308B\u304C\u3079",
+      "name" : "\u304C\u308B\u304C\u3079 (\u8A66\u7528\u671F\u9593\u4E2D)",
       "screen_name" : "garbagetown",
       "indices" : [ 3, 15 ],
       "id_str" : "5003551",
@@ -12118,7 +12118,7 @@ Grailbird.data.tweets_2013_07 =
     "in_reply_to_screen_name" : "tanakak89",
     "in_reply_to_user_id_str" : "437066602",
     "user" : {
-      "name" : "\u304C\u308B\u304C\u3079",
+      "name" : "\u304C\u308B\u304C\u3079 (\u8A66\u7528\u671F\u9593\u4E2D)",
       "screen_name" : "garbagetown",
       "protected" : false,
       "id_str" : "5003551",
