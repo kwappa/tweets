@@ -124,7 +124,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3060\u3044\u304F\u3057\u30FC@Scala\u5FCD\u8005",
+      "name" : "\u3060\u3044\u304F\u3057\u30FC",
       "screen_name" : "daiksy",
       "indices" : [ 0, 7 ],
       "id_str" : "147145215",
@@ -7507,7 +7507,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30DB\u30FC\u30E0\u30B7\u30C3\u30AF\u306A\u3066\u3043\u3070",
+      "name" : "\u3066\u3043\u3070 Ver. 27.0",
       "screen_name" : "rechiba3",
       "indices" : [ 0, 9 ],
       "id_str" : "43306194",
@@ -7687,7 +7687,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30AB\u30C3\u30B7\u30FC",
+      "name" : "\u30AB\u30C3\u30B7\u30FC \/ TheCreative",
       "screen_name" : "strive",
       "indices" : [ 3, 10 ],
       "id_str" : "5926562",
@@ -7719,7 +7719,7 @@ Grailbird.data.tweets_2015_01 =
     "id" : 553344975476232192,
     "created_at" : "2015-01-09 00:18:17 +0000",
     "user" : {
-      "name" : "\u30AB\u30C3\u30B7\u30FC",
+      "name" : "\u30AB\u30C3\u30B7\u30FC \/ TheCreative",
       "screen_name" : "strive",
       "protected" : false,
       "id_str" : "5926562",

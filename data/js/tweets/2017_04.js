@@ -330,7 +330,7 @@ Grailbird.data.tweets_2017_04 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u7DD1\u91CE\u7FC1@\u843D\u9078\u7D44",
+      "name" : "\u7DD1\u91CE\u7FC1",
       "screen_name" : "hermit4",
       "indices" : [ 3, 11 ],
       "id_str" : "22603751",
@@ -357,7 +357,7 @@ Grailbird.data.tweets_2017_04 =
     "id" : 858504739591299074,
     "created_at" : "2017-04-30 02:14:14 +0000",
     "user" : {
-      "name" : "\u7DD1\u91CE\u7FC1@\u843D\u9078\u7D44",
+      "name" : "\u7DD1\u91CE\u7FC1",
       "screen_name" : "hermit4",
       "protected" : false,
       "id_str" : "22603751",
@@ -381,7 +381,7 @@ Grailbird.data.tweets_2017_04 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "mz\uD83D\uDDFB\uD83D\uDC27(mzsm)",
+      "name" : "mzsm\u306Fmszmzk",
       "screen_name" : "mzsm_j",
       "indices" : [ 3, 10 ],
       "id_str" : "74623201",
@@ -486,7 +486,7 @@ Grailbird.data.tweets_2017_04 =
     "id" : 858490232466939906,
     "created_at" : "2017-04-30 01:16:36 +0000",
     "user" : {
-      "name" : "mz\uD83D\uDDFB\uD83D\uDC27(mzsm)",
+      "name" : "mzsm\u306Fmszmzk",
       "screen_name" : "mzsm_j",
       "protected" : false,
       "id_str" : "74623201",
@@ -699,7 +699,7 @@ Grailbird.data.tweets_2017_04 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "TechBooster@1\u65E5\u76EE\u6771\u30AF09a",
+      "name" : "TechBooster@\u6280\u8853\u66F8\u51784",
       "screen_name" : "TechBooster",
       "indices" : [ 3, 15 ],
       "id_str" : "176855587",
@@ -796,7 +796,7 @@ Grailbird.data.tweets_2017_04 =
     "id" : 858124712068632577,
     "created_at" : "2017-04-29 01:04:09 +0000",
     "user" : {
-      "name" : "TechBooster@1\u65E5\u76EE\u6771\u30AF09a",
+      "name" : "TechBooster@\u6280\u8853\u66F8\u51784",
       "screen_name" : "TechBooster",
       "protected" : false,
       "id_str" : "176855587",
@@ -3261,7 +3261,7 @@ Grailbird.data.tweets_2017_04 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u91CE\u53E3\u304A\u304A\u3059\u3051(\u4F50\u85E4\u592A\u4E00)",
+      "name" : "\u308C\u3050\u305F\u3093",
       "screen_name" : "regtan",
       "indices" : [ 0, 7 ],
       "id_str" : "10835022",
@@ -4503,7 +4503,7 @@ Grailbird.data.tweets_2017_04 =
       "screen_name" : "blackenedgold",
       "protected" : false,
       "id_str" : "495359210",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/924103508210487296\/0xfn3JoR_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/953250722409099264\/0BqY7xyb_normal.jpg",
       "id" : 495359210,
       "verified" : false
     }

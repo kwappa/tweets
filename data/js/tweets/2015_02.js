@@ -2770,7 +2770,7 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u53F3\u624B\u306B\u30EF\u30F3\u30C1\u30E3\u30F3",
+      "name" : "\u77F3\u6CB9\u738B",
       "screen_name" : "ryopeko",
       "indices" : [ 0, 8 ],
       "id_str" : "15562743",
@@ -3510,7 +3510,7 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u308F\u3044\u3082\u3093\uD83C\uDF88",
+      "name" : "\u4EEE\u60F3\u308F\u3044\u3082\u3093",
       "screen_name" : "ymonymon",
       "indices" : [ 0, 9 ],
       "id_str" : "8104602",
@@ -3543,7 +3543,7 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u308F\u3044\u3082\u3093\uD83C\uDF88",
+      "name" : "\u4EEE\u60F3\u308F\u3044\u3082\u3093",
       "screen_name" : "ymonymon",
       "indices" : [ 0, 9 ],
       "id_str" : "8104602",
@@ -6174,7 +6174,7 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u8987\u738BV20",
+      "name" : "\u8987\u738B\u30CD\u30DF\u30C3\u30DFV20",
       "screen_name" : "net_haouden",
       "indices" : [ 0, 12 ],
       "id_str" : "72886686",
@@ -7996,7 +7996,7 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30D2\u30AB\u30EB@\u7121\u671F\u9650\u6D3B\u52D5\u4F11\u6B62",
+      "name" : "\u30D3\u30C3\u30C8\u30B3\u30A4\u30F3\u30C1\u30A7\u30C3\u30AF",
       "screen_name" : "okumurarirurero",
       "indices" : [ 0, 16 ],
       "id_str" : "1358849354",

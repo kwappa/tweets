@@ -905,7 +905,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u91CE\u53E3\u304A\u304A\u3059\u3051(\u4F50\u85E4\u592A\u4E00)",
+      "name" : "\u308C\u3050\u305F\u3093",
       "screen_name" : "regtan",
       "indices" : [ 0, 7 ],
       "id_str" : "10835022",
@@ -2085,7 +2085,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u91CE\u53E3\u304A\u304A\u3059\u3051(\u4F50\u85E4\u592A\u4E00)",
+      "name" : "\u308C\u3050\u305F\u3093",
       "screen_name" : "regtan",
       "indices" : [ 3, 10 ],
       "id_str" : "10835022",
@@ -2129,7 +2129,7 @@ Grailbird.data.tweets_2015_07 =
     "in_reply_to_screen_name" : "kwappa",
     "in_reply_to_user_id_str" : "6304032",
     "user" : {
-      "name" : "\u91CE\u53E3\u304A\u304A\u3059\u3051(\u4F50\u85E4\u592A\u4E00)",
+      "name" : "\u308C\u3050\u305F\u3093",
       "screen_name" : "regtan",
       "protected" : false,
       "id_str" : "10835022",
@@ -2207,7 +2207,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u91CE\u53E3\u304A\u304A\u3059\u3051(\u4F50\u85E4\u592A\u4E00)",
+      "name" : "\u308C\u3050\u305F\u3093",
       "screen_name" : "regtan",
       "indices" : [ 0, 7 ],
       "id_str" : "10835022",
@@ -2262,7 +2262,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u91CE\u53E3\u304A\u304A\u3059\u3051(\u4F50\u85E4\u592A\u4E00)",
+      "name" : "\u308C\u3050\u305F\u3093",
       "screen_name" : "regtan",
       "indices" : [ 0, 7 ],
       "id_str" : "10835022",
@@ -3243,57 +3243,6 @@ Grailbird.data.tweets_2015_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter Lite\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u30B7\u30E7\u30B3",
-      "screen_name" : "chocolatina",
-      "indices" : [ 3, 15 ],
-      "id_str" : "14212710",
-      "id" : 14212710
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "622548673096880128",
-  "text" : "RT @chocolatina: \u5B50\u4F9B\u304C\u751F\u307E\u308C\u305F\u3089\u5DDD\u306E\u5B57\u3067\u5BDD\u308B\u3068\u601D\u3046\u3058\u3083\u306A\u3044\u3067\u3059\u304B\u3002\u5B9F\u969B\u306FH\u3068\u304BN\u3068\u304B\u3154\u3068\u304B\u305D\u3093\u306A\u611F\u3058\u3067\u3001\u3068\u306B\u304B\u304F\u523A\u3055\u3063\u3066\u304F\u308B\u3093\u3067\u3059\u3002",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "619502506272395264",
-    "text" : "\u5B50\u4F9B\u304C\u751F\u307E\u308C\u305F\u3089\u5DDD\u306E\u5B57\u3067\u5BDD\u308B\u3068\u601D\u3046\u3058\u3083\u306A\u3044\u3067\u3059\u304B\u3002\u5B9F\u969B\u306FH\u3068\u304BN\u3068\u304B\u3154\u3068\u304B\u305D\u3093\u306A\u611F\u3058\u3067\u3001\u3068\u306B\u304B\u304F\u523A\u3055\u3063\u3066\u304F\u308B\u3093\u3067\u3059\u3002",
-    "id" : 619502506272395264,
-    "created_at" : "2015-07-10 13:44:41 +0000",
-    "user" : {
-      "name" : "\u30B7\u30E7\u30B3",
-      "screen_name" : "chocolatina",
-      "protected" : false,
-      "id_str" : "14212710",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/940020785481056256\/FsmDcIf7_normal.jpg",
-      "id" : 14212710,
-      "verified" : false
-    }
-  },
-  "id" : 622548673096880128,
-  "created_at" : "2015-07-18 23:29:04 +0000",
-  "user" : {
-    "name" : "SHIOYA, Hiromu",
-    "screen_name" : "kwappa",
-    "protected" : false,
-    "id_str" : "6304032",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2012344290\/kwappa_icon_large_normal.jpeg",
-    "id" : 6304032,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/instagram.com\" rel=\"nofollow\"\u003EInstagram\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -3800,7 +3749,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u53F3\u624B\u306B\u30EF\u30F3\u30C1\u30E3\u30F3",
+      "name" : "\u77F3\u6CB9\u738B",
       "screen_name" : "ryopeko",
       "indices" : [ 0, 8 ],
       "id_str" : "15562743",
@@ -6586,7 +6535,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u306E\u3073\u306E\u3073\u306B\u30FC\u3068",
+      "name" : "\u7121\u4E00\u7269",
       "screen_name" : "kwy8791",
       "indices" : [ 0, 8 ],
       "id_str" : "45584820",
@@ -6641,7 +6590,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u53F3\u624B\u306B\u30EF\u30F3\u30C1\u30E3\u30F3",
+      "name" : "\u77F3\u6CB9\u738B",
       "screen_name" : "ryopeko",
       "indices" : [ 0, 8 ],
       "id_str" : "15562743",
@@ -6860,7 +6809,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u91CE\u53E3\u304A\u304A\u3059\u3051(\u4F50\u85E4\u592A\u4E00)",
+      "name" : "\u308C\u3050\u305F\u3093",
       "screen_name" : "regtan",
       "indices" : [ 0, 7 ],
       "id_str" : "10835022",

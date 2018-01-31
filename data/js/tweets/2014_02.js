@@ -3450,7 +3450,7 @@ Grailbird.data.tweets_2014_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3060\u3044\u304F\u3057\u30FC@Scala\u5FCD\u8005",
+      "name" : "\u3060\u3044\u304F\u3057\u30FC",
       "screen_name" : "daiksy",
       "indices" : [ 0, 7 ],
       "id_str" : "147145215",
@@ -4002,7 +4002,7 @@ Grailbird.data.tweets_2014_02 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u53F3\u624B\u306B\u30EF\u30F3\u30C1\u30E3\u30F3",
+      "name" : "\u77F3\u6CB9\u738B",
       "screen_name" : "ryopeko",
       "indices" : [ 0, 8 ],
       "id_str" : "15562743",
@@ -5849,7 +5849,7 @@ Grailbird.data.tweets_2014_02 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3053\u3044\u308F(1\/27 88nite16)",
+      "name" : "\u3053\u3044\u308F(2\/10 Gamezon#15)",
       "screen_name" : "koiwa",
       "indices" : [ 3, 9 ],
       "id_str" : "9824792",
@@ -5876,7 +5876,7 @@ Grailbird.data.tweets_2014_02 =
     "id" : 431268275457380352,
     "created_at" : "2014-02-06 03:29:04 +0000",
     "user" : {
-      "name" : "\u3053\u3044\u308F(1\/27 88nite16)",
+      "name" : "\u3053\u3044\u308F(2\/10 Gamezon#15)",
       "screen_name" : "koiwa",
       "protected" : false,
       "id_str" : "9824792",
@@ -5900,7 +5900,7 @@ Grailbird.data.tweets_2014_02 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u91CE\u53E3\u304A\u304A\u3059\u3051(\u4F50\u85E4\u592A\u4E00)",
+      "name" : "\u308C\u3050\u305F\u3093",
       "screen_name" : "regtan",
       "indices" : [ 0, 7 ],
       "id_str" : "10835022",
@@ -6999,7 +6999,7 @@ Grailbird.data.tweets_2014_02 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u78E8\u4F38\u6620\u4E00\u90CE@\u3072\u3080\u3066\u3093\u5927\u6666\u65E5\u306B\u30A2\u30CB\u30E1\u5316\uFF01",
+      "name" : "\u78E8\u4F38\u6620\u4E00\u90CE@\u6C37\u5BA4\u306E\u5929\u573011\u5DFB\u767A\u58F2\uFF01",
       "screen_name" : "eiitirou",
       "indices" : [ 3, 12 ],
       "id_str" : "84043060",
@@ -7036,7 +7036,7 @@ Grailbird.data.tweets_2014_02 =
     "id" : 430658948564148224,
     "created_at" : "2014-02-04 11:07:49 +0000",
     "user" : {
-      "name" : "\u78E8\u4F38\u6620\u4E00\u90CE@\u3072\u3080\u3066\u3093\u5927\u6666\u65E5\u306B\u30A2\u30CB\u30E1\u5316\uFF01",
+      "name" : "\u78E8\u4F38\u6620\u4E00\u90CE@\u6C37\u5BA4\u306E\u5929\u573011\u5DFB\u767A\u58F2\uFF01",
       "screen_name" : "eiitirou",
       "protected" : false,
       "id_str" : "84043060",
@@ -8197,7 +8197,7 @@ Grailbird.data.tweets_2014_02 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30AF\u30C3\u30AF\u30D1\u30C3\u30C9",
+      "name" : "\u30AF\u30C3\u30AF\u30D1\u30C3\u30C9\u3010\u516C\u5F0F\u3011",
       "screen_name" : "cookpad_pr",
       "indices" : [ 3, 14 ],
       "id_str" : "121365838",
@@ -8234,11 +8234,11 @@ Grailbird.data.tweets_2014_02 =
     "id" : 430204220961067008,
     "created_at" : "2014-02-03 05:00:53 +0000",
     "user" : {
-      "name" : "\u30AF\u30C3\u30AF\u30D1\u30C3\u30C9",
+      "name" : "\u30AF\u30C3\u30AF\u30D1\u30C3\u30C9\u3010\u516C\u5F0F\u3011",
       "screen_name" : "cookpad_pr",
       "protected" : false,
       "id_str" : "121365838",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/943486533318852608\/E5HJTpAE_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/957922813632901120\/bd9CMKj4_normal.jpg",
       "id" : 121365838,
       "verified" : true
     }

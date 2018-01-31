@@ -3329,7 +3329,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30AF\u30C3\u30AF\u30D1\u30C3\u30C9",
+      "name" : "\u30AF\u30C3\u30AF\u30D1\u30C3\u30C9\u3010\u516C\u5F0F\u3011",
       "screen_name" : "cookpad_pr",
       "indices" : [ 75, 86 ],
       "id_str" : "121365838",
@@ -4026,7 +4026,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30AF\u30C3\u30AF\u30D1\u30C3\u30C9",
+      "name" : "\u30AF\u30C3\u30AF\u30D1\u30C3\u30C9\u3010\u516C\u5F0F\u3011",
       "screen_name" : "cookpad_pr",
       "indices" : [ 3, 14 ],
       "id_str" : "121365838",
@@ -4063,11 +4063,11 @@ Grailbird.data.tweets_2013_12 =
     "id" : 410651722650898432,
     "created_at" : "2013-12-11 06:06:14 +0000",
     "user" : {
-      "name" : "\u30AF\u30C3\u30AF\u30D1\u30C3\u30C9",
+      "name" : "\u30AF\u30C3\u30AF\u30D1\u30C3\u30C9\u3010\u516C\u5F0F\u3011",
       "screen_name" : "cookpad_pr",
       "protected" : false,
       "id_str" : "121365838",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/943486533318852608\/E5HJTpAE_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/957922813632901120\/bd9CMKj4_normal.jpg",
       "id" : 121365838,
       "verified" : true
     }

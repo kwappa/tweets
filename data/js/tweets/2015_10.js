@@ -466,7 +466,7 @@ Grailbird.data.tweets_2015_10 =
   "source" : "\u003Ca href=\"http:\/\/www.hatena.ne.jp\/guide\/twitter\" rel=\"nofollow\"\u003EHatena\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u53F3\u624B\u306B\u30EF\u30F3\u30C1\u30E3\u30F3",
+      "name" : "\u77F3\u6CB9\u738B",
       "screen_name" : "ryopeko",
       "indices" : [ 28, 36 ],
       "id_str" : "15562743",
@@ -3675,7 +3675,7 @@ Grailbird.data.tweets_2015_10 =
       "screen_name" : "ic_40shioka",
       "protected" : false,
       "id_str" : "2799100176",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/940578990367977472\/n_d_iYtG_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/955958380903809024\/9GyGpNpN_normal.jpg",
       "id" : 2799100176,
       "verified" : false
     }
@@ -4585,7 +4585,7 @@ Grailbird.data.tweets_2015_10 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30D7\u30FC\u30A2\u30AB\u3061\u3083\u3093@\u91D1\u66DC\u304F29b",
+      "name" : "\u30D7\u30FC\u30A2\u30AB\u3061\u3083\u3093\u3055\u3093",
       "screen_name" : "puakachan",
       "indices" : [ 3, 13 ],
       "id_str" : "73373196",
@@ -4622,11 +4622,11 @@ Grailbird.data.tweets_2015_10 =
     "id" : 651735130415890432,
     "created_at" : "2015-10-07 12:25:38 +0000",
     "user" : {
-      "name" : "\u30D7\u30FC\u30A2\u30AB\u3061\u3083\u3093@\u91D1\u66DC\u304F29b",
+      "name" : "\u30D7\u30FC\u30A2\u30AB\u3061\u3083\u3093\u3055\u3093",
       "screen_name" : "puakachan",
       "protected" : false,
       "id_str" : "73373196",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/918926475125956608\/YSk3u863_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948985536332509184\/E2hh7zQK_normal.jpg",
       "id" : 73373196,
       "verified" : false
     }
@@ -5391,7 +5391,7 @@ Grailbird.data.tweets_2015_10 =
       "id_str" : "15376290",
       "id" : 15376290
     }, {
-      "name" : "\u91CE\u53E3\u304A\u304A\u3059\u3051(\u4F50\u85E4\u592A\u4E00)",
+      "name" : "\u308C\u3050\u305F\u3093",
       "screen_name" : "regtan",
       "indices" : [ 7, 14 ],
       "id_str" : "10835022",
@@ -5424,7 +5424,7 @@ Grailbird.data.tweets_2015_10 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u91CE\u53E3\u304A\u304A\u3059\u3051(\u4F50\u85E4\u592A\u4E00)",
+      "name" : "\u308C\u3050\u305F\u3093",
       "screen_name" : "regtan",
       "indices" : [ 0, 7 ],
       "id_str" : "10835022",
@@ -5463,7 +5463,7 @@ Grailbird.data.tweets_2015_10 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u91CE\u53E3\u304A\u304A\u3059\u3051(\u4F50\u85E4\u592A\u4E00)",
+      "name" : "\u308C\u3050\u305F\u3093",
       "screen_name" : "regtan",
       "indices" : [ 0, 7 ],
       "id_str" : "10835022",
@@ -5582,7 +5582,7 @@ Grailbird.data.tweets_2015_10 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u91CE\u53E3\u304A\u304A\u3059\u3051(\u4F50\u85E4\u592A\u4E00)",
+      "name" : "\u308C\u3050\u305F\u3093",
       "screen_name" : "regtan",
       "indices" : [ 3, 10 ],
       "id_str" : "10835022",
@@ -5619,7 +5619,7 @@ Grailbird.data.tweets_2015_10 =
     "id" : 650177015002173440,
     "created_at" : "2015-10-03 05:14:14 +0000",
     "user" : {
-      "name" : "\u91CE\u53E3\u304A\u304A\u3059\u3051(\u4F50\u85E4\u592A\u4E00)",
+      "name" : "\u308C\u3050\u305F\u3093",
       "screen_name" : "regtan",
       "protected" : false,
       "id_str" : "10835022",

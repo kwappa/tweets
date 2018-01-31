@@ -1760,7 +1760,7 @@ Grailbird.data.tweets_2016_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDC27 Yuichi Uemura",
+      "name" : "\uD83D\uDC3E Yuichi Uemura",
       "screen_name" : "u1",
       "indices" : [ 0, 3 ],
       "id_str" : "3779321",

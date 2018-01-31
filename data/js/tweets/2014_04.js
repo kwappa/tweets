@@ -1346,7 +1346,7 @@ Grailbird.data.tweets_2014_04 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3060\u3044\u304F\u3057\u30FC@Scala\u5FCD\u8005",
+      "name" : "\u3060\u3044\u304F\u3057\u30FC",
       "screen_name" : "daiksy",
       "indices" : [ 3, 10 ],
       "id_str" : "147145215",
@@ -1373,7 +1373,7 @@ Grailbird.data.tweets_2014_04 =
     "id" : 458453752316317696,
     "created_at" : "2014-04-22 03:54:26 +0000",
     "user" : {
-      "name" : "\u3060\u3044\u304F\u3057\u30FC@Scala\u5FCD\u8005",
+      "name" : "\u3060\u3044\u304F\u3057\u30FC",
       "screen_name" : "daiksy",
       "protected" : false,
       "id_str" : "147145215",
@@ -7941,7 +7941,7 @@ Grailbird.data.tweets_2014_04 =
       "id_str" : "5161091",
       "id" : 5161091
     }, {
-      "name" : "\u6771\u96F2@5\/3NSO\u6771\u4EACBassCl 5\/4\u6771\u4EACGT Cl\/BsCl",
+      "name" : "\u6771\u96F2@5\/4\u6771\u4EACGT Cl\/BsCl",
       "screen_name" : "H_Shinonome",
       "indices" : [ 8, 20 ],
       "id_str" : "29460225",

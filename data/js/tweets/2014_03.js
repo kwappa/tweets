@@ -3619,7 +3619,7 @@ Grailbird.data.tweets_2014_03 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30DB\u30FC\u30E0\u30B7\u30C3\u30AF\u306A\u3066\u3043\u3070",
+      "name" : "\u3066\u3043\u3070 Ver. 27.0",
       "screen_name" : "rechiba3",
       "indices" : [ 0, 9 ],
       "id_str" : "43306194",
@@ -3761,7 +3761,7 @@ Grailbird.data.tweets_2014_03 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u4EAC\u90FD\u6C34\u65CF\u9928",
+      "name" : "r7kamura",
       "screen_name" : "r7kamura",
       "indices" : [ 3, 12 ],
       "id_str" : "405374281",
@@ -3788,7 +3788,7 @@ Grailbird.data.tweets_2014_03 =
     "id" : 446323539289718784,
     "created_at" : "2014-03-19 16:33:18 +0000",
     "user" : {
-      "name" : "\u4EAC\u90FD\u6C34\u65CF\u9928",
+      "name" : "r7kamura",
       "screen_name" : "r7kamura",
       "protected" : false,
       "id_str" : "405374281",
@@ -5232,7 +5232,7 @@ Grailbird.data.tweets_2014_03 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDD25\u77F3\u6CB9\u30B9\u30C8\u30FC\u30D6\uD83D\uDD25",
+      "name" : "\u306E\u308D\u304F",
       "screen_name" : "No6",
       "indices" : [ 3, 7 ],
       "id_str" : "5533072",
@@ -5259,7 +5259,7 @@ Grailbird.data.tweets_2014_03 =
     "id" : 444357147246088192,
     "created_at" : "2014-03-14 06:19:34 +0000",
     "user" : {
-      "name" : "\uD83D\uDD25\u77F3\u6CB9\u30B9\u30C8\u30FC\u30D6\uD83D\uDD25",
+      "name" : "\u306E\u308D\u304F",
       "screen_name" : "No6",
       "protected" : false,
       "id_str" : "5533072",

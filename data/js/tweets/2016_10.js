@@ -804,7 +804,7 @@ Grailbird.data.tweets_2016_10 =
       "screen_name" : "hiro_y",
       "protected" : false,
       "id_str" : "3628001",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/945294397452705793\/dUyZ9MJm_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/949997982283264007\/o4DJGllo_normal.jpg",
       "id" : 3628001,
       "verified" : false
     }

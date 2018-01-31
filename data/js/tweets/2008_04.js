@@ -8,9 +8,9 @@ Grailbird.data.tweets_2008_04 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "799982515",
-  "text" : "http:\/\/tinyurl.com\/5pku6q",
-  "id" : 799982515,
+  "id_str" : "800069659",
+  "text" : "\u306A\u3093\u304Banker\u306FXSS\u306B\u3082\u767A\u8A00\u306B\u3082\u5FAE\u5999\u306A\u4E57\u308A\u65B9\u3059\u308B\u306A\u3041\u3002\u300C\u30D3\u30E5\u30FC\u30C6\u30A3\u30D5\u30EB\u30FB\u30B3\u30FC\u30C9\u300D\u3068\u3044\u3046\u672C\u3092\u8CB7\u3063\u305F\u3067\u3059\u3088\u3002\u3059\u3052\u3047\u3067\u3059\u3088\u3002",
+  "id" : 800069659,
   "created_at" : "2008-04-30 00:00:00 +0000",
   "user" : {
     "name" : "SHIOYA, Hiromu",
@@ -30,9 +30,9 @@ Grailbird.data.tweets_2008_04 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "800069659",
-  "text" : "\u306A\u3093\u304Banker\u306FXSS\u306B\u3082\u767A\u8A00\u306B\u3082\u5FAE\u5999\u306A\u4E57\u308A\u65B9\u3059\u308B\u306A\u3041\u3002\u300C\u30D3\u30E5\u30FC\u30C6\u30A3\u30D5\u30EB\u30FB\u30B3\u30FC\u30C9\u300D\u3068\u3044\u3046\u672C\u3092\u8CB7\u3063\u305F\u3067\u3059\u3088\u3002\u3059\u3052\u3047\u3067\u3059\u3088\u3002",
-  "id" : 800069659,
+  "id_str" : "799982515",
+  "text" : "http:\/\/tinyurl.com\/5pku6q",
+  "id" : 799982515,
   "created_at" : "2008-04-30 00:00:00 +0000",
   "user" : {
     "name" : "SHIOYA, Hiromu",

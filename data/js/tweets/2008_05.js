@@ -250,9 +250,9 @@ Grailbird.data.tweets_2008_05 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "805828007",
-  "text" : "\u6DF1\u591C\u4F5C\u696D\u5B8C\u4E86\u3002\u5E30\u3063\u3066\u5BDD\u307E\u3059\u3002zzz",
-  "id" : 805828007,
+  "id_str" : "805134865",
+  "text" : "\u9023\u4F11\u7D42\u4E86\u3002\u4ECA\u5E74\u306F\uFF11\u65E5\u534A\u3057\u304B\u50CD\u304D\u307E\u305B\u3093\u3067\u3057\u305F\u3002\u3048\u3089\u3044\u306A\u4FFA\u3002",
+  "id" : 805134865,
   "created_at" : "2008-05-07 00:00:00 +0000",
   "user" : {
     "name" : "SHIOYA, Hiromu",
@@ -272,9 +272,9 @@ Grailbird.data.tweets_2008_05 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "805134865",
-  "text" : "\u9023\u4F11\u7D42\u4E86\u3002\u4ECA\u5E74\u306F\uFF11\u65E5\u534A\u3057\u304B\u50CD\u304D\u307E\u305B\u3093\u3067\u3057\u305F\u3002\u3048\u3089\u3044\u306A\u4FFA\u3002",
-  "id" : 805134865,
+  "id_str" : "805828007",
+  "text" : "\u6DF1\u591C\u4F5C\u696D\u5B8C\u4E86\u3002\u5E30\u3063\u3066\u5BDD\u307E\u3059\u3002zzz",
+  "id" : 805828007,
   "created_at" : "2008-05-07 00:00:00 +0000",
   "user" : {
     "name" : "SHIOYA, Hiromu",

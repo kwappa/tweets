@@ -3330,7 +3330,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "hokkai7go bot",
+      "name" : "hokkai7go",
       "screen_name" : "hokkai7go",
       "indices" : [ 3, 13 ],
       "id_str" : "44675397",
@@ -3369,7 +3369,7 @@ Grailbird.data.tweets_2014_09 =
     "id" : 513257140857753602,
     "created_at" : "2014-09-20 09:23:32 +0000",
     "user" : {
-      "name" : "hokkai7go bot",
+      "name" : "hokkai7go",
       "screen_name" : "hokkai7go",
       "protected" : false,
       "id_str" : "44675397",
@@ -10192,7 +10192,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30D2\u30AB\u30EB@\u7121\u671F\u9650\u6D3B\u52D5\u4F11\u6B62",
+      "name" : "\u30D3\u30C3\u30C8\u30B3\u30A4\u30F3\u30C1\u30A7\u30C3\u30AF",
       "screen_name" : "okumurarirurero",
       "indices" : [ 0, 16 ],
       "id_str" : "1358849354",
@@ -10345,7 +10345,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "INO Noriteru",
+      "name" : "\u4F0A\u91CE \u4E98\u8F1D",
       "screen_name" : "memocamera",
       "indices" : [ 3, 14 ],
       "id_str" : "17460874",
@@ -10454,7 +10454,7 @@ Grailbird.data.tweets_2014_09 =
     "id" : 506405736281157632,
     "created_at" : "2014-09-01 11:38:30 +0000",
     "user" : {
-      "name" : "INO Noriteru",
+      "name" : "\u4F0A\u91CE \u4E98\u8F1D",
       "screen_name" : "memocamera",
       "protected" : false,
       "id_str" : "17460874",

@@ -340,7 +340,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3068\u3082\u304B",
+      "name" : "\u611B\u6D77",
       "screen_name" : "usadamasa",
       "indices" : [ 2, 12 ],
       "id_str" : "5685672",
@@ -373,7 +373,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3068\u3082\u304B",
+      "name" : "\u611B\u6D77",
       "screen_name" : "usadamasa",
       "indices" : [ 3, 13 ],
       "id_str" : "5685672",
@@ -410,7 +410,7 @@ Grailbird.data.tweets_2015_06 =
     "id" : 614414486787612673,
     "created_at" : "2015-06-26 12:46:43 +0000",
     "user" : {
-      "name" : "\u3068\u3082\u304B",
+      "name" : "\u611B\u6D77",
       "screen_name" : "usadamasa",
       "protected" : false,
       "id_str" : "5685672",
@@ -434,7 +434,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3068\u3082\u304B",
+      "name" : "\u611B\u6D77",
       "screen_name" : "usadamasa",
       "indices" : [ 3, 13 ],
       "id_str" : "5685672",
@@ -478,7 +478,7 @@ Grailbird.data.tweets_2015_06 =
     "in_reply_to_screen_name" : "kwappa",
     "in_reply_to_user_id_str" : "6304032",
     "user" : {
-      "name" : "\u3068\u3082\u304B",
+      "name" : "\u611B\u6D77",
       "screen_name" : "usadamasa",
       "protected" : false,
       "id_str" : "5685672",
@@ -650,7 +650,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u9752\u5E74\u5931\u696D\u5BB6 \u3060\u306D\u3074\u3087\u3093",
+      "name" : "\u99C4\u732B\uFF08\u8DB3\u7ACB\u533A\u306E\u7121\u53CE\u5165\u91CE\u826F\u732B\uFF09",
       "screen_name" : "daneko0123",
       "indices" : [ 0, 11 ],
       "id_str" : "107102477",
@@ -777,7 +777,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u9752\u5E74\u5931\u696D\u5BB6 \u3060\u306D\u3074\u3087\u3093",
+      "name" : "\u99C4\u732B\uFF08\u8DB3\u7ACB\u533A\u306E\u7121\u53CE\u5165\u91CE\u826F\u732B\uFF09",
       "screen_name" : "daneko0123",
       "indices" : [ 0, 11 ],
       "id_str" : "107102477",
@@ -826,7 +826,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u9752\u5E74\u5931\u696D\u5BB6 \u3060\u306D\u3074\u3087\u3093",
+      "name" : "\u99C4\u732B\uFF08\u8DB3\u7ACB\u533A\u306E\u7121\u53CE\u5165\u91CE\u826F\u732B\uFF09",
       "screen_name" : "daneko0123",
       "indices" : [ 0, 11 ],
       "id_str" : "107102477",
@@ -4299,7 +4299,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2252@ujiqn",
+      "name" : "\u6C0F",
       "screen_name" : "ujjjj",
       "indices" : [ 3, 9 ],
       "id_str" : "361096372",
@@ -4386,7 +4386,7 @@ Grailbird.data.tweets_2015_06 =
     "id" : 601762179021287425,
     "created_at" : "2015-05-22 14:50:58 +0000",
     "user" : {
-      "name" : "\u6C0F\u304F\u3093",
+      "name" : "\u6C0F\u304F\u3093\uD83D\uDCD6\u300E54\u5B57\u306E\u7269\u8A9E\u300F\u4E88\u7D04\u53D7\u4ED8\u4E2D",
       "screen_name" : "ujiqn",
       "protected" : false,
       "id_str" : "101668987",

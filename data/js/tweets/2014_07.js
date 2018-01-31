@@ -3975,7 +3975,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3042\u308F\u308B\u30D4\u30F3\u30B0\u30C9\u30E9\u30E0",
+      "name" : "\u30AF\u30EA\u30A3\u30DF\u30FC\u306A\u3042\u308F",
       "screen_name" : "awayuki",
       "indices" : [ 3, 11 ],
       "id_str" : "14279599",
@@ -4012,11 +4012,11 @@ Grailbird.data.tweets_2014_07 =
     "id" : 489252918948683777,
     "created_at" : "2014-07-16 03:39:20 +0000",
     "user" : {
-      "name" : "\u3042\u308F\u308B\u30D4\u30F3\u30B0\u30C9\u30E9\u30E0",
+      "name" : "\u30AF\u30EA\u30A3\u30DF\u30FC\u306A\u3042\u308F",
       "screen_name" : "awayuki",
       "protected" : false,
       "id_str" : "14279599",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/935848583944839171\/Rtp7p88n_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/958333497680121856\/nt7hHn-4_normal.jpg",
       "id" : 14279599,
       "verified" : false
     }
@@ -6290,7 +6290,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u91CE\u53E3\u304A\u304A\u3059\u3051(\u4F50\u85E4\u592A\u4E00)",
+      "name" : "\u308C\u3050\u305F\u3093",
       "screen_name" : "regtan",
       "indices" : [ 0, 7 ],
       "id_str" : "10835022",
@@ -7645,7 +7645,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "[x] \u79C1\u306F\u30ED\u30DC\u30C3\u30C8\u3067\u306F\u3042\u308A\u307E\u305B\u3093",
+      "name" : "\u7AF9\u99AC \u5149\u592A\u90CE",
       "screen_name" : "mizchi",
       "indices" : [ 3, 10 ],
       "id_str" : "14407731",
@@ -7672,7 +7672,7 @@ Grailbird.data.tweets_2014_07 =
     "id" : 483915322919878656,
     "created_at" : "2014-07-01 10:09:38 +0000",
     "user" : {
-      "name" : "[x] \u79C1\u306F\u30ED\u30DC\u30C3\u30C8\u3067\u306F\u3042\u308A\u307E\u305B\u3093",
+      "name" : "\u7AF9\u99AC \u5149\u592A\u90CE",
       "screen_name" : "mizchi",
       "protected" : false,
       "id_str" : "14407731",

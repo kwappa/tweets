@@ -3514,7 +3514,7 @@ Grailbird.data.tweets_2015_08 =
       "id_str" : "5161091",
       "id" : 5161091
     }, {
-      "name" : "\u51AC\u4F11\u307F",
+      "name" : "makimoto",
       "screen_name" : "makimoto",
       "indices" : [ 8, 17 ],
       "id_str" : "5787652",
@@ -3633,7 +3633,7 @@ Grailbird.data.tweets_2015_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Minoru Hirota",
+      "name" : "Minoru Hirota@2\/2CES\u5831\u544A\u4F1A",
       "screen_name" : "kawauso3",
       "indices" : [ 3, 12 ],
       "id_str" : "11919052",
@@ -3795,7 +3795,7 @@ Grailbird.data.tweets_2015_08 =
     "in_reply_to_screen_name" : "MobileHackerz",
     "in_reply_to_user_id_str" : "36681605",
     "user" : {
-      "name" : "Minoru Hirota",
+      "name" : "Minoru Hirota@2\/2CES\u5831\u544A\u4F1A",
       "screen_name" : "kawauso3",
       "protected" : false,
       "id_str" : "11919052",
@@ -6009,7 +6009,7 @@ Grailbird.data.tweets_2015_08 =
   "source" : "\u003Ca href=\"http:\/\/www.hatena.ne.jp\/guide\/twitter\" rel=\"nofollow\"\u003EHatena\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3060\u3044\u304F\u3057\u30FC@Scala\u5FCD\u8005",
+      "name" : "\u3060\u3044\u304F\u3057\u30FC",
       "screen_name" : "daiksy",
       "indices" : [ 43, 50 ],
       "id_str" : "147145215",
@@ -7352,7 +7352,7 @@ Grailbird.data.tweets_2015_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u91CE\u53E3\u304A\u304A\u3059\u3051(\u4F50\u85E4\u592A\u4E00)",
+      "name" : "\u308C\u3050\u305F\u3093",
       "screen_name" : "regtan",
       "indices" : [ 0, 7 ],
       "id_str" : "10835022",
@@ -7721,7 +7721,7 @@ Grailbird.data.tweets_2015_08 =
       "screen_name" : "yuroyoro",
       "protected" : false,
       "id_str" : "6310812",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1535519897\/Background_Sq_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/953483481757044736\/RG3xGkuE_normal.jpg",
       "id" : 6310812,
       "verified" : false
     }

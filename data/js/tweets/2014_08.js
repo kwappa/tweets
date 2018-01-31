@@ -1696,7 +1696,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u4EAC\u90FD\u6C34\u65CF\u9928",
+      "name" : "r7kamura",
       "screen_name" : "r7kamura",
       "indices" : [ 3, 12 ],
       "id_str" : "405374281",
@@ -1783,7 +1783,7 @@ Grailbird.data.tweets_2014_08 =
     "id" : 503766107115630592,
     "created_at" : "2014-08-25 04:49:34 +0000",
     "user" : {
-      "name" : "\u4EAC\u90FD\u6C34\u65CF\u9928",
+      "name" : "r7kamura",
       "screen_name" : "r7kamura",
       "protected" : false,
       "id_str" : "405374281",
@@ -2233,7 +2233,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "[x] \u79C1\u306F\u30ED\u30DC\u30C3\u30C8\u3067\u306F\u3042\u308A\u307E\u305B\u3093",
+      "name" : "\u7AF9\u99AC \u5149\u592A\u90CE",
       "screen_name" : "mizchi",
       "indices" : [ 0, 7 ],
       "id_str" : "14407731",
@@ -2292,7 +2292,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "[x] \u79C1\u306F\u30ED\u30DC\u30C3\u30C8\u3067\u306F\u3042\u308A\u307E\u305B\u3093",
+      "name" : "\u7AF9\u99AC \u5149\u592A\u90CE",
       "screen_name" : "mizchi",
       "indices" : [ 0, 7 ],
       "id_str" : "14407731",
@@ -4013,7 +4013,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u73FE\u5B9F",
+      "name" : "\u51FA\u793E\u53A8",
       "screen_name" : "uzzu",
       "indices" : [ 0, 5 ],
       "id_str" : "14086745",
@@ -4095,7 +4095,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "INO Noriteru",
+      "name" : "\u4F0A\u91CE \u4E98\u8F1D",
       "screen_name" : "memocamera",
       "indices" : [ 3, 14 ],
       "id_str" : "17460874",
@@ -4122,7 +4122,7 @@ Grailbird.data.tweets_2014_08 =
     "id" : 18183524783755264,
     "created_at" : "2010-12-24 05:57:44 +0000",
     "user" : {
-      "name" : "INO Noriteru",
+      "name" : "\u4F0A\u91CE \u4E98\u8F1D",
       "screen_name" : "memocamera",
       "protected" : false,
       "id_str" : "17460874",
@@ -5654,7 +5654,7 @@ Grailbird.data.tweets_2014_08 =
       "id_str" : "14655478",
       "id" : 14655478
     }, {
-      "name" : "\u51AC\u4F11\u307F",
+      "name" : "makimoto",
       "screen_name" : "makimoto",
       "indices" : [ 12, 21 ],
       "id_str" : "5787652",

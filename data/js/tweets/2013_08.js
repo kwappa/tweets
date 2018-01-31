@@ -2806,7 +2806,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3060\u3044\u304F\u3057\u30FC@Scala\u5FCD\u8005",
+      "name" : "\u3060\u3044\u304F\u3057\u30FC",
       "screen_name" : "daiksy",
       "indices" : [ 0, 7 ],
       "id_str" : "147145215",
@@ -4069,7 +4069,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u51AC\u4F11\u307F",
+      "name" : "makimoto",
       "screen_name" : "makimoto",
       "indices" : [ 0, 9 ],
       "id_str" : "5787652",
@@ -10529,7 +10529,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3075\u308B\u3054\u3080\u3075\u308B\u3054\u3080\u3075\u308B\u3054\u3080\u3075\u308B\u3054\u3080\u3075\u308B\u3054\u3080\u3075\u308B\u3054\u3080\u3075\u308B\u3054\u3080\u3075\u308B\u3054\u3080\u3075\u308B\u3054\u3080\u3075\u308B\u3054\u3080\u3075\u308B\u3054\u3080\u3075\u308B\u3054\u3080\u3075\u308B",
+      "name" : "\u3075",
       "screen_name" : "furugomu",
       "indices" : [ 3, 12 ],
       "id_str" : "4361831",
@@ -10566,7 +10566,7 @@ Grailbird.data.tweets_2013_08 =
     "id" : 364940178109890563,
     "created_at" : "2013-08-07 02:44:53 +0000",
     "user" : {
-      "name" : "\u3075\u308B\u3054\u3080\u3075\u308B\u3054\u3080\u3075\u308B\u3054\u3080\u3075\u308B\u3054\u3080\u3075\u308B\u3054\u3080\u3075\u308B\u3054\u3080\u3075\u308B\u3054\u3080\u3075\u308B\u3054\u3080\u3075\u308B\u3054\u3080\u3075\u308B\u3054\u3080\u3075\u308B\u3054\u3080\u3075\u308B\u3054\u3080\u3075\u308B",
+      "name" : "\u3075",
       "screen_name" : "furugomu",
       "protected" : false,
       "id_str" : "4361831",

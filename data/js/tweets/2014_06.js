@@ -3260,7 +3260,7 @@ Grailbird.data.tweets_2014_06 =
       "id_str" : "3987001",
       "id" : 3987001
     }, {
-      "name" : "ichitani",
+      "name" : "ichitani \uFF0F \u30AB\u30A4\u30BC\u30F3\u30FB\u30B8\u30E3\u30FC\u30CB\u30FC",
       "screen_name" : "papanda",
       "indices" : [ 9, 17 ],
       "id_str" : "3831641",
@@ -4130,7 +4130,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30DB\u30FC\u30E0\u30B7\u30C3\u30AF\u306A\u3066\u3043\u3070",
+      "name" : "\u3066\u3043\u3070 Ver. 27.0",
       "screen_name" : "rechiba3",
       "indices" : [ 3, 12 ],
       "id_str" : "43306194",
@@ -4157,11 +4157,11 @@ Grailbird.data.tweets_2014_06 =
     "id" : 478528807888896000,
     "created_at" : "2014-06-16 13:25:33 +0000",
     "user" : {
-      "name" : "\u30DB\u30FC\u30E0\u30B7\u30C3\u30AF\u306A\u3066\u3043\u3070",
+      "name" : "\u3066\u3043\u3070 Ver. 27.0",
       "screen_name" : "rechiba3",
       "protected" : false,
       "id_str" : "43306194",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/945948969456222210\/skgNnL1g_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/950560835365040128\/x9TzxY0q_normal.jpg",
       "id" : 43306194,
       "verified" : false
     }
@@ -7015,7 +7015,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "hokkai7go bot",
+      "name" : "hokkai7go",
       "screen_name" : "hokkai7go",
       "indices" : [ 3, 13 ],
       "id_str" : "44675397",
@@ -7052,7 +7052,7 @@ Grailbird.data.tweets_2014_06 =
     "id" : 475253783656550401,
     "created_at" : "2014-06-07 12:31:46 +0000",
     "user" : {
-      "name" : "hokkai7go bot",
+      "name" : "hokkai7go",
       "screen_name" : "hokkai7go",
       "protected" : false,
       "id_str" : "44675397",

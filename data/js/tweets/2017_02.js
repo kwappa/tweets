@@ -1797,7 +1797,7 @@ Grailbird.data.tweets_2017_02 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "shibaccho",
+      "name" : "\u3057\u3070\u3063\u3061\u3087",
       "screen_name" : "vaccho",
       "indices" : [ 3, 10 ],
       "id_str" : "5708962",
@@ -1830,7 +1830,7 @@ Grailbird.data.tweets_2017_02 =
     "id" : 832559158226399233,
     "created_at" : "2017-02-17 11:55:46 +0000",
     "user" : {
-      "name" : "shibaccho",
+      "name" : "\u3057\u3070\u3063\u3061\u3087",
       "screen_name" : "vaccho",
       "protected" : false,
       "id_str" : "5708962",
@@ -3130,7 +3130,7 @@ Grailbird.data.tweets_2017_02 =
       "screen_name" : "soo_mei",
       "protected" : false,
       "id_str" : "40636563",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/946572773501026304\/QOdRkMr9_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/957921603240644609\/O62ADgFN_normal.jpg",
       "id" : 40636563,
       "verified" : false
     }
@@ -4816,7 +4816,7 @@ Grailbird.data.tweets_2017_02 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "gryphon\uFF5E\u5143\u65E5\u306FNHK\u300C\u98A8\u96F2\u5150\u305F\u3061\u300D\uFF01",
+      "name" : "gryphon\uFF08\u307E\u3068\u3081\u7528RT\u591A\uFF09",
       "screen_name" : "gryphonjapan",
       "indices" : [ 3, 16 ],
       "id_str" : "75095179",
@@ -4913,7 +4913,7 @@ Grailbird.data.tweets_2017_02 =
     "id" : 827971045864771584,
     "created_at" : "2017-02-04 20:04:14 +0000",
     "user" : {
-      "name" : "gryphon\uFF5E\u5143\u65E5\u306FNHK\u300C\u98A8\u96F2\u5150\u305F\u3061\u300D\uFF01",
+      "name" : "gryphon\uFF08\u307E\u3068\u3081\u7528RT\u591A\uFF09",
       "screen_name" : "gryphonjapan",
       "protected" : false,
       "id_str" : "75095179",
@@ -5426,7 +5426,7 @@ Grailbird.data.tweets_2017_02 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30C6\u30EA\u30A2\u7A2E",
+      "name" : "\u6D6E\u6D6A\u8005",
       "screen_name" : "inuscript",
       "indices" : [ 3, 13 ],
       "id_str" : "10553652",
@@ -5513,7 +5513,7 @@ Grailbird.data.tweets_2017_02 =
     "id" : 825219976827064321,
     "created_at" : "2017-01-28 05:52:28 +0000",
     "user" : {
-      "name" : "\u30C6\u30EA\u30A2\u7A2E",
+      "name" : "\u6D6E\u6D6A\u8005",
       "screen_name" : "inuscript",
       "protected" : false,
       "id_str" : "10553652",

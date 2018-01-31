@@ -988,7 +988,7 @@ Grailbird.data.tweets_2017_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30C9\u30E9\u30B4\u30F3\u753B\u5ECA\u30FB\u30EA\u30FC 30\u65E5\u67716\u30C615a",
+      "name" : "\u30C9\u30E9\u30B4\u30F3\u753B\u5ECA\u30FB\u30EA\u30FC",
       "screen_name" : "dragongarowLEE",
       "indices" : [ 3, 18 ],
       "id_str" : "1487310253",
@@ -1075,7 +1075,7 @@ Grailbird.data.tweets_2017_06 =
     "id" : 876107221356093441,
     "created_at" : "2017-06-17 16:00:13 +0000",
     "user" : {
-      "name" : "\u30C9\u30E9\u30B4\u30F3\u753B\u5ECA\u30FB\u30EA\u30FC 30\u65E5\u67716\u30C615a",
+      "name" : "\u30C9\u30E9\u30B4\u30F3\u753B\u5ECA\u30FB\u30EA\u30FC",
       "screen_name" : "dragongarowLEE",
       "protected" : false,
       "id_str" : "1487310253",

@@ -2302,7 +2302,7 @@ Grailbird.data.tweets_2017_10 =
   "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter Lite\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u6597\u9B45@\u304A\u5E74\u8CC0\u306FDM\u3057\u307E\u3059\uFF01",
+      "name" : "\u6597\u9B45@\u6D6E\u4E0A\u7387\u6FC0\u4E0B\u304C\u308A",
       "screen_name" : "102_tobi_103",
       "indices" : [ 3, 16 ],
       "id_str" : "314363996",
@@ -2389,7 +2389,7 @@ Grailbird.data.tweets_2017_10 =
     "id" : 917027019430309888,
     "created_at" : "2017-10-08 14:00:53 +0000",
     "user" : {
-      "name" : "\u6597\u9B45@\u304A\u5E74\u8CC0\u306FDM\u3057\u307E\u3059\uFF01",
+      "name" : "\u6597\u9B45@\u6D6E\u4E0A\u7387\u6FC0\u4E0B\u304C\u308A",
       "screen_name" : "102_tobi_103",
       "protected" : false,
       "id_str" : "314363996",

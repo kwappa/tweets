@@ -79,7 +79,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3010\u516C\u5F0F\u3011\u8D85\u4F1A\u8B702017@4\/29,30",
+      "name" : "\u3010\u516C\u5F0F\u3011\u8D85\u4F1A\u8B702018@4\/28,29",
       "screen_name" : "chokaigi_PR",
       "indices" : [ 3, 15 ],
       "id_str" : "3166617174",
@@ -200,11 +200,11 @@ Grailbird.data.tweets_2016_04 =
     "id" : 726237184844419072,
     "created_at" : "2016-04-30 02:30:12 +0000",
     "user" : {
-      "name" : "\u3010\u516C\u5F0F\u3011\u8D85\u4F1A\u8B702017@4\/29,30",
+      "name" : "\u3010\u516C\u5F0F\u3011\u8D85\u4F1A\u8B702018@4\/28,29",
       "screen_name" : "chokaigi_PR",
       "protected" : false,
       "id_str" : "3166617174",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/827437242457022465\/yFZ5CKkJ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/953838994491457536\/Fxpbc_xf_normal.jpg",
       "id" : 3166617174,
       "verified" : true
     }

@@ -10823,13 +10823,13 @@ Grailbird.data.tweets_2013_07 =
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "\u99D2\u5D0E\u5F18\u6A39\uFF20\u300C\u3053\u3069\u3082\u5B85\u98DF\u300D\u306B\u3075\u308B\u3055\u3068\u7D0D\u7A0E\u3092\uFF01",
+        "name" : "\u99D2\u5D0E\u5F18\u6A39\uFF20HPV\u30EF\u30AF\u30C1\u30F3\u63A5\u7A2E\u6E08\u307F",
         "screen_name" : "Hiroki_Komazaki",
         "indices" : [ 115, 131 ],
         "id_str" : "69259365",
         "id" : 69259365
       }, {
-        "name" : "\u3076\u3045@\u3061\u304E\u308A\u6295\u3052\u75B2\u308C",
+        "name" : "\u3076\u3045",
         "screen_name" : "bu0210",
         "indices" : [ 132, 139 ],
         "id_str" : "276574980",
@@ -10931,7 +10931,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003EFoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30AB\u30D4\u30D0\u30E9",
+      "name" : "Mio Sumi",
       "screen_name" : "miopooo",
       "indices" : [ 47, 55 ],
       "id_str" : "28069476",
@@ -12122,7 +12122,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "garbagetown",
       "protected" : false,
       "id_str" : "5003551",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/823078525276069889\/BsmobFDC_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/951713808002646017\/xE32BxjN_normal.jpg",
       "id" : 5003551,
       "verified" : false
     }

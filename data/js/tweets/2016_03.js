@@ -441,7 +441,7 @@ Grailbird.data.tweets_2016_03 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3044\u3057\u3084\u3093\uFF37\uFF32\uFF38\uFF20\u5C0F\u8AAC\u5BB6\u306B\u306A\u308D\u3046",
+      "name" : "\u3044\u3057\u3084\u3093\uFF37\uFF32\uFF38\uFF20\u8D70\u308A\u5C4B\u5C0F\u8AAC\uFF06\uFF34\uFF32\uFF30\uFF27",
       "screen_name" : "ishiyanwrx",
       "indices" : [ 3, 14 ],
       "id_str" : "428131172",
@@ -468,7 +468,7 @@ Grailbird.data.tweets_2016_03 =
     "id" : 518593498321125376,
     "created_at" : "2014-10-05 02:48:19 +0000",
     "user" : {
-      "name" : "\u3044\u3057\u3084\u3093\uFF37\uFF32\uFF38\uFF20\u5C0F\u8AAC\u5BB6\u306B\u306A\u308D\u3046",
+      "name" : "\u3044\u3057\u3084\u3093\uFF37\uFF32\uFF38\uFF20\u8D70\u308A\u5C4B\u5C0F\u8AAC\uFF06\uFF34\uFF32\uFF30\uFF27",
       "screen_name" : "ishiyanwrx",
       "protected" : false,
       "id_str" : "428131172",
@@ -1251,7 +1251,7 @@ Grailbird.data.tweets_2016_03 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u91CE\u53E3\u304A\u304A\u3059\u3051(\u4F50\u85E4\u592A\u4E00)",
+      "name" : "\u308C\u3050\u305F\u3093",
       "screen_name" : "regtan",
       "indices" : [ 0, 7 ],
       "id_str" : "10835022",

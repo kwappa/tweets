@@ -1555,7 +1555,7 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/www.hatena.ne.jp\/guide\/twitter\" rel=\"nofollow\"\u003EHatena\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDCDB Risa Harada",
+      "name" : "\uD83D\uDE08",
       "screen_name" : "_risacan_",
       "indices" : [ 20, 30 ],
       "id_str" : "3284817787",
@@ -3702,7 +3702,7 @@ Grailbird.data.tweets_2017_01 =
       "screen_name" : "K0U_CHANG",
       "protected" : false,
       "id_str" : "278880914",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/940408955154530304\/mgl0gHc4_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/957474799516700672\/uLO5AgYj_normal.jpg",
       "id" : 278880914,
       "verified" : false
     }
