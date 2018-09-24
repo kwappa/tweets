@@ -393,6 +393,50 @@ Grailbird.data.tweets_2008_11 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "1029232915",
+  "text" : "\u3057\u3083\u3001\u793E\u9577\u517C\u4F1A\u9577\u3068\u540D\u523A\u4EA4\u63DB\uFF01",
+  "id" : 1029232915,
+  "created_at" : "2008-11-29 00:00:00 +0000",
+  "user" : {
+    "name" : "SHIOYA, Hiromu",
+    "screen_name" : "kwappa",
+    "protected" : false,
+    "id_str" : "6304032",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2012344290\/kwappa_icon_large_normal.jpeg",
+    "id" : 6304032,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1029259325",
+  "text" : "\u91D1\u8CDE\u306E\u4EBA\u3068\u540D\u523A\u4EA4\u63DB\uFF01",
+  "id" : 1029259325,
+  "created_at" : "2008-11-29 00:00:00 +0000",
+  "user" : {
+    "name" : "SHIOYA, Hiromu",
+    "screen_name" : "kwappa",
+    "protected" : false,
+    "id_str" : "6304032",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2012344290\/kwappa_icon_large_normal.jpeg",
+    "id" : 6304032,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "1029271008",
   "text" : "\u5E30\u308A\u307E\u3059\u3002\u5C11\u3057\u7121\u7406\u3057\u305F\u304C\u6765\u3066\u3088\u304B\u3063\u305F\u30FC\u3002",
   "id" : 1029271008,
@@ -550,50 +594,6 @@ Grailbird.data.tweets_2008_11 =
   "id_str" : "1029203410",
   "text" : "\u91D1\u8CDE\uFF01",
   "id" : 1029203410,
-  "created_at" : "2008-11-29 00:00:00 +0000",
-  "user" : {
-    "name" : "SHIOYA, Hiromu",
-    "screen_name" : "kwappa",
-    "protected" : false,
-    "id_str" : "6304032",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2012344290\/kwappa_icon_large_normal.jpeg",
-    "id" : 6304032,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1029232915",
-  "text" : "\u3057\u3083\u3001\u793E\u9577\u517C\u4F1A\u9577\u3068\u540D\u523A\u4EA4\u63DB\uFF01",
-  "id" : 1029232915,
-  "created_at" : "2008-11-29 00:00:00 +0000",
-  "user" : {
-    "name" : "SHIOYA, Hiromu",
-    "screen_name" : "kwappa",
-    "protected" : false,
-    "id_str" : "6304032",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2012344290\/kwappa_icon_large_normal.jpeg",
-    "id" : 6304032,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1029259325",
-  "text" : "\u91D1\u8CDE\u306E\u4EBA\u3068\u540D\u523A\u4EA4\u63DB\uFF01",
-  "id" : 1029259325,
   "created_at" : "2008-11-29 00:00:00 +0000",
   "user" : {
     "name" : "SHIOYA, Hiromu",
@@ -1465,6 +1465,50 @@ Grailbird.data.tweets_2008_11 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "1017889625",
+  "text" : "\u5915\u98DF\u306E\u6E96\u5099\u30FC",
+  "id" : 1017889625,
+  "created_at" : "2008-11-22 00:00:00 +0000",
+  "user" : {
+    "name" : "SHIOYA, Hiromu",
+    "screen_name" : "kwappa",
+    "protected" : false,
+    "id_str" : "6304032",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2012344290\/kwappa_icon_large_normal.jpeg",
+    "id" : 6304032,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1017993524",
+  "text" : "\u81EA\u5206\u306E\u52D5\u753B\u3092\u81EA\u5206\u3067\u898B\u308B\u52C7\u6C17\u304C\u3042\u308A\u307E\u305B\u306C\u3002",
+  "id" : 1017993524,
+  "created_at" : "2008-11-22 00:00:00 +0000",
+  "user" : {
+    "name" : "SHIOYA, Hiromu",
+    "screen_name" : "kwappa",
+    "protected" : false,
+    "id_str" : "6304032",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2012344290\/kwappa_icon_large_normal.jpeg",
+    "id" : 6304032,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "1018040186",
   "text" : "\u52D5\u753B\u898B\u307E\u3057\u305F\u3002\u2026\u81EA\u5206\u306E\u58F0\u306B\u300C\u8089\u300D\u304C\u3064\u3044\u3066\u3044\u308B\uFF01\u3046\u306F\u30FC\uFF01\u75E9\u305B\u306A\u304D\u3083\uFF01",
   "id" : 1018040186,
@@ -1622,50 +1666,6 @@ Grailbird.data.tweets_2008_11 =
   "id_str" : "1017844429",
   "text" : "\u697D\u5929\u304B\u3089\u30E1\u30FC\u30EB\u6765\u306A\u3044\u2026\u3002\u3055\u3063\u304D\u518D\u5EA6\u7533\u3057\u8FBC\u3093\u3060\u3051\u3069\u3002",
   "id" : 1017844429,
-  "created_at" : "2008-11-22 00:00:00 +0000",
-  "user" : {
-    "name" : "SHIOYA, Hiromu",
-    "screen_name" : "kwappa",
-    "protected" : false,
-    "id_str" : "6304032",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2012344290\/kwappa_icon_large_normal.jpeg",
-    "id" : 6304032,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1017889625",
-  "text" : "\u5915\u98DF\u306E\u6E96\u5099\u30FC",
-  "id" : 1017889625,
-  "created_at" : "2008-11-22 00:00:00 +0000",
-  "user" : {
-    "name" : "SHIOYA, Hiromu",
-    "screen_name" : "kwappa",
-    "protected" : false,
-    "id_str" : "6304032",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2012344290\/kwappa_icon_large_normal.jpeg",
-    "id" : 6304032,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1017993524",
-  "text" : "\u81EA\u5206\u306E\u52D5\u753B\u3092\u81EA\u5206\u3067\u898B\u308B\u52C7\u6C17\u304C\u3042\u308A\u307E\u305B\u306C\u3002",
-  "id" : 1017993524,
   "created_at" : "2008-11-22 00:00:00 +0000",
   "user" : {
     "name" : "SHIOYA, Hiromu",
@@ -2395,7 +2395,7 @@ Grailbird.data.tweets_2008_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "mochiko",
+      "name" : "mochiko\uFF2010\/8 \u6280\u8853\u66F8\u51785\u3010\u3042-13\u3011AWS\u3092\u306F\u3058\u3081\u3088\u3046\u3092\u9812\u5E03\u2661",
       "screen_name" : "mochikoAsTech",
       "indices" : [ 0, 14 ],
       "id_str" : "13437942",
@@ -2653,6 +2653,28 @@ Grailbird.data.tweets_2008_11 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "1006771014",
+  "text" : "\u5BB6\u3067\u3082\u30E9\u30FC\u30E1\u30F3\u3001\u5916\u3067\u3082\u30E9\u30FC\u30E1\u30F3\u3001\u305D\u3057\u3066\u30AB\u30C3\u30D7\u30E9\u30FC\u30E1\u30F3\u3002\u5C0F\u6C60\u3055\u3093\u304B\u3002",
+  "id" : 1006771014,
+  "created_at" : "2008-11-15 00:00:00 +0000",
+  "user" : {
+    "name" : "SHIOYA, Hiromu",
+    "screen_name" : "kwappa",
+    "protected" : false,
+    "id_str" : "6304032",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2012344290\/kwappa_icon_large_normal.jpeg",
+    "id" : 6304032,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "1006938688",
   "text" : "\u3053\u3053\u306A\u3089\u9593\u306B\u5408\u3046\u30FC\u3000http:\/\/www.click-i.net\/dm\/",
   "id" : 1006938688,
@@ -2746,10 +2768,10 @@ Grailbird.data.tweets_2008_11 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "1006771014",
-  "text" : "\u5BB6\u3067\u3082\u30E9\u30FC\u30E1\u30F3\u3001\u5916\u3067\u3082\u30E9\u30FC\u30E1\u30F3\u3001\u305D\u3057\u3066\u30AB\u30C3\u30D7\u30E9\u30FC\u30E1\u30F3\u3002\u5C0F\u6C60\u3055\u3093\u304B\u3002",
-  "id" : 1006771014,
-  "created_at" : "2008-11-15 00:00:00 +0000",
+  "id_str" : "1006064103",
+  "text" : "LT\u306F\u4F4E\u30EC\u30D9\u30EB\u306E\u30CD\u30BF\u306B\u306A\u308A\u305D\u3046\u3002\u300C\u521D\u6B69\u300D\u3063\u3066\u610F\u5473\u306E\u4F4E\u30EC\u30D9\u30EB\u306A\u306E\u304C\u60B2\u3057\u3044\u3051\u3069\u3002",
+  "id" : 1006064103,
+  "created_at" : "2008-11-14 00:00:00 +0000",
   "user" : {
     "name" : "SHIOYA, Hiromu",
     "screen_name" : "kwappa",
@@ -2815,28 +2837,6 @@ Grailbird.data.tweets_2008_11 =
   "id_str" : "1005576619",
   "text" : "\u4E00\u30F6\u6708\u524D\u306E\u81EA\u5206\u306A\u3093\u3066\u4ED6\u4EBA\u3068\u540C\u3058\u3067\u3059\u2026\u3002",
   "id" : 1005576619,
-  "created_at" : "2008-11-14 00:00:00 +0000",
-  "user" : {
-    "name" : "SHIOYA, Hiromu",
-    "screen_name" : "kwappa",
-    "protected" : false,
-    "id_str" : "6304032",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2012344290\/kwappa_icon_large_normal.jpeg",
-    "id" : 6304032,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1006064103",
-  "text" : "LT\u306F\u4F4E\u30EC\u30D9\u30EB\u306E\u30CD\u30BF\u306B\u306A\u308A\u305D\u3046\u3002\u300C\u521D\u6B69\u300D\u3063\u3066\u610F\u5473\u306E\u4F4E\u30EC\u30D9\u30EB\u306A\u306E\u304C\u60B2\u3057\u3044\u3051\u3069\u3002",
-  "id" : 1006064103,
   "created_at" : "2008-11-14 00:00:00 +0000",
   "user" : {
     "name" : "SHIOYA, Hiromu",
@@ -3483,7 +3483,7 @@ Grailbird.data.tweets_2008_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "mochiko",
+      "name" : "mochiko\uFF2010\/8 \u6280\u8853\u66F8\u51785\u3010\u3042-13\u3011AWS\u3092\u306F\u3058\u3081\u3088\u3046\u3092\u9812\u5E03\u2661",
       "screen_name" : "mochikoAsTech",
       "indices" : [ 0, 14 ],
       "id_str" : "13437942",
@@ -3538,7 +3538,7 @@ Grailbird.data.tweets_2008_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "mochiko",
+      "name" : "mochiko\uFF2010\/8 \u6280\u8853\u66F8\u51785\u3010\u3042-13\u3011AWS\u3092\u306F\u3058\u3081\u3088\u3046\u3092\u9812\u5E03\u2661",
       "screen_name" : "mochikoAsTech",
       "indices" : [ 0, 14 ],
       "id_str" : "13437942",
@@ -3785,6 +3785,28 @@ Grailbird.data.tweets_2008_11 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "988525912",
+  "text" : "\u304A\u306F\u3088\u3046\u3054\u3056\u3044\u307E\u3059\u3002\u4ECA\u65E5\u304B\u3089\u4E2D\u9014\u5165\u793E\u304C\uFF12\u540D\u6765\u307E\u3059\u3002\u4ED5\u4E8B\u306F\u5F7C\u3089\u306B\u4EFB\u305B\u3066\u65C5\u306B\u51FA\u308B\u306E\u304C\u76EE\u6A19\u3067\u3059\u3002",
+  "id" : 988525912,
+  "created_at" : "2008-11-04 00:00:00 +0000",
+  "user" : {
+    "name" : "SHIOYA, Hiromu",
+    "screen_name" : "kwappa",
+    "protected" : false,
+    "id_str" : "6304032",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2012344290\/kwappa_icon_large_normal.jpeg",
+    "id" : 6304032,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "988649455",
   "text" : "\u8077\u5834\u3067\u4E8B\u6545\u3002\u8CAC\u4EFB\u6BD4\u7387\u306F95%\u3067\u79C1\u3002\u30EA\u30EA\u30FC\u30B9\u306E\u624B\u6BB5\u3092\u30EA\u30D5\u30A1\u30A4\u30F3\u305B\u306D\u3070\u3002",
   "id" : 988649455,
@@ -3895,10 +3917,10 @@ Grailbird.data.tweets_2008_11 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "988525912",
-  "text" : "\u304A\u306F\u3088\u3046\u3054\u3056\u3044\u307E\u3059\u3002\u4ECA\u65E5\u304B\u3089\u4E2D\u9014\u5165\u793E\u304C\uFF12\u540D\u6765\u307E\u3059\u3002\u4ED5\u4E8B\u306F\u5F7C\u3089\u306B\u4EFB\u305B\u3066\u65C5\u306B\u51FA\u308B\u306E\u304C\u76EE\u6A19\u3067\u3059\u3002",
-  "id" : 988525912,
-  "created_at" : "2008-11-04 00:00:00 +0000",
+  "id_str" : "987351197",
+  "text" : "\u3084\u3063\u3068OS\u3001\u30A8\u30C7\u30A3\u30BF\u3001\u30D6\u30E9\u30A6\u30B6\u307E\u3067\u5FA9\u65E7\u2026\u3002\u3070\u3093\u3054\u306F\u3093\u4F5C\u3089\u306A\u304F\u3061\u3083\u3002",
+  "id" : 987351197,
+  "created_at" : "2008-11-03 00:00:00 +0000",
   "user" : {
     "name" : "SHIOYA, Hiromu",
     "screen_name" : "kwappa",
@@ -3964,28 +3986,6 @@ Grailbird.data.tweets_2008_11 =
   "id_str" : "987158104",
   "text" : "\u771F\u5263\u306BWindows\u3068\u306E\u6C7A\u5225\u3092\u691C\u8A0E\u3059\u308B\u304B\u3002",
   "id" : 987158104,
-  "created_at" : "2008-11-03 00:00:00 +0000",
-  "user" : {
-    "name" : "SHIOYA, Hiromu",
-    "screen_name" : "kwappa",
-    "protected" : false,
-    "id_str" : "6304032",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2012344290\/kwappa_icon_large_normal.jpeg",
-    "id" : 6304032,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "987351197",
-  "text" : "\u3084\u3063\u3068OS\u3001\u30A8\u30C7\u30A3\u30BF\u3001\u30D6\u30E9\u30A6\u30B6\u307E\u3067\u5FA9\u65E7\u2026\u3002\u3070\u3093\u3054\u306F\u3093\u4F5C\u3089\u306A\u304F\u3061\u3083\u3002",
-  "id" : 987351197,
   "created_at" : "2008-11-03 00:00:00 +0000",
   "user" : {
     "name" : "SHIOYA, Hiromu",
@@ -4132,7 +4132,7 @@ Grailbird.data.tweets_2008_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "mochiko",
+      "name" : "mochiko\uFF2010\/8 \u6280\u8853\u66F8\u51785\u3010\u3042-13\u3011AWS\u3092\u306F\u3058\u3081\u3088\u3046\u3092\u9812\u5E03\u2661",
       "screen_name" : "mochikoAsTech",
       "indices" : [ 0, 14 ],
       "id_str" : "13437942",
