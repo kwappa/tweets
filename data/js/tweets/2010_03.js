@@ -24,7 +24,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "regtan",
   "in_reply_to_user_id_str" : "10835022",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -46,7 +46,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11349015669,
   "created_at" : "2010-03-31 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -103,7 +103,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11349336340,
   "created_at" : "2010-03-31 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -125,7 +125,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11349380824,
   "created_at" : "2010-03-31 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -147,7 +147,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11350444555,
   "created_at" : "2010-03-31 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -169,7 +169,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11355111435,
   "created_at" : "2010-03-31 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -191,7 +191,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11355175079,
   "created_at" : "2010-03-31 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -213,7 +213,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11355394378,
   "created_at" : "2010-03-31 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -235,7 +235,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11355621090,
   "created_at" : "2010-03-31 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -257,7 +257,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11355930029,
   "created_at" : "2010-03-31 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -279,7 +279,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11356190462,
   "created_at" : "2010-03-31 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -301,7 +301,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11356535583,
   "created_at" : "2010-03-31 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -323,7 +323,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11356744049,
   "created_at" : "2010-03-31 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -345,7 +345,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11357405876,
   "created_at" : "2010-03-31 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -367,7 +367,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11357697159,
   "created_at" : "2010-03-31 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -392,7 +392,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11358244041,
   "created_at" : "2010-03-31 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -417,7 +417,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11364369012,
   "created_at" : "2010-03-31 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -439,7 +439,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11365374263,
   "created_at" : "2010-03-31 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -461,7 +461,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11365874704,
   "created_at" : "2010-03-31 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -483,7 +483,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11366119844,
   "created_at" : "2010-03-31 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -505,7 +505,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11366243371,
   "created_at" : "2010-03-31 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -536,7 +536,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "skyguild",
   "in_reply_to_user_id_str" : "28364157",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -558,7 +558,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11366755421,
   "created_at" : "2010-03-31 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -580,7 +580,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11368369920,
   "created_at" : "2010-03-31 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -602,7 +602,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11368423013,
   "created_at" : "2010-03-31 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -624,7 +624,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11369002168,
   "created_at" : "2010-03-31 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -636,7 +636,7 @@ Grailbird.data.tweets_2010_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3061\u3083\u3061\u3083\u304D a.k.a PORK\uFF08\u30E9\u30A4\u30B9\u30D0\u30FC\u30F3)",
+      "name" : "\u3061\u3083\u3061\u3083\u304D",
       "screen_name" : "chachaki",
       "indices" : [ 0, 9 ],
       "id_str" : "5922642",
@@ -657,7 +657,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "chachaki",
   "in_reply_to_user_id_str" : "5922642",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -690,7 +690,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "miyucy",
   "in_reply_to_user_id_str" : "18154852",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -712,7 +712,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11369214748,
   "created_at" : "2010-03-31 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -734,7 +734,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11375379737,
   "created_at" : "2010-03-31 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -756,7 +756,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11390290956,
   "created_at" : "2010-03-31 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -778,7 +778,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11391618203,
   "created_at" : "2010-03-31 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -800,7 +800,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11392052756,
   "created_at" : "2010-03-31 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -822,7 +822,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11392275008,
   "created_at" : "2010-03-31 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -844,7 +844,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11392746295,
   "created_at" : "2010-03-31 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -866,7 +866,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11392810655,
   "created_at" : "2010-03-31 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -888,7 +888,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11392872185,
   "created_at" : "2010-03-31 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -910,7 +910,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11392921174,
   "created_at" : "2010-03-31 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -943,7 +943,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "OuchOuchOuch",
   "in_reply_to_user_id_str" : "13762352",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -965,7 +965,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11393093025,
   "created_at" : "2010-03-31 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -998,7 +998,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "OuchOuchOuch",
   "in_reply_to_user_id_str" : "13762352",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1026,7 +1026,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11393170116,
   "created_at" : "2010-03-31 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1048,7 +1048,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11393216122,
   "created_at" : "2010-03-31 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1081,7 +1081,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "OuchOuchOuch",
   "in_reply_to_user_id_str" : "13762352",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1121,7 +1121,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11393335910,
   "created_at" : "2010-03-31 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1143,7 +1143,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11393521363,
   "created_at" : "2010-03-31 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1165,7 +1165,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11393568432,
   "created_at" : "2010-03-31 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1183,7 +1183,7 @@ Grailbird.data.tweets_2010_03 =
       "id_str" : "65222093",
       "id" : 65222093
     }, {
-      "name" : "SHIOYA, Hiromu",
+      "name" : "\u304B\u3063\u3071",
       "screen_name" : "kwappa",
       "indices" : [ 32, 39 ],
       "id_str" : "6304032",
@@ -1199,7 +1199,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11393713272,
   "created_at" : "2010-03-31 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1221,7 +1221,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11334411193,
   "created_at" : "2010-03-30 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1243,7 +1243,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11279648217,
   "created_at" : "2010-03-30 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1271,7 +1271,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11284114183,
   "created_at" : "2010-03-30 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1293,7 +1293,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11285808392,
   "created_at" : "2010-03-30 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1326,7 +1326,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "yamaguchiintlab",
   "in_reply_to_user_id_str" : "10172212",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1348,7 +1348,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11287950169,
   "created_at" : "2010-03-30 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1370,7 +1370,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11291903826,
   "created_at" : "2010-03-30 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1392,7 +1392,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11292534696,
   "created_at" : "2010-03-30 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1414,7 +1414,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11292551122,
   "created_at" : "2010-03-30 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1436,7 +1436,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11292725962,
   "created_at" : "2010-03-30 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1458,7 +1458,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11295067345,
   "created_at" : "2010-03-30 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1470,7 +1470,7 @@ Grailbird.data.tweets_2010_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u307F\u306D \/ minekouki",
+      "name" : "minekouki",
       "screen_name" : "minesweeper96",
       "indices" : [ 3, 17 ],
       "id_str" : "5596732",
@@ -1492,7 +1492,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11296516133,
   "created_at" : "2010-03-30 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1520,7 +1520,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11296627183,
   "created_at" : "2010-03-30 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1542,7 +1542,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11296649243,
   "created_at" : "2010-03-30 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1567,7 +1567,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11298332866,
   "created_at" : "2010-03-30 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1592,7 +1592,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11300228721,
   "created_at" : "2010-03-30 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1617,7 +1617,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11301299114,
   "created_at" : "2010-03-30 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1639,7 +1639,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11301568388,
   "created_at" : "2010-03-30 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1661,7 +1661,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11306657468,
   "created_at" : "2010-03-30 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1683,7 +1683,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11308268688,
   "created_at" : "2010-03-30 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1705,7 +1705,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11330564720,
   "created_at" : "2010-03-30 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1727,7 +1727,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11330671756,
   "created_at" : "2010-03-30 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1749,7 +1749,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11330744956,
   "created_at" : "2010-03-30 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1782,7 +1782,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "OkibiWorksLabo",
   "in_reply_to_user_id_str" : "88202146",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1804,7 +1804,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11330931591,
   "created_at" : "2010-03-30 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1844,7 +1844,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11334230791,
   "created_at" : "2010-03-30 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1877,7 +1877,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "OuchOuchOuch",
   "in_reply_to_user_id_str" : "13762352",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1899,7 +1899,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11222502549,
   "created_at" : "2010-03-29 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1921,7 +1921,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11227155111,
   "created_at" : "2010-03-29 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1943,7 +1943,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11227492179,
   "created_at" : "2010-03-29 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1976,7 +1976,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "yokatsuki",
   "in_reply_to_user_id_str" : "18628798",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2009,7 +2009,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "kaz_29",
   "in_reply_to_user_id_str" : "8824222",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2031,7 +2031,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11227838851,
   "created_at" : "2010-03-29 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2053,7 +2053,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11230652514,
   "created_at" : "2010-03-29 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2075,7 +2075,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11234134846,
   "created_at" : "2010-03-29 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2097,7 +2097,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11235280585,
   "created_at" : "2010-03-29 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2119,7 +2119,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11235482022,
   "created_at" : "2010-03-29 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2141,7 +2141,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11236142082,
   "created_at" : "2010-03-29 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2163,7 +2163,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11237379991,
   "created_at" : "2010-03-29 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2185,7 +2185,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11237608729,
   "created_at" : "2010-03-29 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2207,7 +2207,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11237762862,
   "created_at" : "2010-03-29 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2229,7 +2229,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11238173491,
   "created_at" : "2010-03-29 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2292,7 +2292,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11240264435,
   "created_at" : "2010-03-29 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2314,7 +2314,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11240325901,
   "created_at" : "2010-03-29 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2336,7 +2336,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11246243190,
   "created_at" : "2010-03-29 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2358,7 +2358,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11246277828,
   "created_at" : "2010-03-29 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2380,7 +2380,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11246634709,
   "created_at" : "2010-03-29 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2402,7 +2402,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11273191062,
   "created_at" : "2010-03-29 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2424,7 +2424,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11275055525,
   "created_at" : "2010-03-29 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2446,7 +2446,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11214773265,
   "created_at" : "2010-03-28 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2468,7 +2468,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11219224852,
   "created_at" : "2010-03-28 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2490,7 +2490,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11168576428,
   "created_at" : "2010-03-28 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2527,7 +2527,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "yamaguchiintlab",
   "in_reply_to_user_id_str" : "10172212",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2566,7 +2566,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "morihime",
   "in_reply_to_user_id_str" : "61183642",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2588,7 +2588,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11175487349,
   "created_at" : "2010-03-28 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2616,7 +2616,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11176899939,
   "created_at" : "2010-03-28 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2638,7 +2638,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11178510083,
   "created_at" : "2010-03-28 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2660,7 +2660,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11178907701,
   "created_at" : "2010-03-28 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2682,7 +2682,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11179238124,
   "created_at" : "2010-03-28 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2704,7 +2704,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11180261653,
   "created_at" : "2010-03-28 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2726,7 +2726,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11184762227,
   "created_at" : "2010-03-28 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2754,7 +2754,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11185263256,
   "created_at" : "2010-03-28 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2772,7 +2772,7 @@ Grailbird.data.tweets_2010_03 =
       "id_str" : "14146684",
       "id" : 14146684
     }, {
-      "name" : "SHIOYA, Hiromu",
+      "name" : "\u304B\u3063\u3071",
       "screen_name" : "kwappa",
       "indices" : [ 43, 50 ],
       "id_str" : "6304032",
@@ -2788,7 +2788,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11187532234,
   "created_at" : "2010-03-28 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2810,7 +2810,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11187996883,
   "created_at" : "2010-03-28 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2832,7 +2832,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11188055159,
   "created_at" : "2010-03-28 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2854,7 +2854,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11188347896,
   "created_at" : "2010-03-28 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2876,7 +2876,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11189268360,
   "created_at" : "2010-03-28 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2898,7 +2898,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11189851917,
   "created_at" : "2010-03-28 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2920,7 +2920,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11190272471,
   "created_at" : "2010-03-28 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2942,7 +2942,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11191330711,
   "created_at" : "2010-03-28 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2964,7 +2964,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11192008968,
   "created_at" : "2010-03-28 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2986,7 +2986,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11192215216,
   "created_at" : "2010-03-28 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3008,7 +3008,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11192993852,
   "created_at" : "2010-03-28 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3020,19 +3020,19 @@ Grailbird.data.tweets_2010_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "kishima\uFF20\u6280\u8853\u66F8\u51785-\u304421-",
+      "name" : "kishima",
       "screen_name" : "kishima",
       "indices" : [ 8, 16 ],
       "id_str" : "14672220",
       "id" : 14672220
     }, {
-      "name" : "SHIOYA, Hiromu",
+      "name" : "\u304B\u3063\u3071",
       "screen_name" : "kwappa",
       "indices" : [ 30, 37 ],
       "id_str" : "6304032",
       "id" : 6304032
     }, {
-      "name" : "mactkg-9.29 #kosendj@\u65E9\u7A32\u7530\u8336\u7BB1",
+      "name" : "mactkg",
       "screen_name" : "mactkg",
       "indices" : [ 85, 92 ],
       "id_str" : "18724830",
@@ -3048,7 +3048,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11196376127,
   "created_at" : "2010-03-28 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3070,7 +3070,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11196419227,
   "created_at" : "2010-03-28 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3092,7 +3092,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11196437493,
   "created_at" : "2010-03-28 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3114,7 +3114,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11197348497,
   "created_at" : "2010-03-28 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3148,7 +3148,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11197405103,
   "created_at" : "2010-03-28 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3170,7 +3170,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11197670613,
   "created_at" : "2010-03-28 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3192,7 +3192,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11197809639,
   "created_at" : "2010-03-28 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3210,7 +3210,7 @@ Grailbird.data.tweets_2010_03 =
       "id_str" : "6192032",
       "id" : 6192032
     }, {
-      "name" : "SHIOYA, Hiromu",
+      "name" : "\u304B\u3063\u3071",
       "screen_name" : "kwappa",
       "indices" : [ 60, 67 ],
       "id_str" : "6304032",
@@ -3226,7 +3226,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11197866732,
   "created_at" : "2010-03-28 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3259,7 +3259,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "kawaguti",
   "in_reply_to_user_id_str" : "4571551",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3281,7 +3281,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11198105273,
   "created_at" : "2010-03-28 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3315,7 +3315,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11198137582,
   "created_at" : "2010-03-28 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3327,7 +3327,7 @@ Grailbird.data.tweets_2010_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u4E8C\u90CE\uD83C\uDF65",
+      "name" : "\u30E2\u30D2\u304A \uD83C\uDF17\uFE0F Loft",
       "screen_name" : "akitsukada",
       "indices" : [ 0, 11 ],
       "id_str" : "43361083",
@@ -3348,7 +3348,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "akitsukada",
   "in_reply_to_user_id_str" : "43361083",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3370,7 +3370,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11198297063,
   "created_at" : "2010-03-28 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3398,7 +3398,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11198337937,
   "created_at" : "2010-03-28 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3410,7 +3410,7 @@ Grailbird.data.tweets_2010_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u4E8C\u90CE\uD83C\uDF65",
+      "name" : "\u30E2\u30D2\u304A \uD83C\uDF17\uFE0F Loft",
       "screen_name" : "akitsukada",
       "indices" : [ 3, 14 ],
       "id_str" : "43361083",
@@ -3426,7 +3426,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11198358033,
   "created_at" : "2010-03-28 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3457,7 +3457,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11198500649,
   "created_at" : "2010-03-28 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3479,7 +3479,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11198762211,
   "created_at" : "2010-03-28 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3501,7 +3501,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11214701781,
   "created_at" : "2010-03-28 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3529,7 +3529,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11129707642,
   "created_at" : "2010-03-27 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3557,7 +3557,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11129834640,
   "created_at" : "2010-03-27 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3585,7 +3585,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11130934886,
   "created_at" : "2010-03-27 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3613,7 +3613,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11131480388,
   "created_at" : "2010-03-27 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3641,7 +3641,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11131949191,
   "created_at" : "2010-03-27 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3672,7 +3672,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11138564654,
   "created_at" : "2010-03-27 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3694,7 +3694,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11138604104,
   "created_at" : "2010-03-27 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3716,7 +3716,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11143087466,
   "created_at" : "2010-03-27 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3738,7 +3738,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11145714499,
   "created_at" : "2010-03-27 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3760,7 +3760,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11165112672,
   "created_at" : "2010-03-27 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3782,7 +3782,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11116985238,
   "created_at" : "2010-03-27 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3804,7 +3804,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11118695036,
   "created_at" : "2010-03-27 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3837,7 +3837,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "sugyan",
   "in_reply_to_user_id_str" : "15081480",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3868,7 +3868,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11123821474,
   "created_at" : "2010-03-27 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3901,7 +3901,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "fukupage",
   "in_reply_to_user_id_str" : "37807528",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3923,7 +3923,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11124416766,
   "created_at" : "2010-03-27 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3948,7 +3948,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11125614210,
   "created_at" : "2010-03-27 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3973,7 +3973,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11125958884,
   "created_at" : "2010-03-27 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3998,7 +3998,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11126376736,
   "created_at" : "2010-03-27 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -4023,7 +4023,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11126782197,
   "created_at" : "2010-03-27 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -4051,7 +4051,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11127615553,
   "created_at" : "2010-03-27 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -4073,7 +4073,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11127763616,
   "created_at" : "2010-03-27 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -4095,7 +4095,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11127780482,
   "created_at" : "2010-03-27 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -4117,7 +4117,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11127824870,
   "created_at" : "2010-03-27 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -4139,7 +4139,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11127900848,
   "created_at" : "2010-03-27 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -4167,7 +4167,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11128178263,
   "created_at" : "2010-03-27 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -4195,7 +4195,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11128821273,
   "created_at" : "2010-03-27 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -4223,7 +4223,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11129408379,
   "created_at" : "2010-03-27 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -4251,7 +4251,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11129517921,
   "created_at" : "2010-03-27 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -4273,7 +4273,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11067570907,
   "created_at" : "2010-03-26 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -4295,7 +4295,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11067912275,
   "created_at" : "2010-03-26 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -4317,7 +4317,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11072634098,
   "created_at" : "2010-03-26 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -4339,7 +4339,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11072842861,
   "created_at" : "2010-03-26 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -4361,7 +4361,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11075017461,
   "created_at" : "2010-03-26 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -4383,7 +4383,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11081500114,
   "created_at" : "2010-03-26 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -4405,7 +4405,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11082281835,
   "created_at" : "2010-03-26 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -4438,7 +4438,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "kotake",
   "in_reply_to_user_id_str" : "14123397",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -4460,7 +4460,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11083493433,
   "created_at" : "2010-03-26 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -4493,7 +4493,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "yamaguchiintlab",
   "in_reply_to_user_id_str" : "10172212",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -4515,7 +4515,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11088982763,
   "created_at" : "2010-03-26 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -4537,7 +4537,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11113765870,
   "created_at" : "2010-03-26 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -4570,7 +4570,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "kogee",
   "in_reply_to_user_id_str" : "24492370",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -4592,7 +4592,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11010701616,
   "created_at" : "2010-03-25 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -4620,7 +4620,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11013590509,
   "created_at" : "2010-03-25 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -4642,7 +4642,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11014363809,
   "created_at" : "2010-03-25 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -4664,7 +4664,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11019342429,
   "created_at" : "2010-03-25 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -4686,7 +4686,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11019732458,
   "created_at" : "2010-03-25 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -4708,7 +4708,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11020209882,
   "created_at" : "2010-03-25 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -4730,7 +4730,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11022542053,
   "created_at" : "2010-03-25 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -4752,7 +4752,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11025551382,
   "created_at" : "2010-03-25 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -4774,7 +4774,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11035764708,
   "created_at" : "2010-03-25 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -4796,7 +4796,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11036379788,
   "created_at" : "2010-03-25 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -4829,7 +4829,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "nmrevolution",
   "in_reply_to_user_id_str" : "12268192",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -4841,7 +4841,7 @@ Grailbird.data.tweets_2010_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u4E8C\u90CE\uD83C\uDF65",
+      "name" : "\u30E2\u30D2\u304A \uD83C\uDF17\uFE0F Loft",
       "screen_name" : "akitsukada",
       "indices" : [ 0, 11 ],
       "id_str" : "43361083",
@@ -4862,7 +4862,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "akitsukada",
   "in_reply_to_user_id_str" : "43361083",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -4884,7 +4884,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11039729636,
   "created_at" : "2010-03-25 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -4906,7 +4906,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11039824073,
   "created_at" : "2010-03-25 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -4928,7 +4928,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11040128269,
   "created_at" : "2010-03-25 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -4950,7 +4950,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11060068916,
   "created_at" : "2010-03-25 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -4978,7 +4978,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10985250174,
   "created_at" : "2010-03-24 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -5000,7 +5000,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10985446509,
   "created_at" : "2010-03-24 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -5028,7 +5028,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10952846035,
   "created_at" : "2010-03-24 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -5050,7 +5050,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10953918748,
   "created_at" : "2010-03-24 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -5083,7 +5083,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "chocokanpan",
   "in_reply_to_user_id_str" : "12976732",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -5105,7 +5105,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10962908722,
   "created_at" : "2010-03-24 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -5138,7 +5138,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "georz",
   "in_reply_to_user_id_str" : "16201832",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -5171,7 +5171,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "yamaguchiintlab",
   "in_reply_to_user_id_str" : "10172212",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -5193,7 +5193,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10963801783,
   "created_at" : "2010-03-24 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -5226,7 +5226,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "georz",
   "in_reply_to_user_id_str" : "16201832",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -5248,7 +5248,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10965414912,
   "created_at" : "2010-03-24 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -5270,7 +5270,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10966241842,
   "created_at" : "2010-03-24 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -5303,7 +5303,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "okaji",
   "in_reply_to_user_id_str" : "6192032",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -5325,7 +5325,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10972366024,
   "created_at" : "2010-03-24 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -5353,7 +5353,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10972745108,
   "created_at" : "2010-03-24 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -5375,7 +5375,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10973030315,
   "created_at" : "2010-03-24 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -5400,7 +5400,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10975042330,
   "created_at" : "2010-03-24 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -5425,7 +5425,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10980326998,
   "created_at" : "2010-03-24 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -5453,7 +5453,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10983837681,
   "created_at" : "2010-03-24 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -5486,7 +5486,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "soma1080",
   "in_reply_to_user_id_str" : "17891157",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -5519,7 +5519,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "papanda",
   "in_reply_to_user_id_str" : "3831641",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -5552,7 +5552,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "kogee",
   "in_reply_to_user_id_str" : "24492370",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -5580,7 +5580,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10984384358,
   "created_at" : "2010-03-24 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -5602,7 +5602,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10984480513,
   "created_at" : "2010-03-24 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -5630,7 +5630,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10984524946,
   "created_at" : "2010-03-24 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -5648,7 +5648,7 @@ Grailbird.data.tweets_2010_03 =
       "id_str" : "3723641",
       "id" : 3723641
     }, {
-      "name" : "SHIOYA, Hiromu",
+      "name" : "\u304B\u3063\u3071",
       "screen_name" : "kwappa",
       "indices" : [ 50, 57 ],
       "id_str" : "6304032",
@@ -5670,7 +5670,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10984658889,
   "created_at" : "2010-03-24 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -5698,7 +5698,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10984813606,
   "created_at" : "2010-03-24 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -5720,7 +5720,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10984917510,
   "created_at" : "2010-03-24 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -5742,7 +5742,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10915111928,
   "created_at" : "2010-03-23 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -5764,7 +5764,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10916132834,
   "created_at" : "2010-03-23 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -5786,7 +5786,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10918456839,
   "created_at" : "2010-03-23 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -5808,7 +5808,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10918684846,
   "created_at" : "2010-03-23 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -5830,7 +5830,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10918892395,
   "created_at" : "2010-03-23 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -5852,7 +5852,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10918926301,
   "created_at" : "2010-03-23 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -5874,7 +5874,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10919078655,
   "created_at" : "2010-03-23 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -5896,7 +5896,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10919275563,
   "created_at" : "2010-03-23 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -5918,7 +5918,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10919453677,
   "created_at" : "2010-03-23 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -5940,7 +5940,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10920150687,
   "created_at" : "2010-03-23 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -5962,7 +5962,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10922125238,
   "created_at" : "2010-03-23 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -5984,7 +5984,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10924437213,
   "created_at" : "2010-03-23 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -6006,7 +6006,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10924495776,
   "created_at" : "2010-03-23 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -6018,7 +6018,7 @@ Grailbird.data.tweets_2010_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tatsuro Ueda@UK",
+      "name" : "Tatsuro Ueda",
       "screen_name" : "weed_7777",
       "indices" : [ 0, 10 ],
       "id_str" : "102055189",
@@ -6039,7 +6039,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "weed_7777",
   "in_reply_to_user_id_str" : "102055189",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -6061,7 +6061,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10925430998,
   "created_at" : "2010-03-23 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -6083,7 +6083,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10925634745,
   "created_at" : "2010-03-23 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -6105,7 +6105,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10927124493,
   "created_at" : "2010-03-23 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -6138,7 +6138,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "papanda",
   "in_reply_to_user_id_str" : "3831641",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -6160,7 +6160,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10928328477,
   "created_at" : "2010-03-23 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -6182,7 +6182,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10928415399,
   "created_at" : "2010-03-23 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -6215,7 +6215,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "yamaguchiintlab",
   "in_reply_to_user_id_str" : "10172212",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -6237,7 +6237,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10928469252,
   "created_at" : "2010-03-23 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -6259,7 +6259,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10944996538,
   "created_at" : "2010-03-23 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -6281,7 +6281,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10945981345,
   "created_at" : "2010-03-23 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -6314,7 +6314,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "orangevtr",
   "in_reply_to_user_id_str" : "21987228",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -6342,7 +6342,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10898384071,
   "created_at" : "2010-03-23 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -6370,7 +6370,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10898596462,
   "created_at" : "2010-03-23 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -6392,7 +6392,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10899326670,
   "created_at" : "2010-03-23 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -6414,7 +6414,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10900792426,
   "created_at" : "2010-03-23 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -6447,7 +6447,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "Tatslight",
   "in_reply_to_user_id_str" : "16704021",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -6480,7 +6480,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "georz",
   "in_reply_to_user_id_str" : "16201832",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -6502,7 +6502,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10907116904,
   "created_at" : "2010-03-23 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -6530,7 +6530,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10908490806,
   "created_at" : "2010-03-23 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -6552,7 +6552,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10912626692,
   "created_at" : "2010-03-23 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -6585,7 +6585,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "yamaguchiintlab",
   "in_reply_to_user_id_str" : "10172212",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -6618,7 +6618,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "oranie",
   "in_reply_to_user_id_str" : "6641712",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -6640,7 +6640,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10914607123,
   "created_at" : "2010-03-23 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -6668,7 +6668,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10914655019,
   "created_at" : "2010-03-23 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -6690,7 +6690,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10848921719,
   "created_at" : "2010-03-22 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -6712,7 +6712,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10857877132,
   "created_at" : "2010-03-22 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -6763,7 +6763,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10858800697,
   "created_at" : "2010-03-22 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -6785,7 +6785,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10858820292,
   "created_at" : "2010-03-22 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -6807,7 +6807,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10859150806,
   "created_at" : "2010-03-22 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -6829,7 +6829,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10860116834,
   "created_at" : "2010-03-22 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -6851,7 +6851,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10861162477,
   "created_at" : "2010-03-22 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -6873,7 +6873,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10861622970,
   "created_at" : "2010-03-22 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -6898,7 +6898,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10861810289,
   "created_at" : "2010-03-22 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -6923,7 +6923,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10861844825,
   "created_at" : "2010-03-22 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -6945,7 +6945,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10863682173,
   "created_at" : "2010-03-22 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -6978,7 +6978,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "okaji",
   "in_reply_to_user_id_str" : "6192032",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -7009,7 +7009,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10864836437,
   "created_at" : "2010-03-22 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -7034,7 +7034,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10865552606,
   "created_at" : "2010-03-22 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -7056,7 +7056,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10865580937,
   "created_at" : "2010-03-22 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -7089,7 +7089,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "PSTY",
   "in_reply_to_user_id_str" : "5518822",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -7111,7 +7111,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10866449293,
   "created_at" : "2010-03-22 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -7136,7 +7136,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10870733361,
   "created_at" : "2010-03-22 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -7161,7 +7161,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10871001925,
   "created_at" : "2010-03-22 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -7186,7 +7186,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10871068638,
   "created_at" : "2010-03-22 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -7211,7 +7211,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10873014777,
   "created_at" : "2010-03-22 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -7233,7 +7233,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10892012850,
   "created_at" : "2010-03-22 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -7255,7 +7255,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10892429660,
   "created_at" : "2010-03-22 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -7267,7 +7267,7 @@ Grailbird.data.tweets_2010_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u4E8C\u90CE\uD83C\uDF65",
+      "name" : "\u30E2\u30D2\u304A \uD83C\uDF17\uFE0F Loft",
       "screen_name" : "akitsukada",
       "indices" : [ 0, 11 ],
       "id_str" : "43361083",
@@ -7288,7 +7288,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "akitsukada",
   "in_reply_to_user_id_str" : "43361083",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -7310,7 +7310,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10805916150,
   "created_at" : "2010-03-21 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -7332,7 +7332,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10806850317,
   "created_at" : "2010-03-21 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -7354,7 +7354,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10807553134,
   "created_at" : "2010-03-21 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -7411,7 +7411,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10808609333,
   "created_at" : "2010-03-21 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -7462,7 +7462,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10808861695,
   "created_at" : "2010-03-21 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -7513,7 +7513,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10809877323,
   "created_at" : "2010-03-21 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -7570,7 +7570,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10810564169,
   "created_at" : "2010-03-21 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -7592,7 +7592,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10812799241,
   "created_at" : "2010-03-21 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -7614,7 +7614,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10815857269,
   "created_at" : "2010-03-21 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -7636,7 +7636,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10841720502,
   "created_at" : "2010-03-21 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -7669,7 +7669,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "yamaguchiintlab",
   "in_reply_to_user_id_str" : "10172212",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -7691,7 +7691,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10844175934,
   "created_at" : "2010-03-21 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -7713,7 +7713,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10797321090,
   "created_at" : "2010-03-21 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -7735,7 +7735,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10798761317,
   "created_at" : "2010-03-21 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -7763,7 +7763,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10802736442,
   "created_at" : "2010-03-21 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -7785,7 +7785,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10803362951,
   "created_at" : "2010-03-21 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -7807,7 +7807,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10804018094,
   "created_at" : "2010-03-21 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -7819,7 +7819,7 @@ Grailbird.data.tweets_2010_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Yuumi Yoshida",
+      "name" : "\u5409\u7530 \u88D5\u7F8E",
       "screen_name" : "yuumi3",
       "indices" : [ 0, 7 ],
       "id_str" : "8331722",
@@ -7840,7 +7840,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "yuumi3",
   "in_reply_to_user_id_str" : "8331722",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -7862,7 +7862,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10804496324,
   "created_at" : "2010-03-21 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -7884,7 +7884,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10804667538,
   "created_at" : "2010-03-21 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -7906,7 +7906,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10804974621,
   "created_at" : "2010-03-21 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -7928,7 +7928,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10805056656,
   "created_at" : "2010-03-21 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -7950,7 +7950,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10805189885,
   "created_at" : "2010-03-21 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -7975,7 +7975,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10750877881,
   "created_at" : "2010-03-20 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -8000,7 +8000,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10752874725,
   "created_at" : "2010-03-20 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -8025,7 +8025,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10753233405,
   "created_at" : "2010-03-20 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -8050,7 +8050,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10753681882,
   "created_at" : "2010-03-20 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -8072,7 +8072,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10756528052,
   "created_at" : "2010-03-20 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -8094,7 +8094,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10757958901,
   "created_at" : "2010-03-20 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -8116,7 +8116,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10758551034,
   "created_at" : "2010-03-20 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -8138,7 +8138,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10758788359,
   "created_at" : "2010-03-20 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -8160,7 +8160,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10759143261,
   "created_at" : "2010-03-20 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -8182,7 +8182,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10759556064,
   "created_at" : "2010-03-20 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -8204,7 +8204,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10759651302,
   "created_at" : "2010-03-20 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -8226,7 +8226,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10760114277,
   "created_at" : "2010-03-20 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -8248,7 +8248,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10760537655,
   "created_at" : "2010-03-20 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -8270,7 +8270,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10761558220,
   "created_at" : "2010-03-20 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -8301,7 +8301,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10762060253,
   "created_at" : "2010-03-20 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -8323,7 +8323,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10762206569,
   "created_at" : "2010-03-20 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -8345,7 +8345,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10762371505,
   "created_at" : "2010-03-20 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -8367,7 +8367,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10762485256,
   "created_at" : "2010-03-20 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -8389,7 +8389,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10764372572,
   "created_at" : "2010-03-20 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -8411,7 +8411,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10764382639,
   "created_at" : "2010-03-20 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -8433,7 +8433,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10765282950,
   "created_at" : "2010-03-20 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -8490,7 +8490,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10766684995,
   "created_at" : "2010-03-20 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -8512,7 +8512,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10767983932,
   "created_at" : "2010-03-20 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -8534,7 +8534,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10769085602,
   "created_at" : "2010-03-20 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -8556,7 +8556,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10770375460,
   "created_at" : "2010-03-20 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -8578,7 +8578,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10771101600,
   "created_at" : "2010-03-20 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -8600,7 +8600,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10793828453,
   "created_at" : "2010-03-20 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -8618,7 +8618,7 @@ Grailbird.data.tweets_2010_03 =
       "id_str" : "65222093",
       "id" : 65222093
     }, {
-      "name" : "SHIOYA, Hiromu",
+      "name" : "\u304B\u3063\u3071",
       "screen_name" : "kwappa",
       "indices" : [ 27, 34 ],
       "id_str" : "6304032",
@@ -8634,7 +8634,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10727312905,
   "created_at" : "2010-03-19 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -8662,7 +8662,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10727474938,
   "created_at" : "2010-03-19 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -8684,7 +8684,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10727525254,
   "created_at" : "2010-03-19 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -8696,7 +8696,7 @@ Grailbird.data.tweets_2010_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "hayashih@\u6280\u8853\u66F8\u51785 \u304D-11",
+      "name" : "hayashih",
       "screen_name" : "hayashih",
       "indices" : [ 0, 9 ],
       "id_str" : "3695431",
@@ -8717,7 +8717,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "hayashih",
   "in_reply_to_user_id_str" : "3695431",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -8739,7 +8739,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10728031911,
   "created_at" : "2010-03-19 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -8772,7 +8772,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "skc",
   "in_reply_to_user_id_str" : "3723641",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -8797,7 +8797,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10728334496,
   "created_at" : "2010-03-19 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -8819,7 +8819,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10743082149,
   "created_at" : "2010-03-19 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -8841,7 +8841,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10743100886,
   "created_at" : "2010-03-19 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -8863,7 +8863,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10743728236,
   "created_at" : "2010-03-19 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -8885,7 +8885,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10745131880,
   "created_at" : "2010-03-19 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -8918,7 +8918,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "yamaguchiintlab",
   "in_reply_to_user_id_str" : "10172212",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -8930,7 +8930,7 @@ Grailbird.data.tweets_2010_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "igaiga@\u6280\u8853\u66F8\u51785\u3010\u30B903\u3011pixiv PAY\u306E\u8584\u3044\u672C",
+      "name" : "igaiga",
       "screen_name" : "igaiga555",
       "indices" : [ 0, 10 ],
       "id_str" : "4596601",
@@ -8951,7 +8951,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "igaiga555",
   "in_reply_to_user_id_str" : "4596601",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -8984,7 +8984,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "bash0C7",
   "in_reply_to_user_id_str" : "3987001",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -9006,7 +9006,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10702445062,
   "created_at" : "2010-03-19 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -9028,7 +9028,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10704267017,
   "created_at" : "2010-03-19 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -9050,7 +9050,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10704446586,
   "created_at" : "2010-03-19 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -9101,7 +9101,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10704994379,
   "created_at" : "2010-03-19 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -9123,7 +9123,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10707839612,
   "created_at" : "2010-03-19 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -9145,7 +9145,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10708250126,
   "created_at" : "2010-03-19 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -9167,7 +9167,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10709258023,
   "created_at" : "2010-03-19 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -9189,7 +9189,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10709866565,
   "created_at" : "2010-03-19 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -9211,7 +9211,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10710922951,
   "created_at" : "2010-03-19 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -9239,7 +9239,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10711908668,
   "created_at" : "2010-03-19 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -9261,7 +9261,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10712351434,
   "created_at" : "2010-03-19 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -9312,7 +9312,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10712426321,
   "created_at" : "2010-03-19 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -9334,7 +9334,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10713816146,
   "created_at" : "2010-03-19 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -9368,7 +9368,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10714770539,
   "created_at" : "2010-03-19 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -9390,7 +9390,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10715222700,
   "created_at" : "2010-03-19 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -9415,7 +9415,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10715883740,
   "created_at" : "2010-03-19 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -9440,7 +9440,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10716384879,
   "created_at" : "2010-03-19 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -9465,7 +9465,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10716410410,
   "created_at" : "2010-03-19 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -9490,7 +9490,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10716845044,
   "created_at" : "2010-03-19 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -9515,7 +9515,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10716914192,
   "created_at" : "2010-03-19 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -9540,7 +9540,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10717204993,
   "created_at" : "2010-03-19 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -9565,7 +9565,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10717345962,
   "created_at" : "2010-03-19 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -9590,7 +9590,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10717366855,
   "created_at" : "2010-03-19 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -9615,7 +9615,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10717410770,
   "created_at" : "2010-03-19 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -9640,7 +9640,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10717441001,
   "created_at" : "2010-03-19 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -9665,7 +9665,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10717482135,
   "created_at" : "2010-03-19 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -9690,7 +9690,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10717624378,
   "created_at" : "2010-03-19 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -9715,7 +9715,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10717677224,
   "created_at" : "2010-03-19 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -9740,7 +9740,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10718075296,
   "created_at" : "2010-03-19 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -9765,7 +9765,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10718269292,
   "created_at" : "2010-03-19 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -9790,7 +9790,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10718403779,
   "created_at" : "2010-03-19 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -9812,7 +9812,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10721364143,
   "created_at" : "2010-03-19 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -9834,7 +9834,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10722000741,
   "created_at" : "2010-03-19 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -9856,7 +9856,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10722089390,
   "created_at" : "2010-03-19 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -9878,7 +9878,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10722110251,
   "created_at" : "2010-03-19 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -9900,7 +9900,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10722291451,
   "created_at" : "2010-03-19 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -9922,7 +9922,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10722644485,
   "created_at" : "2010-03-19 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -9944,7 +9944,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10725602456,
   "created_at" : "2010-03-19 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -9966,7 +9966,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10725825027,
   "created_at" : "2010-03-19 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -9988,7 +9988,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10725887890,
   "created_at" : "2010-03-19 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -10016,7 +10016,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10726020073,
   "created_at" : "2010-03-19 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -10028,7 +10028,7 @@ Grailbird.data.tweets_2010_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u4E8C\u90CE\uD83C\uDF65",
+      "name" : "\u30E2\u30D2\u304A \uD83C\uDF17\uFE0F Loft",
       "screen_name" : "akitsukada",
       "indices" : [ 17, 28 ],
       "id_str" : "43361083",
@@ -10044,7 +10044,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10726710137,
   "created_at" : "2010-03-19 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -10066,7 +10066,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10726795712,
   "created_at" : "2010-03-19 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -10088,7 +10088,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10726904624,
   "created_at" : "2010-03-19 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -10110,7 +10110,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10726990044,
   "created_at" : "2010-03-19 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -10143,7 +10143,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "do_aki",
   "in_reply_to_user_id_str" : "6257222",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -10165,7 +10165,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10727111789,
   "created_at" : "2010-03-19 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -10187,7 +10187,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10727263871,
   "created_at" : "2010-03-19 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -10218,7 +10218,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10696226976,
   "created_at" : "2010-03-19 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -10251,7 +10251,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "OuchOuchOuch",
   "in_reply_to_user_id_str" : "13762352",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -10263,7 +10263,7 @@ Grailbird.data.tweets_2010_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u4E8C\u90CE\uD83C\uDF65",
+      "name" : "\u30E2\u30D2\u304A \uD83C\uDF17\uFE0F Loft",
       "screen_name" : "akitsukada",
       "indices" : [ 0, 11 ],
       "id_str" : "43361083",
@@ -10284,7 +10284,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "akitsukada",
   "in_reply_to_user_id_str" : "43361083",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -10306,7 +10306,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10698702841,
   "created_at" : "2010-03-19 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -10318,7 +10318,7 @@ Grailbird.data.tweets_2010_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "igaiga@\u6280\u8853\u66F8\u51785\u3010\u30B903\u3011pixiv PAY\u306E\u8584\u3044\u672C",
+      "name" : "igaiga",
       "screen_name" : "igaiga555",
       "indices" : [ 10, 20 ],
       "id_str" : "4596601",
@@ -10346,7 +10346,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10700242100,
   "created_at" : "2010-03-19 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -10358,7 +10358,7 @@ Grailbird.data.tweets_2010_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "igaiga@\u6280\u8853\u66F8\u51785\u3010\u30B903\u3011pixiv PAY\u306E\u8584\u3044\u672C",
+      "name" : "igaiga",
       "screen_name" : "igaiga555",
       "indices" : [ 0, 10 ],
       "id_str" : "4596601",
@@ -10379,7 +10379,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "igaiga555",
   "in_reply_to_user_id_str" : "4596601",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -10397,7 +10397,7 @@ Grailbird.data.tweets_2010_03 =
       "id_str" : "3700951",
       "id" : 3700951
     }, {
-      "name" : "igaiga@\u6280\u8853\u66F8\u51785\u3010\u30B903\u3011pixiv PAY\u306E\u8584\u3044\u672C",
+      "name" : "igaiga",
       "screen_name" : "igaiga555",
       "indices" : [ 26, 36 ],
       "id_str" : "4596601",
@@ -10413,7 +10413,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10700597079,
   "created_at" : "2010-03-19 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -10450,7 +10450,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10701054631,
   "created_at" : "2010-03-19 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -10462,7 +10462,7 @@ Grailbird.data.tweets_2010_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u4E8C\u90CE\uD83C\uDF65",
+      "name" : "\u30E2\u30D2\u304A \uD83C\uDF17\uFE0F Loft",
       "screen_name" : "akitsukada",
       "indices" : [ 0, 11 ],
       "id_str" : "43361083",
@@ -10483,7 +10483,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "akitsukada",
   "in_reply_to_user_id_str" : "43361083",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -10505,7 +10505,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10646801157,
   "created_at" : "2010-03-18 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -10530,7 +10530,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10648212065,
   "created_at" : "2010-03-18 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -10555,7 +10555,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10651639989,
   "created_at" : "2010-03-18 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -10567,7 +10567,7 @@ Grailbird.data.tweets_2010_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u4E8C\u90CE\uD83C\uDF65",
+      "name" : "\u30E2\u30D2\u304A \uD83C\uDF17\uFE0F Loft",
       "screen_name" : "akitsukada",
       "indices" : [ 0, 11 ],
       "id_str" : "43361083",
@@ -10591,7 +10591,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "akitsukada",
   "in_reply_to_user_id_str" : "43361083",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -10616,7 +10616,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10653660115,
   "created_at" : "2010-03-18 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -10652,7 +10652,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "codma",
   "in_reply_to_user_id_str" : "38705420",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -10674,7 +10674,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10656454491,
   "created_at" : "2010-03-18 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -10696,7 +10696,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10656504346,
   "created_at" : "2010-03-18 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -10724,7 +10724,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10660004631,
   "created_at" : "2010-03-18 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -10736,7 +10736,7 @@ Grailbird.data.tweets_2010_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "GNUE(\u9D7A) \uD83C\uDF41",
+      "name" : "GNUE(\u9D7A) \u2744\uFE0F",
       "screen_name" : "gnue",
       "indices" : [ 3, 8 ],
       "id_str" : "15647244",
@@ -10748,7 +10748,7 @@ Grailbird.data.tweets_2010_03 =
       "id_str" : "99008565",
       "id" : 99008565
     }, {
-      "name" : "SHIOYA, Hiromu",
+      "name" : "\u304B\u3063\u3071",
       "screen_name" : "kwappa",
       "indices" : [ 23, 30 ],
       "id_str" : "6304032",
@@ -10777,7 +10777,7 @@ Grailbird.data.tweets_2010_03 =
         "id_str" : "99008565",
         "id" : 99008565
       }, {
-        "name" : "SHIOYA, Hiromu",
+        "name" : "\u304B\u3063\u3071",
         "screen_name" : "kwappa",
         "indices" : [ 13, 20 ],
         "id_str" : "6304032",
@@ -10799,7 +10799,7 @@ Grailbird.data.tweets_2010_03 =
     "id" : 10660807810,
     "created_at" : "2010-03-18 07:31:20 +0000",
     "user" : {
-      "name" : "GNUE(\u9D7A) \uD83C\uDF41",
+      "name" : "GNUE(\u9D7A) \u2744\uFE0F",
       "screen_name" : "gnue",
       "protected" : false,
       "id_str" : "15647244",
@@ -10811,7 +10811,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10660934054,
   "created_at" : "2010-03-18 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -10823,7 +10823,7 @@ Grailbird.data.tweets_2010_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "GNUE(\u9D7A) \uD83C\uDF41",
+      "name" : "GNUE(\u9D7A) \u2744\uFE0F",
       "screen_name" : "gnue",
       "indices" : [ 0, 5 ],
       "id_str" : "15647244",
@@ -10844,7 +10844,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "gnue",
   "in_reply_to_user_id_str" : "15647244",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -10856,7 +10856,7 @@ Grailbird.data.tweets_2010_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "GNUE(\u9D7A) \uD83C\uDF41",
+      "name" : "GNUE(\u9D7A) \u2744\uFE0F",
       "screen_name" : "gnue",
       "indices" : [ 0, 5 ],
       "id_str" : "15647244",
@@ -10877,7 +10877,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "gnue",
   "in_reply_to_user_id_str" : "15647244",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -10899,7 +10899,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10664294945,
   "created_at" : "2010-03-18 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -10927,7 +10927,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10664894050,
   "created_at" : "2010-03-18 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -10949,7 +10949,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10690255494,
   "created_at" : "2010-03-18 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -10977,7 +10977,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10690923840,
   "created_at" : "2010-03-18 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -10999,7 +10999,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10690983173,
   "created_at" : "2010-03-18 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -11021,7 +11021,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10691351160,
   "created_at" : "2010-03-18 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -11033,7 +11033,7 @@ Grailbird.data.tweets_2010_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Zorotto BJ",
+      "name" : "Zorotto BJ@\u5927\u30B5\u30C8\u30FC\u5B66\u4F1A",
       "screen_name" : "zorotto_BJ",
       "indices" : [ 0, 11 ],
       "id_str" : "39410610",
@@ -11054,7 +11054,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "zorotto_BJ",
   "in_reply_to_user_id_str" : "39410610",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -11079,7 +11079,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10691631113,
   "created_at" : "2010-03-18 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -11101,7 +11101,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10693920460,
   "created_at" : "2010-03-18 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -11123,7 +11123,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10696031004,
   "created_at" : "2010-03-18 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -11151,7 +11151,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10696058311,
   "created_at" : "2010-03-18 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -11176,7 +11176,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10620366928,
   "created_at" : "2010-03-17 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -11201,7 +11201,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10620472703,
   "created_at" : "2010-03-17 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -11226,7 +11226,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10620807897,
   "created_at" : "2010-03-17 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -11251,7 +11251,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10621369818,
   "created_at" : "2010-03-17 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -11279,7 +11279,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10622886186,
   "created_at" : "2010-03-17 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -11304,7 +11304,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10622998650,
   "created_at" : "2010-03-17 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -11332,7 +11332,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10623293505,
   "created_at" : "2010-03-17 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -11354,7 +11354,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10624356016,
   "created_at" : "2010-03-17 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -11372,7 +11372,7 @@ Grailbird.data.tweets_2010_03 =
       "id_str" : "6641712",
       "id" : 6641712
     }, {
-      "name" : "\u4E8C\u90CE\uD83C\uDF65",
+      "name" : "\u30E2\u30D2\u304A \uD83C\uDF17\uFE0F Loft",
       "screen_name" : "akitsukada",
       "indices" : [ 8, 19 ],
       "id_str" : "43361083",
@@ -11397,7 +11397,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "oranie",
   "in_reply_to_user_id_str" : "6641712",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -11419,7 +11419,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10624954369,
   "created_at" : "2010-03-17 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -11441,7 +11441,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10625323097,
   "created_at" : "2010-03-17 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -11474,7 +11474,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "kogee",
   "in_reply_to_user_id_str" : "24492370",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -11492,7 +11492,7 @@ Grailbird.data.tweets_2010_03 =
       "id_str" : "1087742132",
       "id" : 1087742132
     }, {
-      "name" : "SHIOYA, Hiromu",
+      "name" : "\u304B\u3063\u3071",
       "screen_name" : "kwappa",
       "indices" : [ 62, 69 ],
       "id_str" : "6304032",
@@ -11508,7 +11508,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10625787411,
   "created_at" : "2010-03-17 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -11530,7 +11530,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10626142934,
   "created_at" : "2010-03-17 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -11552,7 +11552,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10640638123,
   "created_at" : "2010-03-17 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -11574,7 +11574,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10640681632,
   "created_at" : "2010-03-17 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -11596,7 +11596,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10642976661,
   "created_at" : "2010-03-17 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -11618,7 +11618,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10643245506,
   "created_at" : "2010-03-17 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -11640,7 +11640,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10595318043,
   "created_at" : "2010-03-17 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -11668,7 +11668,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10595806048,
   "created_at" : "2010-03-17 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -11690,7 +11690,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10595965481,
   "created_at" : "2010-03-17 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -11712,7 +11712,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10597083887,
   "created_at" : "2010-03-17 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -11734,7 +11734,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10597529295,
   "created_at" : "2010-03-17 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -11756,7 +11756,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10598590955,
   "created_at" : "2010-03-17 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -11813,7 +11813,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10600082915,
   "created_at" : "2010-03-17 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -11864,7 +11864,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10603139724,
   "created_at" : "2010-03-17 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -11886,7 +11886,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10607118791,
   "created_at" : "2010-03-17 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -11919,7 +11919,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "arihh",
   "in_reply_to_user_id_str" : "27818735",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -11941,7 +11941,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10608601601,
   "created_at" : "2010-03-17 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -11992,7 +11992,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10608614384,
   "created_at" : "2010-03-17 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -12020,7 +12020,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10609416721,
   "created_at" : "2010-03-17 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -12042,7 +12042,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10609899735,
   "created_at" : "2010-03-17 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -12064,7 +12064,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10612739696,
   "created_at" : "2010-03-17 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -12098,7 +12098,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10612878211,
   "created_at" : "2010-03-17 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -12131,7 +12131,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "okaji",
   "in_reply_to_user_id_str" : "6192032",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -12153,7 +12153,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10614399618,
   "created_at" : "2010-03-17 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -12175,7 +12175,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10615742842,
   "created_at" : "2010-03-17 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -12197,7 +12197,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10616065925,
   "created_at" : "2010-03-17 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -12230,7 +12230,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "skc",
   "in_reply_to_user_id_str" : "3723641",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -12242,7 +12242,7 @@ Grailbird.data.tweets_2010_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u4E8C\u90CE\uD83C\uDF65",
+      "name" : "\u30E2\u30D2\u304A \uD83C\uDF17\uFE0F Loft",
       "screen_name" : "akitsukada",
       "indices" : [ 0, 11 ],
       "id_str" : "43361083",
@@ -12263,7 +12263,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "akitsukada",
   "in_reply_to_user_id_str" : "43361083",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -12288,7 +12288,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10617282172,
   "created_at" : "2010-03-17 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -12313,7 +12313,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10617408267,
   "created_at" : "2010-03-17 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -12338,7 +12338,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10617482156,
   "created_at" : "2010-03-17 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -12363,7 +12363,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10617904123,
   "created_at" : "2010-03-17 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -12388,7 +12388,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10618305134,
   "created_at" : "2010-03-17 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -12413,7 +12413,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10618358685,
   "created_at" : "2010-03-17 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -12438,7 +12438,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10618549844,
   "created_at" : "2010-03-17 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -12463,7 +12463,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10619113919,
   "created_at" : "2010-03-17 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -12488,7 +12488,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10619342627,
   "created_at" : "2010-03-17 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -12513,7 +12513,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10619470392,
   "created_at" : "2010-03-17 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -12538,7 +12538,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10619807651,
   "created_at" : "2010-03-17 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -12563,7 +12563,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10619848491,
   "created_at" : "2010-03-17 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -12588,7 +12588,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10620108639,
   "created_at" : "2010-03-17 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -12613,7 +12613,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10620277063,
   "created_at" : "2010-03-17 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -12638,7 +12638,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10620317898,
   "created_at" : "2010-03-17 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -12660,7 +12660,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10558255748,
   "created_at" : "2010-03-16 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -12688,7 +12688,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10559519696,
   "created_at" : "2010-03-16 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -12710,7 +12710,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10559570448,
   "created_at" : "2010-03-16 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -12732,7 +12732,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10561803429,
   "created_at" : "2010-03-16 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -12760,7 +12760,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10562445859,
   "created_at" : "2010-03-16 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -12782,7 +12782,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10563282455,
   "created_at" : "2010-03-16 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -12804,7 +12804,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10565461829,
   "created_at" : "2010-03-16 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -12855,7 +12855,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10570654325,
   "created_at" : "2010-03-16 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -12906,7 +12906,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10570786046,
   "created_at" : "2010-03-16 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -12928,7 +12928,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10571416148,
   "created_at" : "2010-03-16 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -12950,7 +12950,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10589596812,
   "created_at" : "2010-03-16 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -12972,7 +12972,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10589633676,
   "created_at" : "2010-03-16 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -13000,7 +13000,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10592933029,
   "created_at" : "2010-03-16 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -13037,7 +13037,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "freedomcat",
   "in_reply_to_user_id_str" : "3606041",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -13059,7 +13059,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10544690394,
   "created_at" : "2010-03-16 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -13092,7 +13092,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "Kirika_K2",
   "in_reply_to_user_id_str" : "16545216",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -13114,7 +13114,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10547868574,
   "created_at" : "2010-03-16 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -13147,7 +13147,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "kawaguti",
   "in_reply_to_user_id_str" : "4571551",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -13169,7 +13169,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10548761721,
   "created_at" : "2010-03-16 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -13191,7 +13191,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10551128876,
   "created_at" : "2010-03-16 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -13213,7 +13213,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10551208142,
   "created_at" : "2010-03-16 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -13225,7 +13225,7 @@ Grailbird.data.tweets_2010_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "igaiga@\u6280\u8853\u66F8\u51785\u3010\u30B903\u3011pixiv PAY\u306E\u8584\u3044\u672C",
+      "name" : "igaiga",
       "screen_name" : "igaiga555",
       "indices" : [ 12, 22 ],
       "id_str" : "4596601",
@@ -13241,7 +13241,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10554245498,
   "created_at" : "2010-03-16 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -13253,7 +13253,7 @@ Grailbird.data.tweets_2010_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3057\u3085\u3046\u307E\u3044VR@Oculus Go\u30E6\u30FC\u30B6\u30FC",
+      "name" : "\u3057\u3085\u3046\u307E\u3044\u2B50\uFE0F\uD83D\uDCDE\uD83E\uDD19",
       "screen_name" : "shumai",
       "indices" : [ 3, 10 ],
       "id_str" : "3622971",
@@ -13280,11 +13280,11 @@ Grailbird.data.tweets_2010_03 =
     "id" : 10553796526,
     "created_at" : "2010-03-16 04:23:06 +0000",
     "user" : {
-      "name" : "\u3057\u3085\u3046\u307E\u3044VR@Oculus Go\u30E6\u30FC\u30B6\u30FC",
+      "name" : "\u3057\u3085\u3046\u307E\u3044\u2B50\uFE0F\uD83D\uDCDE\uD83E\uDD19",
       "screen_name" : "shumai",
       "protected" : false,
       "id_str" : "3622971",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/876118314711359489\/rrQ1ypN6_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1088117376879489024\/j4Z0Ngnf_normal.jpg",
       "id" : 3622971,
       "verified" : false
     }
@@ -13292,7 +13292,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10554620498,
   "created_at" : "2010-03-16 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -13304,13 +13304,13 @@ Grailbird.data.tweets_2010_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "mochiko\uFF2010\/8 \u6280\u8853\u66F8\u51785\u3010\u3042-13\u3011AWS\u3092\u306F\u3058\u3081\u3088\u3046\u3092\u9812\u5E03\u2661",
+      "name" : "mochiko\uFF20\u300CAWS\u3092\u306F\u3058\u3081\u3088\u3046\u300D\u3092BOOTH\u3067\u767A\u58F2\u4E2D\u2661",
       "screen_name" : "mochikoAsTech",
       "indices" : [ 41, 55 ],
       "id_str" : "13437942",
       "id" : 13437942
     }, {
-      "name" : "SHIOYA, Hiromu",
+      "name" : "\u304B\u3063\u3071",
       "screen_name" : "kwappa",
       "indices" : [ 57, 64 ],
       "id_str" : "6304032",
@@ -13326,7 +13326,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10555099957,
   "created_at" : "2010-03-16 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -13366,7 +13366,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10557277835,
   "created_at" : "2010-03-16 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -13388,7 +13388,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10557439640,
   "created_at" : "2010-03-16 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -13410,7 +13410,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10557530429,
   "created_at" : "2010-03-16 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -13443,7 +13443,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "regtan",
   "in_reply_to_user_id_str" : "10835022",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -13465,7 +13465,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10492208949,
   "created_at" : "2010-03-15 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -13487,7 +13487,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10493336525,
   "created_at" : "2010-03-15 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -13511,7 +13511,7 @@ Grailbird.data.tweets_2010_03 =
       "id_str" : "10172212",
       "id" : 10172212
     }, {
-      "name" : "\u4E8C\u90CE\uD83C\uDF65",
+      "name" : "\u30E2\u30D2\u304A \uD83C\uDF17\uFE0F Loft",
       "screen_name" : "akitsukada",
       "indices" : [ 52, 63 ],
       "id_str" : "43361083",
@@ -13530,7 +13530,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10493374677,
   "created_at" : "2010-03-15 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -13552,7 +13552,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10493694657,
   "created_at" : "2010-03-15 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -13574,7 +13574,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10497881784,
   "created_at" : "2010-03-15 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -13596,7 +13596,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10498254601,
   "created_at" : "2010-03-15 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -13618,7 +13618,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10499926146,
   "created_at" : "2010-03-15 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -13669,7 +13669,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10505247148,
   "created_at" : "2010-03-15 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -13681,7 +13681,7 @@ Grailbird.data.tweets_2010_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "igaiga@\u6280\u8853\u66F8\u51785\u3010\u30B903\u3011pixiv PAY\u306E\u8584\u3044\u672C",
+      "name" : "igaiga",
       "screen_name" : "igaiga555",
       "indices" : [ 0, 10 ],
       "id_str" : "4596601",
@@ -13702,7 +13702,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "igaiga555",
   "in_reply_to_user_id_str" : "4596601",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -13724,7 +13724,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10511274033,
   "created_at" : "2010-03-15 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -13757,7 +13757,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "yokatsuki",
   "in_reply_to_user_id_str" : "18628798",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -13782,7 +13782,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10511593759,
   "created_at" : "2010-03-15 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -13812,7 +13812,7 @@ Grailbird.data.tweets_2010_03 =
       "id_str" : "18628798",
       "id" : 18628798
     }, {
-      "name" : "SHIOYA, Hiromu",
+      "name" : "\u304B\u3063\u3071",
       "screen_name" : "kwappa",
       "indices" : [ 91, 98 ],
       "id_str" : "6304032",
@@ -13828,7 +13828,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10511675779,
   "created_at" : "2010-03-15 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -13850,7 +13850,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10511720582,
   "created_at" : "2010-03-15 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -13868,7 +13868,7 @@ Grailbird.data.tweets_2010_03 =
       "id_str" : "4571551",
       "id" : 4571551
     }, {
-      "name" : "\u4EBA",
+      "name" : "\u30E1\u30D3\u30A6\u30B91",
       "screen_name" : "yoshiori",
       "indices" : [ 24, 33 ],
       "id_str" : "3213261",
@@ -13887,7 +13887,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10511852969,
   "created_at" : "2010-03-15 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -13909,7 +13909,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10511989662,
   "created_at" : "2010-03-15 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -13931,7 +13931,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10536147428,
   "created_at" : "2010-03-15 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -13953,7 +13953,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10536233390,
   "created_at" : "2010-03-15 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -13975,7 +13975,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10536900364,
   "created_at" : "2010-03-15 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -13997,7 +13997,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10537044103,
   "created_at" : "2010-03-15 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -14025,7 +14025,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10538630812,
   "created_at" : "2010-03-15 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -14047,7 +14047,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10538700743,
   "created_at" : "2010-03-15 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -14075,7 +14075,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10461118786,
   "created_at" : "2010-03-14 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -14100,7 +14100,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10461297366,
   "created_at" : "2010-03-14 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -14122,7 +14122,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10461513842,
   "created_at" : "2010-03-14 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -14155,7 +14155,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "kogee",
   "in_reply_to_user_id_str" : "24492370",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -14177,7 +14177,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10462167198,
   "created_at" : "2010-03-14 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -14202,7 +14202,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10462478353,
   "created_at" : "2010-03-14 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -14224,7 +14224,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10462642630,
   "created_at" : "2010-03-14 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -14252,7 +14252,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10462975178,
   "created_at" : "2010-03-14 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -14274,7 +14274,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10463469944,
   "created_at" : "2010-03-14 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -14296,7 +14296,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10464308913,
   "created_at" : "2010-03-14 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -14318,7 +14318,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10467298685,
   "created_at" : "2010-03-14 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -14340,7 +14340,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10485350672,
   "created_at" : "2010-03-14 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -14362,7 +14362,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10489332338,
   "created_at" : "2010-03-14 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -14384,7 +14384,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10444543121,
   "created_at" : "2010-03-14 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -14409,7 +14409,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10451890540,
   "created_at" : "2010-03-14 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -14434,7 +14434,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10453141711,
   "created_at" : "2010-03-14 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -14459,7 +14459,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10453821975,
   "created_at" : "2010-03-14 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -14481,7 +14481,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10454022144,
   "created_at" : "2010-03-14 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -14503,7 +14503,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10458238414,
   "created_at" : "2010-03-14 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -14525,7 +14525,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10458811531,
   "created_at" : "2010-03-14 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -14558,7 +14558,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "okaji",
   "in_reply_to_user_id_str" : "6192032",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -14580,7 +14580,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10459714969,
   "created_at" : "2010-03-14 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -14602,7 +14602,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10460107426,
   "created_at" : "2010-03-14 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -14624,7 +14624,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10460184924,
   "created_at" : "2010-03-14 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -14657,7 +14657,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "okaji",
   "in_reply_to_user_id_str" : "6192032",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -14679,7 +14679,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10460582389,
   "created_at" : "2010-03-14 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -14713,7 +14713,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10461085612,
   "created_at" : "2010-03-14 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -14753,7 +14753,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10398266117,
   "created_at" : "2010-03-13 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -14775,7 +14775,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10399616269,
   "created_at" : "2010-03-13 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -14797,7 +14797,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10402905261,
   "created_at" : "2010-03-13 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -14819,7 +14819,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10402961175,
   "created_at" : "2010-03-13 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -14847,7 +14847,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10402992269,
   "created_at" : "2010-03-13 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -14872,7 +14872,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10404288387,
   "created_at" : "2010-03-13 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -14897,7 +14897,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10404473251,
   "created_at" : "2010-03-13 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -14922,7 +14922,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10404820942,
   "created_at" : "2010-03-13 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -14944,7 +14944,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10405998156,
   "created_at" : "2010-03-13 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -14969,7 +14969,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10406370054,
   "created_at" : "2010-03-13 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -14994,7 +14994,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10407331857,
   "created_at" : "2010-03-13 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -15019,7 +15019,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10407684556,
   "created_at" : "2010-03-13 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -15044,7 +15044,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10407979345,
   "created_at" : "2010-03-13 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -15069,7 +15069,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10408511220,
   "created_at" : "2010-03-13 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -15102,7 +15102,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "ymtm",
   "in_reply_to_user_id_str" : "16401873",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -15124,7 +15124,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10412504612,
   "created_at" : "2010-03-13 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -15146,7 +15146,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10412788575,
   "created_at" : "2010-03-13 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -15168,7 +15168,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10413535976,
   "created_at" : "2010-03-13 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -15193,7 +15193,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10413736275,
   "created_at" : "2010-03-13 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -15215,7 +15215,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10414796974,
   "created_at" : "2010-03-13 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -15243,7 +15243,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10417483894,
   "created_at" : "2010-03-13 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -15265,7 +15265,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10417692860,
   "created_at" : "2010-03-13 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -15287,7 +15287,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10438420917,
   "created_at" : "2010-03-13 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -15309,7 +15309,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10439904366,
   "created_at" : "2010-03-13 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -15342,7 +15342,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "skc",
   "in_reply_to_user_id_str" : "3723641",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -15364,7 +15364,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10441189066,
   "created_at" : "2010-03-13 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -15389,7 +15389,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10378813022,
   "created_at" : "2010-03-12 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -15416,7 +15416,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "pao5656",
   "in_reply_to_user_id_str" : "16979586",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -15438,7 +15438,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10380187408,
   "created_at" : "2010-03-12 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -15469,7 +15469,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "skc",
   "in_reply_to_user_id_str" : "3723641",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -15491,7 +15491,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10380857297,
   "created_at" : "2010-03-12 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -15513,7 +15513,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10381069111,
   "created_at" : "2010-03-12 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -15535,7 +15535,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10382337769,
   "created_at" : "2010-03-12 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -15557,7 +15557,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10394433180,
   "created_at" : "2010-03-12 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -15585,7 +15585,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10394668540,
   "created_at" : "2010-03-12 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -15607,7 +15607,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10396571391,
   "created_at" : "2010-03-12 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -15640,7 +15640,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "matsuou1",
   "in_reply_to_user_id_str" : "9243262",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -15673,7 +15673,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "regtan",
   "in_reply_to_user_id_str" : "10835022",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -15706,7 +15706,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "ripjyr",
   "in_reply_to_user_id_str" : "3989301",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -15739,7 +15739,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "ripjyr",
   "in_reply_to_user_id_str" : "3989301",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -15767,7 +15767,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10365553785,
   "created_at" : "2010-03-12 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -15789,7 +15789,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10365593475,
   "created_at" : "2010-03-12 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -15811,7 +15811,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10366486325,
   "created_at" : "2010-03-12 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -15836,7 +15836,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10366950665,
   "created_at" : "2010-03-12 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -15861,7 +15861,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10367035130,
   "created_at" : "2010-03-12 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -15886,7 +15886,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10367140177,
   "created_at" : "2010-03-12 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -15911,7 +15911,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10367304455,
   "created_at" : "2010-03-12 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -15936,7 +15936,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10367326579,
   "created_at" : "2010-03-12 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -15961,7 +15961,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10367401573,
   "created_at" : "2010-03-12 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -15986,7 +15986,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10367419845,
   "created_at" : "2010-03-12 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -16011,7 +16011,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10367460515,
   "created_at" : "2010-03-12 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -16036,7 +16036,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10367544891,
   "created_at" : "2010-03-12 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -16061,7 +16061,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10367568344,
   "created_at" : "2010-03-12 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -16086,7 +16086,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10367590980,
   "created_at" : "2010-03-12 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -16111,7 +16111,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10367682677,
   "created_at" : "2010-03-12 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -16136,7 +16136,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10367709206,
   "created_at" : "2010-03-12 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -16161,7 +16161,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10367778615,
   "created_at" : "2010-03-12 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -16186,7 +16186,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10367823840,
   "created_at" : "2010-03-12 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -16211,7 +16211,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10367886677,
   "created_at" : "2010-03-12 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -16236,7 +16236,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10368178135,
   "created_at" : "2010-03-12 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -16267,7 +16267,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10368443594,
   "created_at" : "2010-03-12 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -16292,7 +16292,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10368449811,
   "created_at" : "2010-03-12 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -16317,7 +16317,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10368511259,
   "created_at" : "2010-03-12 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -16342,7 +16342,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10368554772,
   "created_at" : "2010-03-12 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -16367,7 +16367,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10368582862,
   "created_at" : "2010-03-12 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -16392,7 +16392,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10368989857,
   "created_at" : "2010-03-12 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -16417,7 +16417,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10369095083,
   "created_at" : "2010-03-12 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -16442,7 +16442,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10369102459,
   "created_at" : "2010-03-12 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -16467,7 +16467,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10369187288,
   "created_at" : "2010-03-12 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -16492,7 +16492,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10369480507,
   "created_at" : "2010-03-12 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -16517,7 +16517,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10369519618,
   "created_at" : "2010-03-12 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -16542,7 +16542,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10369575060,
   "created_at" : "2010-03-12 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -16573,7 +16573,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10369690552,
   "created_at" : "2010-03-12 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -16604,7 +16604,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10370198831,
   "created_at" : "2010-03-12 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -16629,7 +16629,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10370221307,
   "created_at" : "2010-03-12 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -16654,7 +16654,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10370232781,
   "created_at" : "2010-03-12 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -16679,7 +16679,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10370244824,
   "created_at" : "2010-03-12 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -16704,7 +16704,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10370271383,
   "created_at" : "2010-03-12 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -16729,7 +16729,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10370486463,
   "created_at" : "2010-03-12 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -16754,7 +16754,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10370563048,
   "created_at" : "2010-03-12 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -16779,7 +16779,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10370623549,
   "created_at" : "2010-03-12 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -16801,7 +16801,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10371038754,
   "created_at" : "2010-03-12 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -16829,7 +16829,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10372192400,
   "created_at" : "2010-03-12 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -16857,7 +16857,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10372395600,
   "created_at" : "2010-03-12 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -16890,7 +16890,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "freedomcat",
   "in_reply_to_user_id_str" : "3606041",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -16912,7 +16912,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10377483496,
   "created_at" : "2010-03-12 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -16940,7 +16940,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10346733829,
   "created_at" : "2010-03-12 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -16962,7 +16962,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10348161846,
   "created_at" : "2010-03-12 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -16995,7 +16995,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "arihh",
   "in_reply_to_user_id_str" : "27818735",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -17017,7 +17017,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10350499491,
   "created_at" : "2010-03-12 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -17054,7 +17054,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "arihh",
   "in_reply_to_user_id_str" : "27818735",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -17076,7 +17076,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10350702639,
   "created_at" : "2010-03-12 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -17098,7 +17098,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10350831751,
   "created_at" : "2010-03-12 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -17126,7 +17126,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10351932258,
   "created_at" : "2010-03-12 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -17157,7 +17157,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "torazuka",
   "in_reply_to_user_id_str" : "27420006",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -17182,7 +17182,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10357243985,
   "created_at" : "2010-03-12 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -17210,7 +17210,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10357898980,
   "created_at" : "2010-03-12 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -17232,7 +17232,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10357945461,
   "created_at" : "2010-03-12 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -17260,7 +17260,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10357953237,
   "created_at" : "2010-03-12 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -17288,7 +17288,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10357984035,
   "created_at" : "2010-03-12 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -17310,7 +17310,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10358079675,
   "created_at" : "2010-03-12 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -17343,7 +17343,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "tomo_hiko",
   "in_reply_to_user_id_str" : "6177232",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -17371,7 +17371,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10358781810,
   "created_at" : "2010-03-12 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -17399,7 +17399,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10296874667,
   "created_at" : "2010-03-11 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -17421,7 +17421,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10296951822,
   "created_at" : "2010-03-11 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -17443,7 +17443,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10297154508,
   "created_at" : "2010-03-11 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -17471,7 +17471,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10297178941,
   "created_at" : "2010-03-11 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -17493,7 +17493,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10297522273,
   "created_at" : "2010-03-11 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -17515,7 +17515,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10298511830,
   "created_at" : "2010-03-11 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -17537,7 +17537,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10302934737,
   "created_at" : "2010-03-11 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -17559,7 +17559,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10306958021,
   "created_at" : "2010-03-11 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -17587,7 +17587,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10308844675,
   "created_at" : "2010-03-11 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -17609,7 +17609,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10308918375,
   "created_at" : "2010-03-11 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -17631,7 +17631,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10308932783,
   "created_at" : "2010-03-11 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -17664,7 +17664,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "yamaguchiintlab",
   "in_reply_to_user_id_str" : "10172212",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -17697,7 +17697,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "smellman",
   "in_reply_to_user_id_str" : "5138661",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -17719,7 +17719,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10309557100,
   "created_at" : "2010-03-11 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -17741,7 +17741,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10310020830,
   "created_at" : "2010-03-11 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -17763,7 +17763,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10311360412,
   "created_at" : "2010-03-11 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -17796,7 +17796,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "katsumic",
   "in_reply_to_user_id_str" : "16388110",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -17818,7 +17818,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10313355028,
   "created_at" : "2010-03-11 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -17851,7 +17851,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "syumikko",
   "in_reply_to_user_id_str" : "16284368",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -17884,7 +17884,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "yokatsuki",
   "in_reply_to_user_id_str" : "18628798",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -17906,7 +17906,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10316403997,
   "created_at" : "2010-03-11 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -17928,7 +17928,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10319649913,
   "created_at" : "2010-03-11 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -17950,7 +17950,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10323784184,
   "created_at" : "2010-03-11 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -17972,7 +17972,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10323837090,
   "created_at" : "2010-03-11 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -17994,7 +17994,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10323908124,
   "created_at" : "2010-03-11 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -18016,7 +18016,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10342192752,
   "created_at" : "2010-03-11 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -18038,7 +18038,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10343381867,
   "created_at" : "2010-03-11 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -18060,7 +18060,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10344272990,
   "created_at" : "2010-03-11 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -18082,7 +18082,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10344369550,
   "created_at" : "2010-03-11 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -18104,7 +18104,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10344622760,
   "created_at" : "2010-03-11 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -18126,7 +18126,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10344835240,
   "created_at" : "2010-03-11 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -18148,7 +18148,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10345018298,
   "created_at" : "2010-03-11 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -18170,7 +18170,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10294419120,
   "created_at" : "2010-03-10 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -18192,7 +18192,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10245915127,
   "created_at" : "2010-03-10 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -18214,7 +18214,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10246133973,
   "created_at" : "2010-03-10 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -18242,7 +18242,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10246959001,
   "created_at" : "2010-03-10 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -18264,7 +18264,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10251850984,
   "created_at" : "2010-03-10 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -18286,7 +18286,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10253386486,
   "created_at" : "2010-03-10 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -18319,7 +18319,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "yamaguchiintlab",
   "in_reply_to_user_id_str" : "10172212",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -18341,7 +18341,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10259431889,
   "created_at" : "2010-03-10 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -18363,7 +18363,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10262338367,
   "created_at" : "2010-03-10 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -18400,7 +18400,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10262372352,
   "created_at" : "2010-03-10 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -18428,7 +18428,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10263053162,
   "created_at" : "2010-03-10 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -18450,7 +18450,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10263422199,
   "created_at" : "2010-03-10 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -18472,7 +18472,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10264359257,
   "created_at" : "2010-03-10 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -18500,7 +18500,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10264803809,
   "created_at" : "2010-03-10 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -18525,7 +18525,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10266418637,
   "created_at" : "2010-03-10 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -18547,7 +18547,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10266788313,
   "created_at" : "2010-03-10 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -18572,7 +18572,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10267012573,
   "created_at" : "2010-03-10 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -18594,7 +18594,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10274697425,
   "created_at" : "2010-03-10 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -18616,7 +18616,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10275171384,
   "created_at" : "2010-03-10 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -18638,7 +18638,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10276079196,
   "created_at" : "2010-03-10 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -18660,7 +18660,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10290846717,
   "created_at" : "2010-03-10 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -18682,7 +18682,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10290875462,
   "created_at" : "2010-03-10 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -18704,7 +18704,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10293889710,
   "created_at" : "2010-03-10 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -18726,7 +18726,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10210372540,
   "created_at" : "2010-03-09 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -18748,7 +18748,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10210514548,
   "created_at" : "2010-03-09 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -18776,7 +18776,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10210616548,
   "created_at" : "2010-03-09 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -18798,7 +18798,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10212586220,
   "created_at" : "2010-03-09 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -18820,7 +18820,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10214245556,
   "created_at" : "2010-03-09 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -18842,7 +18842,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10214363305,
   "created_at" : "2010-03-09 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -18854,7 +18854,7 @@ Grailbird.data.tweets_2010_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u6797 \u6B63\u7D00 (\u306E\u308A\u3043)",
+      "name" : "\u306E\u308A\u3043",
       "screen_name" : "m_norii",
       "indices" : [ 0, 8 ],
       "id_str" : "15261475",
@@ -18875,7 +18875,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "m_norii",
   "in_reply_to_user_id_str" : "15261475",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -18897,7 +18897,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10214838583,
   "created_at" : "2010-03-09 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -18919,7 +18919,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10215498690,
   "created_at" : "2010-03-09 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -18941,7 +18941,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10216165262,
   "created_at" : "2010-03-09 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -18963,7 +18963,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10216190437,
   "created_at" : "2010-03-09 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -18985,7 +18985,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10220473967,
   "created_at" : "2010-03-09 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -19007,7 +19007,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10222651606,
   "created_at" : "2010-03-09 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -19029,7 +19029,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10222834721,
   "created_at" : "2010-03-09 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -19051,7 +19051,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10222858119,
   "created_at" : "2010-03-09 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -19079,7 +19079,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10222917528,
   "created_at" : "2010-03-09 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -19107,7 +19107,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10223012641,
   "created_at" : "2010-03-09 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -19135,7 +19135,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10223252141,
   "created_at" : "2010-03-09 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -19153,7 +19153,7 @@ Grailbird.data.tweets_2010_03 =
       "id_str" : "6641712",
       "id" : 6641712
     }, {
-      "name" : "SHIOYA, Hiromu",
+      "name" : "\u304B\u3063\u3071",
       "screen_name" : "kwappa",
       "indices" : [ 67, 74 ],
       "id_str" : "6304032",
@@ -19175,7 +19175,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10223388796,
   "created_at" : "2010-03-09 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -19197,7 +19197,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10223427923,
   "created_at" : "2010-03-09 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -19219,7 +19219,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10223449861,
   "created_at" : "2010-03-09 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -19241,7 +19241,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10238923131,
   "created_at" : "2010-03-09 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -19269,7 +19269,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10238983168,
   "created_at" : "2010-03-09 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -19291,7 +19291,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10239817346,
   "created_at" : "2010-03-09 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -19313,7 +19313,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10241147035,
   "created_at" : "2010-03-09 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -19335,7 +19335,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10241229378,
   "created_at" : "2010-03-09 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -19357,7 +19357,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10241839582,
   "created_at" : "2010-03-09 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -19390,7 +19390,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "ryoshr",
   "in_reply_to_user_id_str" : "6417322",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -19412,7 +19412,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10194767084,
   "created_at" : "2010-03-09 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -19455,7 +19455,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10195135208,
   "created_at" : "2010-03-09 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -19477,7 +19477,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10195736038,
   "created_at" : "2010-03-09 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -19499,7 +19499,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10196010282,
   "created_at" : "2010-03-09 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -19521,7 +19521,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10196085646,
   "created_at" : "2010-03-09 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -19543,7 +19543,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10196831737,
   "created_at" : "2010-03-09 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -19576,7 +19576,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "do_aki",
   "in_reply_to_user_id_str" : "6257222",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -19601,7 +19601,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10197501355,
   "created_at" : "2010-03-09 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -19626,7 +19626,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10198114308,
   "created_at" : "2010-03-09 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -19651,7 +19651,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10198438185,
   "created_at" : "2010-03-09 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -19673,7 +19673,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10199052698,
   "created_at" : "2010-03-09 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -19695,7 +19695,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10199142502,
   "created_at" : "2010-03-09 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -19717,7 +19717,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10199208912,
   "created_at" : "2010-03-09 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -19744,7 +19744,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "atosaka",
   "in_reply_to_user_id_str" : "29106926",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -19766,7 +19766,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10199276126,
   "created_at" : "2010-03-09 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -19788,7 +19788,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10199376266,
   "created_at" : "2010-03-09 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -19815,7 +19815,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "atosaka",
   "in_reply_to_user_id_str" : "29106926",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -19837,7 +19837,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10199549856,
   "created_at" : "2010-03-09 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -19871,7 +19871,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10199886013,
   "created_at" : "2010-03-09 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -19893,7 +19893,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10201495722,
   "created_at" : "2010-03-09 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -19926,7 +19926,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "monry",
   "in_reply_to_user_id_str" : "6435242",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -19948,7 +19948,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10201872763,
   "created_at" : "2010-03-09 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -19981,7 +19981,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "OkibiWorksLabo",
   "in_reply_to_user_id_str" : "88202146",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -20014,7 +20014,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "codma",
   "in_reply_to_user_id_str" : "38705420",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -20036,7 +20036,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10203649403,
   "created_at" : "2010-03-09 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -20058,7 +20058,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10205526719,
   "created_at" : "2010-03-09 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -20086,7 +20086,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10205594000,
   "created_at" : "2010-03-09 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -20108,7 +20108,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10206948355,
   "created_at" : "2010-03-09 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -20130,7 +20130,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10209747999,
   "created_at" : "2010-03-09 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -20152,7 +20152,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10210270784,
   "created_at" : "2010-03-09 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -20183,7 +20183,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "yokatsuki",
   "in_reply_to_user_id_str" : "18628798",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -20205,7 +20205,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10172391878,
   "created_at" : "2010-03-08 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -20227,7 +20227,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10172503159,
   "created_at" : "2010-03-08 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -20249,7 +20249,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10172684067,
   "created_at" : "2010-03-08 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -20271,7 +20271,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10172895892,
   "created_at" : "2010-03-08 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -20302,7 +20302,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10173247344,
   "created_at" : "2010-03-08 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -20324,7 +20324,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10173362151,
   "created_at" : "2010-03-08 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -20357,7 +20357,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "itoh_bmark",
   "in_reply_to_user_id_str" : "5654672",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -20390,7 +20390,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "yokatsuki",
   "in_reply_to_user_id_str" : "18628798",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -20418,7 +20418,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10174094419,
   "created_at" : "2010-03-08 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -20451,7 +20451,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "sugyan",
   "in_reply_to_user_id_str" : "15081480",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -20479,7 +20479,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10174163940,
   "created_at" : "2010-03-08 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -20512,7 +20512,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "gothedistance",
   "in_reply_to_user_id_str" : "9599522",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -20545,7 +20545,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "regtan",
   "in_reply_to_user_id_str" : "10835022",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -20567,7 +20567,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10174468296,
   "created_at" : "2010-03-08 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -20589,7 +20589,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10189581609,
   "created_at" : "2010-03-08 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -20611,7 +20611,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10189908803,
   "created_at" : "2010-03-08 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -20639,7 +20639,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10190119935,
   "created_at" : "2010-03-08 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -20661,7 +20661,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10191577706,
   "created_at" : "2010-03-08 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -20683,7 +20683,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10192288723,
   "created_at" : "2010-03-08 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -20705,7 +20705,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10142607541,
   "created_at" : "2010-03-08 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -20727,7 +20727,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10142798629,
   "created_at" : "2010-03-08 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -20749,7 +20749,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10142944674,
   "created_at" : "2010-03-08 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -20771,7 +20771,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10143062077,
   "created_at" : "2010-03-08 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -20793,7 +20793,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10143346953,
   "created_at" : "2010-03-08 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -20815,7 +20815,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10144415810,
   "created_at" : "2010-03-08 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -20843,7 +20843,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10145883686,
   "created_at" : "2010-03-08 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -20865,7 +20865,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10157786031,
   "created_at" : "2010-03-08 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -20911,7 +20911,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10160298228,
   "created_at" : "2010-03-08 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -20933,7 +20933,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10160409894,
   "created_at" : "2010-03-08 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -20955,7 +20955,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10161445711,
   "created_at" : "2010-03-08 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -20977,7 +20977,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10162208340,
   "created_at" : "2010-03-08 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -20999,7 +20999,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10162275361,
   "created_at" : "2010-03-08 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -21021,7 +21021,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10162684063,
   "created_at" : "2010-03-08 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -21043,7 +21043,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10162877731,
   "created_at" : "2010-03-08 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -21076,7 +21076,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "arihh",
   "in_reply_to_user_id_str" : "27818735",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -21098,7 +21098,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10166757709,
   "created_at" : "2010-03-08 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -21120,7 +21120,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10167142433,
   "created_at" : "2010-03-08 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -21142,7 +21142,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10171748664,
   "created_at" : "2010-03-08 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -21164,7 +21164,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10172087478,
   "created_at" : "2010-03-08 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -21186,7 +21186,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10102761067,
   "created_at" : "2010-03-07 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -21208,7 +21208,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10103313337,
   "created_at" : "2010-03-07 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -21230,7 +21230,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10103932275,
   "created_at" : "2010-03-07 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -21252,7 +21252,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10105026085,
   "created_at" : "2010-03-07 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -21274,7 +21274,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10105440166,
   "created_at" : "2010-03-07 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -21302,7 +21302,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10105658454,
   "created_at" : "2010-03-07 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -21324,7 +21324,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10105735197,
   "created_at" : "2010-03-07 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -21346,7 +21346,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10106441240,
   "created_at" : "2010-03-07 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -21368,7 +21368,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10107341712,
   "created_at" : "2010-03-07 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -21396,7 +21396,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10108895433,
   "created_at" : "2010-03-07 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -21424,7 +21424,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10108979113,
   "created_at" : "2010-03-07 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -21457,7 +21457,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "syumikko",
   "in_reply_to_user_id_str" : "16284368",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -21485,7 +21485,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10110873434,
   "created_at" : "2010-03-07 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -21507,7 +21507,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10111186454,
   "created_at" : "2010-03-07 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -21519,7 +21519,7 @@ Grailbird.data.tweets_2010_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u305F\u3051\uFF08\u3086\u3067\u304C\u3048\u308B\uFF09",
+      "name" : "\u305F\u3051\uFF08\u75B2\uFF09",
       "screen_name" : "take_it02",
       "indices" : [ 14, 24 ],
       "id_str" : "14737535",
@@ -21535,7 +21535,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10111929899,
   "created_at" : "2010-03-07 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -21566,7 +21566,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10112354183,
   "created_at" : "2010-03-07 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -21584,7 +21584,7 @@ Grailbird.data.tweets_2010_03 =
       "id_str" : "3831641",
       "id" : 3831641
     }, {
-      "name" : "SHIOYA, Hiromu",
+      "name" : "\u304B\u3063\u3071",
       "screen_name" : "kwappa",
       "indices" : [ 67, 74 ],
       "id_str" : "6304032",
@@ -21606,7 +21606,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10112394263,
   "created_at" : "2010-03-07 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -21634,7 +21634,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10112421121,
   "created_at" : "2010-03-07 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -21656,7 +21656,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10112961761,
   "created_at" : "2010-03-07 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -21684,7 +21684,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10113124053,
   "created_at" : "2010-03-07 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -21706,7 +21706,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10113216278,
   "created_at" : "2010-03-07 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -21728,7 +21728,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10113571465,
   "created_at" : "2010-03-07 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -21750,7 +21750,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10115103308,
   "created_at" : "2010-03-07 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -21772,7 +21772,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10116222070,
   "created_at" : "2010-03-07 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -21797,7 +21797,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10116514846,
   "created_at" : "2010-03-07 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -21830,7 +21830,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "akachochin",
   "in_reply_to_user_id_str" : "15997329",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -21863,7 +21863,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "yamaguchiintlab",
   "in_reply_to_user_id_str" : "10172212",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -21888,7 +21888,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10120142179,
   "created_at" : "2010-03-07 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -21910,7 +21910,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10120196784,
   "created_at" : "2010-03-07 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -21932,7 +21932,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10138652773,
   "created_at" : "2010-03-07 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -21954,7 +21954,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10095658844,
   "created_at" : "2010-03-07 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -21976,7 +21976,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10096676625,
   "created_at" : "2010-03-07 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -22001,7 +22001,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10097004556,
   "created_at" : "2010-03-07 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -22029,7 +22029,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10097362975,
   "created_at" : "2010-03-07 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -22051,7 +22051,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10097527845,
   "created_at" : "2010-03-07 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -22073,7 +22073,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10100782835,
   "created_at" : "2010-03-07 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -22124,7 +22124,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10054110682,
   "created_at" : "2010-03-06 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -22157,7 +22157,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "hyoshiok",
   "in_reply_to_user_id_str" : "3954811",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -22185,7 +22185,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10055794514,
   "created_at" : "2010-03-06 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -22213,7 +22213,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10055832481,
   "created_at" : "2010-03-06 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -22235,7 +22235,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10056772161,
   "created_at" : "2010-03-06 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -22257,7 +22257,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10057774726,
   "created_at" : "2010-03-06 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -22279,7 +22279,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10059017611,
   "created_at" : "2010-03-06 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -22301,7 +22301,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10059055861,
   "created_at" : "2010-03-06 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -22323,7 +22323,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10059121136,
   "created_at" : "2010-03-06 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -22345,7 +22345,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10059273431,
   "created_at" : "2010-03-06 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -22367,7 +22367,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10059422094,
   "created_at" : "2010-03-06 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -22389,7 +22389,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10059812543,
   "created_at" : "2010-03-06 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -22414,7 +22414,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10060359990,
   "created_at" : "2010-03-06 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -22439,7 +22439,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10060804987,
   "created_at" : "2010-03-06 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -22464,7 +22464,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10061178201,
   "created_at" : "2010-03-06 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -22489,7 +22489,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10061216673,
   "created_at" : "2010-03-06 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -22514,7 +22514,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10061421241,
   "created_at" : "2010-03-06 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -22545,7 +22545,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10061454773,
   "created_at" : "2010-03-06 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -22567,7 +22567,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10061476878,
   "created_at" : "2010-03-06 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -22592,7 +22592,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10061890539,
   "created_at" : "2010-03-06 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -22617,7 +22617,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10062719068,
   "created_at" : "2010-03-06 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -22642,7 +22642,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10063099699,
   "created_at" : "2010-03-06 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -22667,7 +22667,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10063228195,
   "created_at" : "2010-03-06 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -22692,7 +22692,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10063250011,
   "created_at" : "2010-03-06 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -22717,7 +22717,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10063377092,
   "created_at" : "2010-03-06 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -22757,7 +22757,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10063398981,
   "created_at" : "2010-03-06 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -22782,7 +22782,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10063527271,
   "created_at" : "2010-03-06 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -22807,7 +22807,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10064022895,
   "created_at" : "2010-03-06 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -22832,7 +22832,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10064132845,
   "created_at" : "2010-03-06 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -22857,7 +22857,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10064229194,
   "created_at" : "2010-03-06 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -22869,7 +22869,7 @@ Grailbird.data.tweets_2010_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "SHIOYA, Hiromu",
+      "name" : "\u304B\u3063\u3071",
       "screen_name" : "kwappa",
       "indices" : [ 21, 28 ],
       "id_str" : "6304032",
@@ -22885,7 +22885,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10064478959,
   "created_at" : "2010-03-06 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -22910,7 +22910,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10065852196,
   "created_at" : "2010-03-06 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -22938,7 +22938,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10065912217,
   "created_at" : "2010-03-06 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -22969,7 +22969,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10067523758,
   "created_at" : "2010-03-06 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -22997,7 +22997,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10067933267,
   "created_at" : "2010-03-06 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -23025,7 +23025,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10068082446,
   "created_at" : "2010-03-06 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -23053,7 +23053,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10068223873,
   "created_at" : "2010-03-06 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -23078,7 +23078,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10073415944,
   "created_at" : "2010-03-06 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -23109,7 +23109,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "syumikko",
   "in_reply_to_user_id_str" : "16284368",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -23131,7 +23131,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10074452849,
   "created_at" : "2010-03-06 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -23156,7 +23156,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10075148606,
   "created_at" : "2010-03-06 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -23178,7 +23178,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10075416472,
   "created_at" : "2010-03-06 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -23200,7 +23200,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10092461447,
   "created_at" : "2010-03-06 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -23222,7 +23222,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10093653720,
   "created_at" : "2010-03-06 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -23244,7 +23244,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10052226650,
   "created_at" : "2010-03-06 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -23295,7 +23295,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10054106893,
   "created_at" : "2010-03-06 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -23323,7 +23323,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9998368459,
   "created_at" : "2010-03-05 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -23345,7 +23345,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9999836168,
   "created_at" : "2010-03-05 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -23367,7 +23367,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10002009867,
   "created_at" : "2010-03-05 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -23389,7 +23389,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10002201709,
   "created_at" : "2010-03-05 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -23411,7 +23411,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10006783009,
   "created_at" : "2010-03-05 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -23444,7 +23444,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "do_aki",
   "in_reply_to_user_id_str" : "6257222",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -23472,7 +23472,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10008559270,
   "created_at" : "2010-03-05 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -23494,7 +23494,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10008864524,
   "created_at" : "2010-03-05 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -23522,7 +23522,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10009822932,
   "created_at" : "2010-03-05 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -23550,7 +23550,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10009969453,
   "created_at" : "2010-03-05 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -23572,7 +23572,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10010224060,
   "created_at" : "2010-03-05 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -23594,7 +23594,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10010277000,
   "created_at" : "2010-03-05 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -23616,7 +23616,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10010314151,
   "created_at" : "2010-03-05 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -23638,7 +23638,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10010356105,
   "created_at" : "2010-03-05 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -23660,7 +23660,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10010370077,
   "created_at" : "2010-03-05 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -23682,7 +23682,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10010384441,
   "created_at" : "2010-03-05 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -23704,7 +23704,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10010582141,
   "created_at" : "2010-03-05 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -23732,7 +23732,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10015640900,
   "created_at" : "2010-03-05 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -23760,7 +23760,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10015847582,
   "created_at" : "2010-03-05 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -23791,7 +23791,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "nay3",
   "in_reply_to_user_id_str" : "15656336",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -23819,7 +23819,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10016292046,
   "created_at" : "2010-03-05 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -23876,7 +23876,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10016828066,
   "created_at" : "2010-03-05 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -23907,7 +23907,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "freedomcat",
   "in_reply_to_user_id_str" : "3606041",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -23929,7 +23929,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10017297590,
   "created_at" : "2010-03-05 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -23951,7 +23951,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10017464739,
   "created_at" : "2010-03-05 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -23973,7 +23973,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10019010005,
   "created_at" : "2010-03-05 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -23995,7 +23995,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10019960932,
   "created_at" : "2010-03-05 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -24017,7 +24017,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10027365810,
   "created_at" : "2010-03-05 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -24045,7 +24045,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10028263347,
   "created_at" : "2010-03-05 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -24067,7 +24067,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10028391324,
   "created_at" : "2010-03-05 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -24089,7 +24089,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10028474006,
   "created_at" : "2010-03-05 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -24101,7 +24101,7 @@ Grailbird.data.tweets_2010_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "kishima\uFF20\u6280\u8853\u66F8\u51785-\u304421-",
+      "name" : "kishima",
       "screen_name" : "kishima",
       "indices" : [ 0, 8 ],
       "id_str" : "14672220",
@@ -24122,7 +24122,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "kishima",
   "in_reply_to_user_id_str" : "14672220",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -24150,7 +24150,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10028678423,
   "created_at" : "2010-03-05 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -24183,7 +24183,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "yoozoosato",
   "in_reply_to_user_id_str" : "6095122",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -24205,7 +24205,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10028830793,
   "created_at" : "2010-03-05 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -24227,7 +24227,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10028955804,
   "created_at" : "2010-03-05 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -24267,7 +24267,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10029023962,
   "created_at" : "2010-03-05 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -24307,7 +24307,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10029228462,
   "created_at" : "2010-03-05 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -24329,7 +24329,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10029461041,
   "created_at" : "2010-03-05 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -24362,7 +24362,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "koichiroo",
   "in_reply_to_user_id_str" : "8349842",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -24384,7 +24384,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10029778404,
   "created_at" : "2010-03-05 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -24406,7 +24406,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10044997366,
   "created_at" : "2010-03-05 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -24449,7 +24449,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "sopra",
   "in_reply_to_user_id_str" : "16417031",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -24471,7 +24471,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10045861783,
   "created_at" : "2010-03-05 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -24493,7 +24493,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10045898320,
   "created_at" : "2010-03-05 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -24515,7 +24515,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10047431404,
   "created_at" : "2010-03-05 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -24537,7 +24537,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10047460483,
   "created_at" : "2010-03-05 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -24571,7 +24571,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9998323508,
   "created_at" : "2010-03-05 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -24593,7 +24593,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9947693392,
   "created_at" : "2010-03-04 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -24615,7 +24615,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9947988087,
   "created_at" : "2010-03-04 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -24643,7 +24643,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9948005337,
   "created_at" : "2010-03-04 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -24665,7 +24665,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9948410156,
   "created_at" : "2010-03-04 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -24677,7 +24677,7 @@ Grailbird.data.tweets_2010_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u4E8C\u90CE\uD83C\uDF65",
+      "name" : "\u30E2\u30D2\u304A \uD83C\uDF17\uFE0F Loft",
       "screen_name" : "akitsukada",
       "indices" : [ 0, 11 ],
       "id_str" : "43361083",
@@ -24720,7 +24720,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "akitsukada",
   "in_reply_to_user_id_str" : "43361083",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -24742,7 +24742,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9950089654,
   "created_at" : "2010-03-04 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -24764,7 +24764,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9952178901,
   "created_at" : "2010-03-04 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -24827,7 +24827,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9954003156,
   "created_at" : "2010-03-04 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -24849,7 +24849,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9964259834,
   "created_at" : "2010-03-04 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -24871,7 +24871,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9964536933,
   "created_at" : "2010-03-04 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -24893,7 +24893,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9964706094,
   "created_at" : "2010-03-04 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -24915,7 +24915,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9965037528,
   "created_at" : "2010-03-04 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -24946,7 +24946,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9967208338,
   "created_at" : "2010-03-04 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -24968,7 +24968,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9969591099,
   "created_at" : "2010-03-04 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -24990,7 +24990,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9970262866,
   "created_at" : "2010-03-04 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -25012,7 +25012,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9971725438,
   "created_at" : "2010-03-04 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -25034,7 +25034,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9972543129,
   "created_at" : "2010-03-04 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -25070,7 +25070,7 @@ Grailbird.data.tweets_2010_03 =
       "id_str" : "9993812",
       "id" : 9993812
     }, {
-      "name" : "SHIOYA, Hiromu",
+      "name" : "\u304B\u3063\u3071",
       "screen_name" : "kwappa",
       "indices" : [ 99, 106 ],
       "id_str" : "6304032",
@@ -25092,7 +25092,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9972665609,
   "created_at" : "2010-03-04 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -25114,7 +25114,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9972733976,
   "created_at" : "2010-03-04 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -25136,7 +25136,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9974748186,
   "created_at" : "2010-03-04 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -25158,7 +25158,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9975956595,
   "created_at" : "2010-03-04 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -25180,7 +25180,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9990962353,
   "created_at" : "2010-03-04 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -25202,7 +25202,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9993436051,
   "created_at" : "2010-03-04 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -25224,7 +25224,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9993800537,
   "created_at" : "2010-03-04 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -25246,7 +25246,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9994355204,
   "created_at" : "2010-03-04 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -25268,7 +25268,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9994848825,
   "created_at" : "2010-03-04 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -25290,7 +25290,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9995183081,
   "created_at" : "2010-03-04 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -25318,7 +25318,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9995228396,
   "created_at" : "2010-03-04 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -25340,7 +25340,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9996680382,
   "created_at" : "2010-03-04 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -25362,7 +25362,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9906946221,
   "created_at" : "2010-03-03 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -25390,7 +25390,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9907532043,
   "created_at" : "2010-03-03 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -25412,7 +25412,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9907557559,
   "created_at" : "2010-03-03 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -25424,13 +25424,13 @@ Grailbird.data.tweets_2010_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u5927\u5CA1\u7531\u4F73@\u6280\u8853\u66F8\u5178\u3010\u304609\u3011React\u5165\u9580\u672C",
+      "name" : "\u5927\u5CA1\u7531\u4F73\u300E\u308A\u3042\u30AF\u30C8\uFF01\u300FBooth\u3067\u597D\u8A55\u8CA9\u58F2\u4E2D",
       "screen_name" : "oukayuka",
       "indices" : [ 68, 77 ],
       "id_str" : "17616038",
       "id" : 17616038
     }, {
-      "name" : "igaiga@\u6280\u8853\u66F8\u51785\u3010\u30B903\u3011pixiv PAY\u306E\u8584\u3044\u672C",
+      "name" : "igaiga",
       "screen_name" : "igaiga555",
       "indices" : [ 80, 90 ],
       "id_str" : "4596601",
@@ -25446,7 +25446,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9908866146,
   "created_at" : "2010-03-03 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -25468,7 +25468,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9910262308,
   "created_at" : "2010-03-03 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -25480,7 +25480,7 @@ Grailbird.data.tweets_2010_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "igaiga@\u6280\u8853\u66F8\u51785\u3010\u30B903\u3011pixiv PAY\u306E\u8584\u3044\u672C",
+      "name" : "igaiga",
       "screen_name" : "igaiga555",
       "indices" : [ 0, 10 ],
       "id_str" : "4596601",
@@ -25505,7 +25505,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "igaiga555",
   "in_reply_to_user_id_str" : "4596601",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -25527,7 +25527,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9913992573,
   "created_at" : "2010-03-03 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -25560,7 +25560,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "bash0C7",
   "in_reply_to_user_id_str" : "3987001",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -25582,7 +25582,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9914266408,
   "created_at" : "2010-03-03 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -25604,7 +25604,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9914292802,
   "created_at" : "2010-03-03 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -25637,7 +25637,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "sugyan",
   "in_reply_to_user_id_str" : "15081480",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -25670,7 +25670,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "sugyan",
   "in_reply_to_user_id_str" : "15081480",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -25703,7 +25703,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "traviss0601",
   "in_reply_to_user_id_str" : "18969223",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -25740,7 +25740,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "conceal_rs",
   "in_reply_to_user_id_str" : "12051712",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -25809,7 +25809,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9917619358,
   "created_at" : "2010-03-03 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -25860,7 +25860,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9917882983,
   "created_at" : "2010-03-03 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -25882,7 +25882,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9918605003,
   "created_at" : "2010-03-03 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -25904,7 +25904,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9926959586,
   "created_at" : "2010-03-03 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -25926,7 +25926,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9927026058,
   "created_at" : "2010-03-03 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -25948,7 +25948,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9944108568,
   "created_at" : "2010-03-03 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -25970,7 +25970,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9899000890,
   "created_at" : "2010-03-03 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -25992,7 +25992,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9899045640,
   "created_at" : "2010-03-03 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -26014,7 +26014,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9899139161,
   "created_at" : "2010-03-03 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -26036,7 +26036,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9899692109,
   "created_at" : "2010-03-03 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -26061,7 +26061,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9899914031,
   "created_at" : "2010-03-03 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -26073,7 +26073,7 @@ Grailbird.data.tweets_2010_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "CQ\u51FA\u7248\u793E",
+      "name" : "CQ\u51FA\u7248\u793E\u3010\u516C\u5F0F\u3011",
       "screen_name" : "CQ_connect",
       "indices" : [ 3, 14 ],
       "id_str" : "89340155",
@@ -26100,11 +26100,11 @@ Grailbird.data.tweets_2010_03 =
     "id" : 9900599727,
     "created_at" : "2010-03-03 00:59:56 +0000",
     "user" : {
-      "name" : "CQ\u51FA\u7248\u793E",
+      "name" : "CQ\u51FA\u7248\u793E\u3010\u516C\u5F0F\u3011",
       "screen_name" : "CQ_connect",
       "protected" : false,
       "id_str" : "89340155",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1037857009867997184\/5KBF3GMi_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1087259222096588800\/iUCH00O1_normal.jpg",
       "id" : 89340155,
       "verified" : false
     }
@@ -26112,7 +26112,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9901147137,
   "created_at" : "2010-03-03 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -26124,7 +26124,7 @@ Grailbird.data.tweets_2010_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "CQ\u51FA\u7248\u793E",
+      "name" : "CQ\u51FA\u7248\u793E\u3010\u516C\u5F0F\u3011",
       "screen_name" : "CQ_connect",
       "indices" : [ 23, 34 ],
       "id_str" : "89340155",
@@ -26140,7 +26140,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9901169759,
   "created_at" : "2010-03-03 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -26168,7 +26168,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9901688735,
   "created_at" : "2010-03-03 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -26190,7 +26190,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9903384103,
   "created_at" : "2010-03-03 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -26218,7 +26218,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9904359622,
   "created_at" : "2010-03-03 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -26243,7 +26243,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9871549357,
   "created_at" : "2010-03-02 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -26268,7 +26268,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9871561696,
   "created_at" : "2010-03-02 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -26293,7 +26293,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9871578190,
   "created_at" : "2010-03-02 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -26329,7 +26329,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "yokatsuki",
   "in_reply_to_user_id_str" : "18628798",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -26354,7 +26354,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9871618456,
   "created_at" : "2010-03-02 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -26379,7 +26379,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9871634468,
   "created_at" : "2010-03-02 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -26404,7 +26404,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9871899335,
   "created_at" : "2010-03-02 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -26440,7 +26440,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "regtan",
   "in_reply_to_user_id_str" : "10835022",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -26452,7 +26452,7 @@ Grailbird.data.tweets_2010_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "igaiga@\u6280\u8853\u66F8\u51785\u3010\u30B903\u3011pixiv PAY\u306E\u8584\u3044\u672C",
+      "name" : "igaiga",
       "screen_name" : "igaiga555",
       "indices" : [ 28, 38 ],
       "id_str" : "4596601",
@@ -26471,7 +26471,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9872031847,
   "created_at" : "2010-03-02 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -26496,7 +26496,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9872046904,
   "created_at" : "2010-03-02 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -26521,7 +26521,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9872064984,
   "created_at" : "2010-03-02 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -26546,7 +26546,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9872165500,
   "created_at" : "2010-03-02 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -26571,7 +26571,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9872203507,
   "created_at" : "2010-03-02 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -26596,7 +26596,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9872218163,
   "created_at" : "2010-03-02 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -26621,7 +26621,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9872269824,
   "created_at" : "2010-03-02 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -26646,7 +26646,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9872288324,
   "created_at" : "2010-03-02 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -26671,7 +26671,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9872304897,
   "created_at" : "2010-03-02 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -26696,7 +26696,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9872325094,
   "created_at" : "2010-03-02 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -26721,7 +26721,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9872345231,
   "created_at" : "2010-03-02 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -26746,7 +26746,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9872362151,
   "created_at" : "2010-03-02 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -26771,7 +26771,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9872383605,
   "created_at" : "2010-03-02 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -26796,7 +26796,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9872388315,
   "created_at" : "2010-03-02 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -26821,7 +26821,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9872413337,
   "created_at" : "2010-03-02 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -26846,7 +26846,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9872473150,
   "created_at" : "2010-03-02 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -26871,7 +26871,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9872532134,
   "created_at" : "2010-03-02 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -26896,7 +26896,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9872561923,
   "created_at" : "2010-03-02 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -26921,7 +26921,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9872596257,
   "created_at" : "2010-03-02 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -26946,7 +26946,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9872613347,
   "created_at" : "2010-03-02 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -26971,7 +26971,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9872647425,
   "created_at" : "2010-03-02 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -26993,7 +26993,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9892171554,
   "created_at" : "2010-03-02 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -27015,7 +27015,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9893309458,
   "created_at" : "2010-03-02 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -27033,7 +27033,7 @@ Grailbird.data.tweets_2010_03 =
       "id_str" : "110130580",
       "id" : 110130580
     }, {
-      "name" : "SHIOYA, Hiromu",
+      "name" : "\u304B\u3063\u3071",
       "screen_name" : "kwappa",
       "indices" : [ 32, 39 ],
       "id_str" : "6304032",
@@ -27049,7 +27049,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9893717733,
   "created_at" : "2010-03-02 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -27071,7 +27071,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9894010821,
   "created_at" : "2010-03-02 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -27096,7 +27096,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9894395219,
   "created_at" : "2010-03-02 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -27121,7 +27121,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9896207824,
   "created_at" : "2010-03-02 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -27143,7 +27143,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9896437511,
   "created_at" : "2010-03-02 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -27165,7 +27165,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9896972986,
   "created_at" : "2010-03-02 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -27193,7 +27193,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9897224817,
   "created_at" : "2010-03-02 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -27227,7 +27227,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9897275931,
   "created_at" : "2010-03-02 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -27252,7 +27252,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9897760918,
   "created_at" : "2010-03-02 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -27303,7 +27303,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9854854827,
   "created_at" : "2010-03-02 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -27334,7 +27334,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9861526966,
   "created_at" : "2010-03-02 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -27356,7 +27356,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9863143633,
   "created_at" : "2010-03-02 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -27378,7 +27378,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9863502180,
   "created_at" : "2010-03-02 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -27400,7 +27400,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9863561908,
   "created_at" : "2010-03-02 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -27433,7 +27433,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "arihh",
   "in_reply_to_user_id_str" : "27818735",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -27455,7 +27455,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9864683226,
   "created_at" : "2010-03-02 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -27477,7 +27477,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9864839820,
   "created_at" : "2010-03-02 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -27528,7 +27528,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9866133214,
   "created_at" : "2010-03-02 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -27550,7 +27550,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9868106762,
   "created_at" : "2010-03-02 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -27575,7 +27575,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9868578488,
   "created_at" : "2010-03-02 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -27600,7 +27600,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9870581610,
   "created_at" : "2010-03-02 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -27634,7 +27634,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9870617651,
   "created_at" : "2010-03-02 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -27659,7 +27659,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9870725581,
   "created_at" : "2010-03-02 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -27687,7 +27687,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9870756015,
   "created_at" : "2010-03-02 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -27712,7 +27712,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9870780972,
   "created_at" : "2010-03-02 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -27737,7 +27737,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9870797328,
   "created_at" : "2010-03-02 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -27762,7 +27762,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9870824805,
   "created_at" : "2010-03-02 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -27787,7 +27787,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9870835516,
   "created_at" : "2010-03-02 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -27812,7 +27812,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9870849741,
   "created_at" : "2010-03-02 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -27837,7 +27837,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9870896278,
   "created_at" : "2010-03-02 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -27873,7 +27873,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "yokatsuki",
   "in_reply_to_user_id_str" : "18628798",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -27898,7 +27898,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9871181062,
   "created_at" : "2010-03-02 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -27929,7 +27929,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9871541665,
   "created_at" : "2010-03-02 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -27954,7 +27954,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9799432967,
   "created_at" : "2010-03-01 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -27976,7 +27976,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9799499079,
   "created_at" : "2010-03-01 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -27998,7 +27998,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9801645134,
   "created_at" : "2010-03-01 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -28049,7 +28049,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9802022510,
   "created_at" : "2010-03-01 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -28100,7 +28100,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9803231011,
   "created_at" : "2010-03-01 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -28163,7 +28163,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9803406951,
   "created_at" : "2010-03-01 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -28185,7 +28185,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9806809251,
   "created_at" : "2010-03-01 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -28210,7 +28210,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9806906766,
   "created_at" : "2010-03-01 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -28238,7 +28238,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9810682471,
   "created_at" : "2010-03-01 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -28289,7 +28289,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9810902355,
   "created_at" : "2010-03-01 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -28301,7 +28301,7 @@ Grailbird.data.tweets_2010_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "TAKASU@MakerFaire NY, 22th\/Sep talk Make:Stage",
+      "name" : "TAKASU@BETT 2019 London",
       "screen_name" : "tks",
       "indices" : [ 3, 7 ],
       "id_str" : "3839521",
@@ -28328,11 +28328,11 @@ Grailbird.data.tweets_2010_03 =
     "id" : 9810902181,
     "created_at" : "2010-03-01 04:51:43 +0000",
     "user" : {
-      "name" : "TAKASU@MakerFaire NY, 22th\/Sep talk Make:Stage",
+      "name" : "TAKASU@BETT 2019 London",
       "screen_name" : "tks",
       "protected" : false,
       "id_str" : "3839521",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1008726902369148928\/1b4kAYI-_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1044664291050344449\/vKKJxtBF_normal.jpg",
       "id" : 3839521,
       "verified" : false
     }
@@ -28340,7 +28340,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9811075030,
   "created_at" : "2010-03-01 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -28362,7 +28362,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9814096843,
   "created_at" : "2010-03-01 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -28384,7 +28384,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9814330917,
   "created_at" : "2010-03-01 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -28396,7 +28396,7 @@ Grailbird.data.tweets_2010_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u307F\u306D \/ minekouki",
+      "name" : "minekouki",
       "screen_name" : "minesweeper96",
       "indices" : [ 0, 14 ],
       "id_str" : "5596732",
@@ -28417,7 +28417,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "minesweeper96",
   "in_reply_to_user_id_str" : "5596732",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -28439,7 +28439,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9814479841,
   "created_at" : "2010-03-01 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -28461,7 +28461,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9819144020,
   "created_at" : "2010-03-01 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -28492,7 +28492,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "papanda",
   "in_reply_to_user_id_str" : "3831641",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -28520,7 +28520,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9823225388,
   "created_at" : "2010-03-01 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -28542,7 +28542,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9823331106,
   "created_at" : "2010-03-01 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -28564,7 +28564,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9823854820,
   "created_at" : "2010-03-01 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -28586,7 +28586,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9824576231,
   "created_at" : "2010-03-01 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -28608,7 +28608,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9827393268,
   "created_at" : "2010-03-01 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -28630,7 +28630,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9841827415,
   "created_at" : "2010-03-01 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -28652,7 +28652,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9844839031,
   "created_at" : "2010-03-01 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -28674,7 +28674,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9845687520,
   "created_at" : "2010-03-01 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -28696,7 +28696,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 9846052641,
   "created_at" : "2010-03-01 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -28736,7 +28736,7 @@ Grailbird.data.tweets_2010_03 =
   "in_reply_to_screen_name" : "bash0C7",
   "in_reply_to_user_id_str" : "3987001",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",

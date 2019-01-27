@@ -1,6 +1,6 @@
 Grailbird.data.tweets_2016_05 = 
  [ {
-  "source" : "\u003Ca href=\"http:\/\/www.hatena.ne.jp\/guide\/twitter\" rel=\"nofollow\"\u003EHatena\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/b.hatena.ne.jp\/\" rel=\"nofollow\"\u003E\u306F\u3066\u306A\u30D6\u30C3\u30AF\u30DE\u30FC\u30AF\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -18,7 +18,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 737568940897886212,
   "created_at" : "2016-05-31 08:58:33 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -40,7 +40,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 737567197262843907,
   "created_at" : "2016-05-31 08:51:37 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -67,7 +67,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 737459386696617990,
   "created_at" : "2016-05-31 01:43:13 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -76,7 +76,7 @@ Grailbird.data.tweets_2016_05 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.hatena.ne.jp\/guide\/twitter\" rel=\"nofollow\"\u003EHatena\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/b.hatena.ne.jp\/\" rel=\"nofollow\"\u003E\u306F\u3066\u306A\u30D6\u30C3\u30AF\u30DE\u30FC\u30AF\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -94,7 +94,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 737442242692943872,
   "created_at" : "2016-05-31 00:35:06 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -103,7 +103,7 @@ Grailbird.data.tweets_2016_05 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.hatena.ne.jp\/guide\/twitter\" rel=\"nofollow\"\u003EHatena\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/b.hatena.ne.jp\/\" rel=\"nofollow\"\u003E\u306F\u3066\u306A\u30D6\u30C3\u30AF\u30DE\u30FC\u30AF\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -121,7 +121,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 737235369888874496,
   "created_at" : "2016-05-30 10:53:04 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -143,7 +143,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 737234767930785792,
   "created_at" : "2016-05-30 10:50:40 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -168,7 +168,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 736867906168840192,
   "created_at" : "2016-05-29 10:32:53 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -193,7 +193,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 736862295653912577,
   "created_at" : "2016-05-29 10:10:36 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -220,7 +220,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 736834634495885312,
   "created_at" : "2016-05-29 08:20:41 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -245,7 +245,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 736823677484859393,
   "created_at" : "2016-05-29 07:37:08 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -270,7 +270,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 736813870807842816,
   "created_at" : "2016-05-29 06:58:10 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -279,7 +279,7 @@ Grailbird.data.tweets_2016_05 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.hatena.ne.jp\/guide\/twitter\" rel=\"nofollow\"\u003EHatena\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/b.hatena.ne.jp\/\" rel=\"nofollow\"\u003E\u306F\u3066\u306A\u30D6\u30C3\u30AF\u30DE\u30FC\u30AF\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -300,7 +300,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 736808110954663937,
   "created_at" : "2016-05-29 06:35:17 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -309,7 +309,7 @@ Grailbird.data.tweets_2016_05 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.hatena.ne.jp\/guide\/twitter\" rel=\"nofollow\"\u003EHatena\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/b.hatena.ne.jp\/\" rel=\"nofollow\"\u003E\u306F\u3066\u306A\u30D6\u30C3\u30AF\u30DE\u30FC\u30AF\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -330,7 +330,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 736807369200406528,
   "created_at" : "2016-05-29 06:32:20 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -355,7 +355,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 736805560838807552,
   "created_at" : "2016-05-29 06:25:09 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -380,7 +380,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 736801835248320512,
   "created_at" : "2016-05-29 06:10:21 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -410,7 +410,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 736801022224433154,
   "created_at" : "2016-05-29 06:07:07 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -435,7 +435,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 736796899055796224,
   "created_at" : "2016-05-29 05:50:44 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -460,7 +460,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 736796622152028161,
   "created_at" : "2016-05-29 05:49:38 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -493,7 +493,7 @@ Grailbird.data.tweets_2016_05 =
   "in_reply_to_screen_name" : "ryopeko",
   "in_reply_to_user_id_str" : "15562743",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -502,7 +502,7 @@ Grailbird.data.tweets_2016_05 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.hatena.ne.jp\/guide\/twitter\" rel=\"nofollow\"\u003EHatena\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/b.hatena.ne.jp\/\" rel=\"nofollow\"\u003E\u306F\u3066\u306A\u30D6\u30C3\u30AF\u30DE\u30FC\u30AF\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -520,7 +520,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 736793823557222400,
   "created_at" : "2016-05-29 05:38:31 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -545,7 +545,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 736793516022472704,
   "created_at" : "2016-05-29 05:37:17 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -570,7 +570,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 736792617795485697,
   "created_at" : "2016-05-29 05:33:43 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -600,7 +600,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 736792193445154816,
   "created_at" : "2016-05-29 05:32:02 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -625,7 +625,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 736791772328665088,
   "created_at" : "2016-05-29 05:30:22 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -650,7 +650,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 736791572474273792,
   "created_at" : "2016-05-29 05:29:34 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -681,7 +681,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 736791128335253504,
   "created_at" : "2016-05-29 05:27:48 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -711,7 +711,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 736790682703036417,
   "created_at" : "2016-05-29 05:26:02 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -738,7 +738,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 736789881205071872,
   "created_at" : "2016-05-29 05:22:51 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -763,7 +763,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 736789386516267009,
   "created_at" : "2016-05-29 05:20:53 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -788,7 +788,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 736783827377389568,
   "created_at" : "2016-05-29 04:58:47 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -818,7 +818,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 736773739807973377,
   "created_at" : "2016-05-29 04:18:42 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -840,7 +840,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 736772339442933760,
   "created_at" : "2016-05-29 04:13:08 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -865,7 +865,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 736770520142614528,
   "created_at" : "2016-05-29 04:05:55 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -887,7 +887,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 736768872951353344,
   "created_at" : "2016-05-29 03:59:22 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -912,7 +912,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 736765996124364800,
   "created_at" : "2016-05-29 03:47:56 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -937,7 +937,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 736501091936800769,
   "created_at" : "2016-05-28 10:15:18 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -959,7 +959,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 736490615320379393,
   "created_at" : "2016-05-28 09:33:40 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -984,7 +984,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 736479184164257794,
   "created_at" : "2016-05-28 08:48:15 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1009,7 +1009,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 736462802118803456,
   "created_at" : "2016-05-28 07:43:09 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1034,7 +1034,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 736462372911517696,
   "created_at" : "2016-05-28 07:41:27 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1059,7 +1059,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 736451426029690881,
   "created_at" : "2016-05-28 06:57:57 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1081,7 +1081,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 736413766485577728,
   "created_at" : "2016-05-28 04:28:18 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1103,7 +1103,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 736406432057151489,
   "created_at" : "2016-05-28 03:59:09 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1125,7 +1125,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 736384880586563587,
   "created_at" : "2016-05-28 02:33:31 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1150,7 +1150,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 736380744994430976,
   "created_at" : "2016-05-28 02:17:05 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1172,7 +1172,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 736360110901972992,
   "created_at" : "2016-05-28 00:55:06 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1194,7 +1194,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 736359646626074624,
   "created_at" : "2016-05-28 00:53:15 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1221,7 +1221,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 736357476614934528,
   "created_at" : "2016-05-28 00:44:37 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1248,7 +1248,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 736201201016963074,
   "created_at" : "2016-05-27 14:23:38 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1257,7 +1257,7 @@ Grailbird.data.tweets_2016_05 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.hatena.ne.jp\/guide\/twitter\" rel=\"nofollow\"\u003EHatena\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/b.hatena.ne.jp\/\" rel=\"nofollow\"\u003E\u306F\u3066\u306A\u30D6\u30C3\u30AF\u30DE\u30FC\u30AF\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1275,7 +1275,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 736041693397405696,
   "created_at" : "2016-05-27 03:49:49 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1284,7 +1284,7 @@ Grailbird.data.tweets_2016_05 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.hatena.ne.jp\/guide\/twitter\" rel=\"nofollow\"\u003EHatena\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/b.hatena.ne.jp\/\" rel=\"nofollow\"\u003E\u306F\u3066\u306A\u30D6\u30C3\u30AF\u30DE\u30FC\u30AF\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1302,7 +1302,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 735995549325762560,
   "created_at" : "2016-05-27 00:46:27 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1311,7 +1311,7 @@ Grailbird.data.tweets_2016_05 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.hatena.ne.jp\/guide\/twitter\" rel=\"nofollow\"\u003EHatena\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/b.hatena.ne.jp\/\" rel=\"nofollow\"\u003E\u306F\u3066\u306A\u30D6\u30C3\u30AF\u30DE\u30FC\u30AF\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1329,7 +1329,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 735994402057785345,
   "created_at" : "2016-05-27 00:41:54 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1351,7 +1351,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 735852578638962689,
   "created_at" : "2016-05-26 15:18:20 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1373,7 +1373,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 735779947361406981,
   "created_at" : "2016-05-26 10:29:44 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1382,7 +1382,7 @@ Grailbird.data.tweets_2016_05 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.hatena.ne.jp\/guide\/twitter\" rel=\"nofollow\"\u003EHatena\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/b.hatena.ne.jp\/\" rel=\"nofollow\"\u003E\u306F\u3066\u306A\u30D6\u30C3\u30AF\u30DE\u30FC\u30AF\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1400,7 +1400,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 735764945896230912,
   "created_at" : "2016-05-26 09:30:07 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1422,7 +1422,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 735707440864329729,
   "created_at" : "2016-05-26 05:41:37 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1444,7 +1444,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 735707373520576514,
   "created_at" : "2016-05-26 05:41:21 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1453,7 +1453,7 @@ Grailbird.data.tweets_2016_05 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.hatena.ne.jp\/guide\/twitter\" rel=\"nofollow\"\u003EHatena\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/b.hatena.ne.jp\/\" rel=\"nofollow\"\u003E\u306F\u3066\u306A\u30D6\u30C3\u30AF\u30DE\u30FC\u30AF\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1471,7 +1471,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 735466778956947461,
   "created_at" : "2016-05-25 13:45:19 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1498,7 +1498,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 735341536842547200,
   "created_at" : "2016-05-25 05:27:39 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1520,7 +1520,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 735320436532207617,
   "created_at" : "2016-05-25 04:03:48 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1542,7 +1542,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 735044938782515201,
   "created_at" : "2016-05-24 09:49:04 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1569,7 +1569,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 734953150105288705,
   "created_at" : "2016-05-24 03:44:20 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1746,7 +1746,7 @@ Grailbird.data.tweets_2016_05 =
       "screen_name" : "dom_kyon",
       "protected" : false,
       "id_str" : "236716339",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1042378126255255553\/LPITjyVW_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1058877204933689344\/McXRoUGs_normal.jpg",
       "id" : 236716339,
       "verified" : false
     }
@@ -1754,7 +1754,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 734953028474699777,
   "created_at" : "2016-05-24 03:43:51 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1776,7 +1776,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 734940235151220736,
   "created_at" : "2016-05-24 02:53:01 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1785,7 +1785,7 @@ Grailbird.data.tweets_2016_05 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.hatena.ne.jp\/guide\/twitter\" rel=\"nofollow\"\u003EHatena\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/b.hatena.ne.jp\/\" rel=\"nofollow\"\u003E\u306F\u3066\u306A\u30D6\u30C3\u30AF\u30DE\u30FC\u30AF\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "\u9577\u8C37\u5DDD\u667A\u5E0C \/ \u3068\u3080\u305E\u3046",
@@ -1812,7 +1812,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 734872628326891521,
   "created_at" : "2016-05-23 22:24:22 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1839,7 +1839,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 734652646812831744,
   "created_at" : "2016-05-23 07:50:14 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1861,7 +1861,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 734618041443614721,
   "created_at" : "2016-05-23 05:32:44 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1870,7 +1870,7 @@ Grailbird.data.tweets_2016_05 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.hatena.ne.jp\/guide\/twitter\" rel=\"nofollow\"\u003EHatena\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/b.hatena.ne.jp\/\" rel=\"nofollow\"\u003E\u306F\u3066\u306A\u30D6\u30C3\u30AF\u30DE\u30FC\u30AF\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1888,7 +1888,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 734592900181446657,
   "created_at" : "2016-05-23 03:52:50 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1897,7 +1897,7 @@ Grailbird.data.tweets_2016_05 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.hatena.ne.jp\/guide\/twitter\" rel=\"nofollow\"\u003EHatena\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/b.hatena.ne.jp\/\" rel=\"nofollow\"\u003E\u306F\u3066\u306A\u30D6\u30C3\u30AF\u30DE\u30FC\u30AF\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1915,7 +1915,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 734514835480797184,
   "created_at" : "2016-05-22 22:42:38 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1924,7 +1924,7 @@ Grailbird.data.tweets_2016_05 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.hatena.ne.jp\/guide\/twitter\" rel=\"nofollow\"\u003EHatena\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/b.hatena.ne.jp\/\" rel=\"nofollow\"\u003E\u306F\u3066\u306A\u30D6\u30C3\u30AF\u30DE\u30FC\u30AF\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1942,7 +1942,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 734377865874022400,
   "created_at" : "2016-05-22 13:38:21 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1964,7 +1964,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 734245833562980352,
   "created_at" : "2016-05-22 04:53:43 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -1991,7 +1991,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 734226195651297281,
   "created_at" : "2016-05-22 03:35:40 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2023,7 +2023,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 733929211627339776,
   "created_at" : "2016-05-21 07:55:34 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2050,7 +2050,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 733894086797582336,
   "created_at" : "2016-05-21 05:36:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2077,7 +2077,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 733595757610029056,
   "created_at" : "2016-05-20 09:50:32 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2086,7 +2086,7 @@ Grailbird.data.tweets_2016_05 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.hatena.ne.jp\/guide\/twitter\" rel=\"nofollow\"\u003EHatena\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/b.hatena.ne.jp\/\" rel=\"nofollow\"\u003E\u306F\u3066\u306A\u30D6\u30C3\u30AF\u30DE\u30FC\u30AF\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2104,7 +2104,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 733587507854462980,
   "created_at" : "2016-05-20 09:17:45 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2113,7 +2113,7 @@ Grailbird.data.tweets_2016_05 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.hatena.ne.jp\/guide\/twitter\" rel=\"nofollow\"\u003EHatena\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/b.hatena.ne.jp\/\" rel=\"nofollow\"\u003E\u306F\u3066\u306A\u30D6\u30C3\u30AF\u30DE\u30FC\u30AF\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2131,7 +2131,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 733572777471447042,
   "created_at" : "2016-05-20 08:19:13 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2153,7 +2153,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 733262711849508864,
   "created_at" : "2016-05-19 11:47:08 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2180,7 +2180,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 733260823712301057,
   "created_at" : "2016-05-19 11:39:38 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2237,7 +2237,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 733186168460705792,
   "created_at" : "2016-05-19 06:42:59 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2298,7 +2298,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 733186125582340096,
   "created_at" : "2016-05-19 06:42:48 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2325,7 +2325,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 733186070821527552,
   "created_at" : "2016-05-19 06:42:35 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2334,7 +2334,7 @@ Grailbird.data.tweets_2016_05 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.hatena.ne.jp\/guide\/twitter\" rel=\"nofollow\"\u003EHatena\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/b.hatena.ne.jp\/\" rel=\"nofollow\"\u003E\u306F\u3066\u306A\u30D6\u30C3\u30AF\u30DE\u30FC\u30AF\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2352,7 +2352,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 732892688760983552,
   "created_at" : "2016-05-18 11:16:48 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2374,7 +2374,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 732876842881843200,
   "created_at" : "2016-05-18 10:13:50 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2407,7 +2407,7 @@ Grailbird.data.tweets_2016_05 =
   "in_reply_to_screen_name" : "arimo",
   "in_reply_to_user_id_str" : "15376290",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2429,7 +2429,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 732849665683644416,
   "created_at" : "2016-05-18 08:25:50 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2438,7 +2438,7 @@ Grailbird.data.tweets_2016_05 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.hatena.ne.jp\/guide\/twitter\" rel=\"nofollow\"\u003EHatena\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/b.hatena.ne.jp\/\" rel=\"nofollow\"\u003E\u306F\u3066\u306A\u30D6\u30C3\u30AF\u30DE\u30FC\u30AF\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2456,7 +2456,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 732836884125261824,
   "created_at" : "2016-05-18 07:35:03 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2465,7 +2465,7 @@ Grailbird.data.tweets_2016_05 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.hatena.ne.jp\/guide\/twitter\" rel=\"nofollow\"\u003EHatena\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/b.hatena.ne.jp\/\" rel=\"nofollow\"\u003E\u306F\u3066\u306A\u30D6\u30C3\u30AF\u30DE\u30FC\u30AF\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2483,7 +2483,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 732834222751285248,
   "created_at" : "2016-05-18 07:24:28 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2510,7 +2510,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 732814524768768002,
   "created_at" : "2016-05-18 06:06:12 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2519,7 +2519,7 @@ Grailbird.data.tweets_2016_05 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.hatena.ne.jp\/guide\/twitter\" rel=\"nofollow\"\u003EHatena\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/b.hatena.ne.jp\/\" rel=\"nofollow\"\u003E\u306F\u3066\u306A\u30D6\u30C3\u30AF\u30DE\u30FC\u30AF\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2537,7 +2537,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 732794502461685760,
   "created_at" : "2016-05-18 04:46:38 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2564,7 +2564,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 732603396142686208,
   "created_at" : "2016-05-17 16:07:15 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2586,7 +2586,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 732602397856423936,
   "created_at" : "2016-05-17 16:03:17 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2608,7 +2608,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 732525095176962049,
   "created_at" : "2016-05-17 10:56:07 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2635,7 +2635,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 732470175321051137,
   "created_at" : "2016-05-17 07:17:53 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2644,7 +2644,7 @@ Grailbird.data.tweets_2016_05 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.hatena.ne.jp\/guide\/twitter\" rel=\"nofollow\"\u003EHatena\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/b.hatena.ne.jp\/\" rel=\"nofollow\"\u003E\u306F\u3066\u306A\u30D6\u30C3\u30AF\u30DE\u30FC\u30AF\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2662,7 +2662,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 732469683169857537,
   "created_at" : "2016-05-17 07:15:55 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2671,7 +2671,7 @@ Grailbird.data.tweets_2016_05 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.hatena.ne.jp\/guide\/twitter\" rel=\"nofollow\"\u003EHatena\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/b.hatena.ne.jp\/\" rel=\"nofollow\"\u003E\u306F\u3066\u306A\u30D6\u30C3\u30AF\u30DE\u30FC\u30AF\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2689,7 +2689,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 732443098505224192,
   "created_at" : "2016-05-17 05:30:17 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2716,7 +2716,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 732430853633019904,
   "created_at" : "2016-05-17 04:41:38 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2738,7 +2738,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 732218088058294273,
   "created_at" : "2016-05-16 14:36:10 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2760,7 +2760,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 732187068051259393,
   "created_at" : "2016-05-16 12:32:55 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2782,7 +2782,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 732136387563020292,
   "created_at" : "2016-05-16 09:11:31 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2835,7 +2835,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 732060353090084864,
   "created_at" : "2016-05-16 04:09:23 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2857,7 +2857,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 732037429314519040,
   "created_at" : "2016-05-16 02:38:18 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2866,7 +2866,7 @@ Grailbird.data.tweets_2016_05 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.hatena.ne.jp\/guide\/twitter\" rel=\"nofollow\"\u003EHatena\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/b.hatena.ne.jp\/\" rel=\"nofollow\"\u003E\u306F\u3066\u306A\u30D6\u30C3\u30AF\u30DE\u30FC\u30AF\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2884,7 +2884,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 732033774087639040,
   "created_at" : "2016-05-16 02:23:46 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2906,7 +2906,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 731990092152070144,
   "created_at" : "2016-05-15 23:30:12 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2933,7 +2933,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 731690626459172866,
   "created_at" : "2016-05-15 03:40:14 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2960,7 +2960,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 731674607090982912,
   "created_at" : "2016-05-15 02:36:34 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -2982,7 +2982,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 731380306943479808,
   "created_at" : "2016-05-14 07:07:08 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3009,7 +3009,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 731262907049070592,
   "created_at" : "2016-05-13 23:20:37 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3031,7 +3031,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 731158551880589312,
   "created_at" : "2016-05-13 16:25:57 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3053,7 +3053,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 731021925930041344,
   "created_at" : "2016-05-13 07:23:03 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3075,7 +3075,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 731001060106469377,
   "created_at" : "2016-05-13 06:00:08 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3102,7 +3102,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 730713295225643009,
   "created_at" : "2016-05-12 10:56:40 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3111,7 +3111,7 @@ Grailbird.data.tweets_2016_05 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.hatena.ne.jp\/guide\/twitter\" rel=\"nofollow\"\u003EHatena\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/b.hatena.ne.jp\/\" rel=\"nofollow\"\u003E\u306F\u3066\u306A\u30D6\u30C3\u30AF\u30DE\u30FC\u30AF\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3129,7 +3129,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 730701743890173952,
   "created_at" : "2016-05-12 10:10:46 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3151,7 +3151,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 730682232252170240,
   "created_at" : "2016-05-12 08:53:14 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3173,7 +3173,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 730618916452499456,
   "created_at" : "2016-05-12 04:41:38 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3182,7 +3182,7 @@ Grailbird.data.tweets_2016_05 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.hatena.ne.jp\/guide\/twitter\" rel=\"nofollow\"\u003EHatena\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/b.hatena.ne.jp\/\" rel=\"nofollow\"\u003E\u306F\u3066\u306A\u30D6\u30C3\u30AF\u30DE\u30FC\u30AF\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3200,7 +3200,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 730610092869963776,
   "created_at" : "2016-05-12 04:06:34 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3222,7 +3222,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 730554353904279552,
   "created_at" : "2016-05-12 00:25:05 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3244,7 +3244,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 730385082616188928,
   "created_at" : "2016-05-11 13:12:28 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3271,7 +3271,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 730312696663445505,
   "created_at" : "2016-05-11 08:24:50 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3280,7 +3280,7 @@ Grailbird.data.tweets_2016_05 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.hatena.ne.jp\/guide\/twitter\" rel=\"nofollow\"\u003EHatena\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/b.hatena.ne.jp\/\" rel=\"nofollow\"\u003E\u306F\u3066\u306A\u30D6\u30C3\u30AF\u30DE\u30FC\u30AF\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3298,7 +3298,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 730222274746273793,
   "created_at" : "2016-05-11 02:25:31 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3320,7 +3320,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 729937301116059649,
   "created_at" : "2016-05-10 07:33:08 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3329,7 +3329,7 @@ Grailbird.data.tweets_2016_05 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.hatena.ne.jp\/guide\/twitter\" rel=\"nofollow\"\u003EHatena\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/b.hatena.ne.jp\/\" rel=\"nofollow\"\u003E\u306F\u3066\u306A\u30D6\u30C3\u30AF\u30DE\u30FC\u30AF\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3350,7 +3350,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 729866163878952960,
   "created_at" : "2016-05-10 02:50:28 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3359,7 +3359,7 @@ Grailbird.data.tweets_2016_05 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.hatena.ne.jp\/guide\/twitter\" rel=\"nofollow\"\u003EHatena\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/b.hatena.ne.jp\/\" rel=\"nofollow\"\u003E\u306F\u3066\u306A\u30D6\u30C3\u30AF\u30DE\u30FC\u30AF\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3377,7 +3377,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 729834292767952896,
   "created_at" : "2016-05-10 00:43:49 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3399,7 +3399,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 729636715116138498,
   "created_at" : "2016-05-09 11:38:43 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3426,7 +3426,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 729527359414534144,
   "created_at" : "2016-05-09 04:24:11 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3448,7 +3448,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 729524623696527361,
   "created_at" : "2016-05-09 04:13:18 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3470,7 +3470,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 729389868057403393,
   "created_at" : "2016-05-08 19:17:50 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3492,7 +3492,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 729071146193166336,
   "created_at" : "2016-05-07 22:11:21 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3519,7 +3519,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 728546910252883968,
   "created_at" : "2016-05-06 11:28:13 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3551,7 +3551,7 @@ Grailbird.data.tweets_2016_05 =
   "in_reply_to_screen_name" : "kwappa",
   "in_reply_to_user_id_str" : "6304032",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3560,7 +3560,7 @@ Grailbird.data.tweets_2016_05 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.hatena.ne.jp\/guide\/twitter\" rel=\"nofollow\"\u003EHatena\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/b.hatena.ne.jp\/\" rel=\"nofollow\"\u003E\u306F\u3066\u306A\u30D6\u30C3\u30AF\u30DE\u30FC\u30AF\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3578,7 +3578,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 728492299429105665,
   "created_at" : "2016-05-06 07:51:13 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3605,7 +3605,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 728429720140832768,
   "created_at" : "2016-05-06 03:42:33 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3635,7 +3635,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 728398188814557184,
   "created_at" : "2016-05-06 01:37:15 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3662,7 +3662,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 728339708699246592,
   "created_at" : "2016-05-05 21:44:53 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3689,7 +3689,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 728131068327387136,
   "created_at" : "2016-05-05 07:55:49 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3716,7 +3716,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 728109462435733505,
   "created_at" : "2016-05-05 06:29:58 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3746,7 +3746,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 728102562231017473,
   "created_at" : "2016-05-05 06:02:32 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3773,7 +3773,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 728062662760759296,
   "created_at" : "2016-05-05 03:24:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3803,7 +3803,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 728052252598931456,
   "created_at" : "2016-05-05 02:42:38 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3830,7 +3830,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 728021128162201602,
   "created_at" : "2016-05-05 00:38:57 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3852,7 +3852,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 727861499067146242,
   "created_at" : "2016-05-04 14:04:39 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3874,7 +3874,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 727833063527342084,
   "created_at" : "2016-05-04 12:11:39 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3901,7 +3901,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 727792933445861376,
   "created_at" : "2016-05-04 09:32:11 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3928,7 +3928,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 727789129476374528,
   "created_at" : "2016-05-04 09:17:04 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3950,7 +3950,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 727713778331201536,
   "created_at" : "2016-05-04 04:17:39 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3959,7 +3959,7 @@ Grailbird.data.tweets_2016_05 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.hatena.ne.jp\/guide\/twitter\" rel=\"nofollow\"\u003EHatena\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/b.hatena.ne.jp\/\" rel=\"nofollow\"\u003E\u306F\u3066\u306A\u30D6\u30C3\u30AF\u30DE\u30FC\u30AF\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3977,7 +3977,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 727664898658816001,
   "created_at" : "2016-05-04 01:03:25 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -3999,7 +3999,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 727656968429576196,
   "created_at" : "2016-05-04 00:31:55 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -4011,7 +4011,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u6850\u6CA2\u5341\u4E09\uD83D\uDC10\u7832\u96F7\u3042\u308A\u304C\u3068\u3046\u3054\u3056\u3044\u307E\u3059\uFF01\uD83D\uDC39",
+      "name" : "\u6850\u6CA2\u5341\u4E09\uD83D\uDC101\/20\u7832\u96F7\u306E29\uD83D\uDC39",
       "screen_name" : "paulowniamarsh",
       "indices" : [ 3, 18 ],
       "id_str" : "90657510",
@@ -4100,7 +4100,7 @@ Grailbird.data.tweets_2016_05 =
     "id" : 727649585405919232,
     "created_at" : "2016-05-04 00:02:34 +0000",
     "user" : {
-      "name" : "\u6850\u6CA2\u5341\u4E09\uD83D\uDC10\u7832\u96F7\u3042\u308A\u304C\u3068\u3046\u3054\u3056\u3044\u307E\u3059\uFF01\uD83D\uDC39",
+      "name" : "\u6850\u6CA2\u5341\u4E09\uD83D\uDC101\/20\u7832\u96F7\u306E29\uD83D\uDC39",
       "screen_name" : "paulowniamarsh",
       "protected" : false,
       "id_str" : "90657510",
@@ -4112,7 +4112,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 727652859244728320,
   "created_at" : "2016-05-04 00:15:35 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -4139,7 +4139,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 727413797862825984,
   "created_at" : "2016-05-03 08:25:38 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -4172,7 +4172,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 727331340748627968,
   "created_at" : "2016-05-03 02:57:59 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -4199,7 +4199,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 727321115568144386,
   "created_at" : "2016-05-03 02:17:21 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -4229,7 +4229,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 727002357561610240,
   "created_at" : "2016-05-02 05:10:43 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -4259,7 +4259,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 726990105529868288,
   "created_at" : "2016-05-02 04:22:02 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -4281,7 +4281,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 726646232999821312,
   "created_at" : "2016-05-01 05:35:37 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -4314,7 +4314,7 @@ Grailbird.data.tweets_2016_05 =
   "in_reply_to_screen_name" : "objectxplosive",
   "in_reply_to_user_id_str" : "48335348",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -4336,7 +4336,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 726630062276022272,
   "created_at" : "2016-05-01 04:31:21 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -4363,7 +4363,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 726561839383900160,
   "created_at" : "2016-05-01 00:00:16 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -4372,7 +4372,7 @@ Grailbird.data.tweets_2016_05 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.hatena.ne.jp\/guide\/twitter\" rel=\"nofollow\"\u003EHatena\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/b.hatena.ne.jp\/\" rel=\"nofollow\"\u003E\u306F\u3066\u306A\u30D6\u30C3\u30AF\u30DE\u30FC\u30AF\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4390,7 +4390,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 726559780987265025,
   "created_at" : "2016-04-30 23:52:05 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -4399,7 +4399,7 @@ Grailbird.data.tweets_2016_05 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.hatena.ne.jp\/guide\/twitter\" rel=\"nofollow\"\u003EHatena\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/b.hatena.ne.jp\/\" rel=\"nofollow\"\u003E\u306F\u3066\u306A\u30D6\u30C3\u30AF\u30DE\u30FC\u30AF\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4417,7 +4417,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 726559498681241600,
   "created_at" : "2016-04-30 23:50:57 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -4444,7 +4444,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 726558061138042880,
   "created_at" : "2016-04-30 23:45:15 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -4453,7 +4453,7 @@ Grailbird.data.tweets_2016_05 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.hatena.ne.jp\/guide\/twitter\" rel=\"nofollow\"\u003EHatena\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/b.hatena.ne.jp\/\" rel=\"nofollow\"\u003E\u306F\u3066\u306A\u30D6\u30C3\u30AF\u30DE\u30FC\u30AF\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4474,7 +4474,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 726556524814864384,
   "created_at" : "2016-04-30 23:39:08 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
@@ -4501,7 +4501,7 @@ Grailbird.data.tweets_2016_05 =
   "id" : 726555797954531328,
   "created_at" : "2016-04-30 23:36:15 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",

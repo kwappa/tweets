@@ -13,7 +13,7 @@ Grailbird.data.tweets_2008_07 =
   "id" : 853480570,
   "created_at" : "2008-07-09 00:00:00 +0000",
   "user" : {
-    "name" : "SHIOYA, Hiromu",
+    "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
     "protected" : false,
     "id_str" : "6304032",
