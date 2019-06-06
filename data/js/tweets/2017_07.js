@@ -327,7 +327,7 @@ Grailbird.data.tweets_2017_07 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "chokudai(\u9AD8\u6A4B \u76F4\u5927)\uD83C\uDF46\uD83C\uDF61",
+      "name" : "chokudai(\u9AD8\u6A4B \u76F4\u5927)\uD83C\uDF46\uD83C\uDF61\uD83C\uDF38",
       "screen_name" : "chokudai",
       "indices" : [ 3, 12 ],
       "id_str" : "15312900",
@@ -354,7 +354,7 @@ Grailbird.data.tweets_2017_07 =
     "id" : 890487587084705792,
     "created_at" : "2017-07-27 08:22:39 +0000",
     "user" : {
-      "name" : "chokudai(\u9AD8\u6A4B \u76F4\u5927)\uD83C\uDF46\uD83C\uDF61",
+      "name" : "chokudai(\u9AD8\u6A4B \u76F4\u5927)\uD83C\uDF46\uD83C\uDF61\uD83C\uDF38",
       "screen_name" : "chokudai",
       "protected" : false,
       "id_str" : "15312900",

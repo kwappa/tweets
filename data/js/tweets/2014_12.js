@@ -1942,7 +1942,7 @@ Grailbird.data.tweets_2014_12 =
   "source" : "\u003Ca href=\"http:\/\/b.hatena.ne.jp\/\" rel=\"nofollow\"\u003E\u306F\u3066\u306A\u30D6\u30C3\u30AF\u30DE\u30FC\u30AF\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "chrisgotwork\uD83D\uDC4C",
+      "name" : "Chris Green",
       "screen_name" : "it",
       "indices" : [ 36, 39 ],
       "id_str" : "243850444",
@@ -3858,7 +3858,7 @@ Grailbird.data.tweets_2014_12 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30E1\u30D3\u30A6\u30B91",
+      "name" : "\u751F\u5B58\u30D0\u30A4\u30A2\u30B9\u306E\u738B",
       "screen_name" : "yoshiori",
       "indices" : [ 3, 12 ],
       "id_str" : "3213261",
@@ -3895,7 +3895,7 @@ Grailbird.data.tweets_2014_12 =
     "id" : 545488917198143488,
     "created_at" : "2014-12-18 08:01:07 +0000",
     "user" : {
-      "name" : "\u30E1\u30D3\u30A6\u30B91",
+      "name" : "\u751F\u5B58\u30D0\u30A4\u30A2\u30B9\u306E\u738B",
       "screen_name" : "yoshiori",
       "protected" : false,
       "id_str" : "3213261",
@@ -3946,7 +3946,7 @@ Grailbird.data.tweets_2014_12 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30E1\u30D3\u30A6\u30B91",
+      "name" : "\u751F\u5B58\u30D0\u30A4\u30A2\u30B9\u306E\u738B",
       "screen_name" : "yoshiori",
       "indices" : [ 0, 9 ],
       "id_str" : "3213261",
@@ -3979,7 +3979,7 @@ Grailbird.data.tweets_2014_12 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30E1\u30D3\u30A6\u30B91",
+      "name" : "\u751F\u5B58\u30D0\u30A4\u30A2\u30B9\u306E\u738B",
       "screen_name" : "yoshiori",
       "indices" : [ 0, 9 ],
       "id_str" : "3213261",
@@ -4122,19 +4122,19 @@ Grailbird.data.tweets_2014_12 =
   "source" : "\u003Ca href=\"http:\/\/b.hatena.ne.jp\/\" rel=\"nofollow\"\u003E\u306F\u3066\u306A\u30D6\u30C3\u30AF\u30DE\u30FC\u30AF\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "chrisgotwork\uD83D\uDC4C",
+      "name" : "Chris Green",
       "screen_name" : "it",
       "indices" : [ 1, 4 ],
       "id_str" : "243850444",
       "id" : 243850444
     }, {
-      "name" : "chrisgotwork\uD83D\uDC4C",
+      "name" : "Chris Green",
       "screen_name" : "it",
       "indices" : [ 24, 27 ],
       "id_str" : "243850444",
       "id" : 243850444
     }, {
-      "name" : "chrisgotwork\uD83D\uDC4C",
+      "name" : "Chris Green",
       "screen_name" : "it",
       "indices" : [ 33, 36 ],
       "id_str" : "243850444",
@@ -6286,7 +6286,7 @@ Grailbird.data.tweets_2014_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "minekouki",
+      "name" : "\u307F\u306D \/ minekouki",
       "screen_name" : "minesweeper96",
       "indices" : [ 3, 17 ],
       "id_str" : "5596732",
@@ -6323,7 +6323,7 @@ Grailbird.data.tweets_2014_12 =
     "id" : 542135331198218240,
     "created_at" : "2014-12-09 01:55:10 +0000",
     "user" : {
-      "name" : "minekouki",
+      "name" : "\u307F\u306D \/ minekouki",
       "screen_name" : "minesweeper96",
       "protected" : false,
       "id_str" : "5596732",
@@ -7177,7 +7177,7 @@ Grailbird.data.tweets_2014_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3066\u3043\u3070",
+      "name" : "-TiDD-\u3066\u3043\u3070DrivenDevelopment",
       "screen_name" : "rechiba3",
       "indices" : [ 3, 12 ],
       "id_str" : "43306194",
@@ -7210,11 +7210,11 @@ Grailbird.data.tweets_2014_12 =
     "id" : 540824089015775232,
     "created_at" : "2014-12-05 11:04:45 +0000",
     "user" : {
-      "name" : "\u3066\u3043\u3070",
+      "name" : "-TiDD-\u3066\u3043\u3070DrivenDevelopment",
       "screen_name" : "rechiba3",
       "protected" : false,
       "id_str" : "43306194",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/950560835365040128\/x9TzxY0q_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1124657794441814016\/NNqajFku_normal.png",
       "id" : 43306194,
       "verified" : false
     }
@@ -7234,7 +7234,7 @@ Grailbird.data.tweets_2014_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3066\u3043\u3070",
+      "name" : "-TiDD-\u3066\u3043\u3070DrivenDevelopment",
       "screen_name" : "rechiba3",
       "indices" : [ 3, 12 ],
       "id_str" : "43306194",
@@ -7289,11 +7289,11 @@ Grailbird.data.tweets_2014_12 =
     "id" : 540824000029396993,
     "created_at" : "2014-12-05 11:04:24 +0000",
     "user" : {
-      "name" : "\u3066\u3043\u3070",
+      "name" : "-TiDD-\u3066\u3043\u3070DrivenDevelopment",
       "screen_name" : "rechiba3",
       "protected" : false,
       "id_str" : "43306194",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/950560835365040128\/x9TzxY0q_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1124657794441814016\/NNqajFku_normal.png",
       "id" : 43306194,
       "verified" : false
     }
@@ -7780,7 +7780,7 @@ Grailbird.data.tweets_2014_12 =
   "source" : "\u003Ca href=\"http:\/\/b.hatena.ne.jp\/\" rel=\"nofollow\"\u003E\u306F\u3066\u306A\u30D6\u30C3\u30AF\u30DE\u30FC\u30AF\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u8A8D\u5B9A\u30B8\u30E3\u30D0",
+      "name" : "\uD83D\uDE48",
       "screen_name" : "katzchang",
       "indices" : [ 18, 28 ],
       "id_str" : "3966821",

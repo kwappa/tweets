@@ -2860,7 +2860,7 @@ Grailbird.data.tweets_2016_03 =
       "screen_name" : "shokos",
       "protected" : false,
       "id_str" : "19187659",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1065559641659138049\/rfWV9AQ6_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1127205285825658880\/_f8VY0Sc_normal.jpg",
       "id" : 19187659,
       "verified" : false
     }
@@ -2982,7 +2982,7 @@ Grailbird.data.tweets_2016_03 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30CB\u30B3\u30CA\u30EC\u516C\u5F0F\uFF202019\u5E74\u30EA\u30CB\u30E5\u30FC\u30A2\u30EB",
+      "name" : "niconare\u516C\u5F0F",
       "screen_name" : "niconare",
       "indices" : [ 3, 12 ],
       "id_str" : "3982845312",
@@ -3031,11 +3031,11 @@ Grailbird.data.tweets_2016_03 =
     "id" : 709243679081238528,
     "created_at" : "2016-03-14 05:04:04 +0000",
     "user" : {
-      "name" : "\u30CB\u30B3\u30CA\u30EC\u516C\u5F0F\uFF202019\u5E74\u30EA\u30CB\u30E5\u30FC\u30A2\u30EB",
+      "name" : "niconare\u516C\u5F0F",
       "screen_name" : "niconare",
       "protected" : false,
       "id_str" : "3982845312",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1070631525773795328\/CQaWbV7o_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1093452834819923968\/izJnno6I_normal.jpg",
       "id" : 3982845312,
       "verified" : false
     }
@@ -3707,7 +3707,7 @@ Grailbird.data.tweets_2016_03 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u5C0F\u68EE\u96E8\u592A\uFF20\u30C6\u30A3\u30A2\u305712b",
+      "name" : "\u5C0F\u68EE\u96E8\u592A",
       "screen_name" : "comori_uta",
       "indices" : [ 3, 14 ],
       "id_str" : "2677181066",
@@ -3982,7 +3982,7 @@ Grailbird.data.tweets_2016_03 =
     "id" : 706491762424942596,
     "created_at" : "2016-03-06 14:48:56 +0000",
     "user" : {
-      "name" : "\u5C0F\u68EE\u96E8\u592A\uFF20\u30C6\u30A3\u30A2\u305712b",
+      "name" : "\u5C0F\u68EE\u96E8\u592A",
       "screen_name" : "comori_uta",
       "protected" : false,
       "id_str" : "2677181066",
@@ -4758,7 +4758,7 @@ Grailbird.data.tweets_2016_03 =
       "screen_name" : "bash0C7",
       "protected" : false,
       "id_str" : "3987001",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/828909459388796928\/7FTRHGtR_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1119991918954332166\/emyeK7Z4_normal.jpg",
       "id" : 3987001,
       "verified" : false
     }

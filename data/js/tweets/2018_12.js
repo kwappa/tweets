@@ -155,13 +155,13 @@ Grailbird.data.tweets_2018_12 =
   "source" : "\u003Ca href=\"http:\/\/b.hatena.ne.jp\/\" rel=\"nofollow\"\u003E\u306F\u3066\u306A\u30D6\u30C3\u30AF\u30DE\u30FC\u30AF\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "chrisgotwork\uD83D\uDC4C",
+      "name" : "Chris Green",
       "screen_name" : "it",
       "indices" : [ 63, 66 ],
       "id_str" : "243850444",
       "id" : 243850444
     }, {
-      "name" : "chrisgotwork\uD83D\uDC4C",
+      "name" : "Chris Green",
       "screen_name" : "it",
       "indices" : [ 105, 108 ],
       "id_str" : "243850444",
@@ -679,7 +679,7 @@ Grailbird.data.tweets_2018_12 =
   "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter Web App\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30CB\u30B3\u30CA\u30EC\u516C\u5F0F\uFF202019\u5E74\u30EA\u30CB\u30E5\u30FC\u30A2\u30EB",
+      "name" : "niconare\u516C\u5F0F",
       "screen_name" : "niconare",
       "indices" : [ 3, 12 ],
       "id_str" : "3982845312",
@@ -717,11 +717,11 @@ Grailbird.data.tweets_2018_12 =
     "id" : 1072424526070329344,
     "created_at" : "2018-12-11 09:35:06 +0000",
     "user" : {
-      "name" : "\u30CB\u30B3\u30CA\u30EC\u516C\u5F0F\uFF202019\u5E74\u30EA\u30CB\u30E5\u30FC\u30A2\u30EB",
+      "name" : "niconare\u516C\u5F0F",
       "screen_name" : "niconare",
       "protected" : false,
       "id_str" : "3982845312",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1070631525773795328\/CQaWbV7o_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1093452834819923968\/izJnno6I_normal.jpg",
       "id" : 3982845312,
       "verified" : false
     }
@@ -894,7 +894,7 @@ Grailbird.data.tweets_2018_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "01\/19 \uD83D\uDD2B, 02\/09 11:00 \uD83C\uDF72",
+      "name" : "sachin21",
       "screen_name" : "sachin21__",
       "indices" : [ 0, 11 ],
       "id_str" : "2353387488",

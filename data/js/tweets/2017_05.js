@@ -1378,7 +1378,7 @@ Grailbird.data.tweets_2017_05 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Eiwa System Management",
+      "name" : "ESM, Inc",
       "screen_name" : "rubyagile",
       "indices" : [ 3, 13 ],
       "id_str" : "60801239",
@@ -1421,7 +1421,7 @@ Grailbird.data.tweets_2017_05 =
     "id" : 864676989566726144,
     "created_at" : "2017-05-17 03:00:33 +0000",
     "user" : {
-      "name" : "Eiwa System Management",
+      "name" : "ESM, Inc",
       "screen_name" : "rubyagile",
       "protected" : false,
       "id_str" : "60801239",
@@ -2597,7 +2597,7 @@ Grailbird.data.tweets_2017_05 =
   "source" : "\u003Ca href=\"http:\/\/b.hatena.ne.jp\/\" rel=\"nofollow\"\u003E\u306F\u3066\u306A\u30D6\u30C3\u30AF\u30DE\u30FC\u30AF\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "chrisgotwork\uD83D\uDC4C",
+      "name" : "Chris Green",
       "screen_name" : "it",
       "indices" : [ 74, 77 ],
       "id_str" : "243850444",
@@ -3342,7 +3342,7 @@ Grailbird.data.tweets_2017_05 =
       "screen_name" : "youten_redo",
       "protected" : false,
       "id_str" : "108664634",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1081993042796498945\/pbcxXZet_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1117583529326432256\/nFVHAgCO_normal.png",
       "id" : 108664634,
       "verified" : false
     }
@@ -3776,7 +3776,7 @@ Grailbird.data.tweets_2017_05 =
       "screen_name" : "shiden27",
       "protected" : false,
       "id_str" : "901839673",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1087590002526056448\/Nf_wulv7_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1110528907919278080\/epzkd98f_normal.png",
       "id" : 901839673,
       "verified" : false
     }

@@ -2938,7 +2938,7 @@ Grailbird.data.tweets_2014_04 =
   "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003EFoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30E1\u30D3\u30A6\u30B91",
+      "name" : "\u751F\u5B58\u30D0\u30A4\u30A2\u30B9\u306E\u738B",
       "screen_name" : "yoshiori",
       "indices" : [ 47, 56 ],
       "id_str" : "3213261",
@@ -7015,7 +7015,7 @@ Grailbird.data.tweets_2014_04 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u5C71\u5DDD\u51AC\u6A39 \u0F61\u0F0C\u0F58\u0F0C\u0F41\u0F0C\u0F5D\u0F0C\u0F53\u0F74\u0F0C\u0F61\u0F74\u0F0C\u0F41\u0F72\u0F0C",
+      "name" : "\u5C71\u5DDD\u51AC\u6A39",
       "screen_name" : "yamakawafuyuki",
       "indices" : [ 3, 18 ],
       "id_str" : "232597239",
@@ -7104,7 +7104,7 @@ Grailbird.data.tweets_2014_04 =
     "id" : 452618566034944000,
     "created_at" : "2014-04-06 01:27:30 +0000",
     "user" : {
-      "name" : "\u5C71\u5DDD\u51AC\u6A39 \u0F61\u0F0C\u0F58\u0F0C\u0F41\u0F0C\u0F5D\u0F0C\u0F53\u0F74\u0F0C\u0F61\u0F74\u0F0C\u0F41\u0F72\u0F0C",
+      "name" : "\u5C71\u5DDD\u51AC\u6A39",
       "screen_name" : "yamakawafuyuki",
       "protected" : false,
       "id_str" : "232597239",
@@ -7172,7 +7172,7 @@ Grailbird.data.tweets_2014_04 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "mochiko\uFF20\u300CAWS\u3092\u306F\u3058\u3081\u3088\u3046\u300D\u3092BOOTH\u3067\u767A\u58F2\u4E2D\u2661",
+      "name" : "mochiko\uFF20DNS\u597D\u304D\u306A:astech:\u306E\u3082\u3061\u3053",
       "screen_name" : "mochikoAsTech",
       "indices" : [ 0, 14 ],
       "id_str" : "13437942",
@@ -7205,7 +7205,7 @@ Grailbird.data.tweets_2014_04 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "mochiko\uFF20\u300CAWS\u3092\u306F\u3058\u3081\u3088\u3046\u300D\u3092BOOTH\u3067\u767A\u58F2\u4E2D\u2661",
+      "name" : "mochiko\uFF20DNS\u597D\u304D\u306A:astech:\u306E\u3082\u3061\u3053",
       "screen_name" : "mochikoAsTech",
       "indices" : [ 0, 14 ],
       "id_str" : "13437942",
@@ -7948,7 +7948,7 @@ Grailbird.data.tweets_2014_04 =
       "id_str" : "5161091",
       "id" : 5161091
     }, {
-      "name" : "\u6771\u96F2 - \u6708\u30AA\u30B1Cl\/BsCl \u30D5\u30A3\u30AC\u30ED\u5439 \u6771\u4EACGT2019",
+      "name" : "\u6771\u96F2@\u6771\u4EACGT\u30AA\u30B1 Gband \u7B2C3\u65B0\u6771\u4EAC\u5439 \u30B2\u30FC\u97F3\u30A2\u30F3\u30B5\u30F3\u30D6\u30EB",
       "screen_name" : "H_Shinonome",
       "indices" : [ 8, 20 ],
       "id_str" : "29460225",
@@ -8240,7 +8240,7 @@ Grailbird.data.tweets_2014_04 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3088\u304F\u7720\u308A\u305F\u307E\u306B\u8272\u3005\u8003\u3048\u308B\u4E3B\u5A66 \u7518\u6728\u30B5\u30AB\u30F1",
+      "name" : "\u3088\u304F\u7720\u308A\u305F\u307E\u306B\u8272\u3005\u8003\u3048\u308B\u4E3B\u5A66 \u7518\u6728\u30B5\u30AB\u30F1 \u7D19\u66F8\u7C4D\u767A\u58F2\u4E2D",
       "screen_name" : "toppinpararin",
       "indices" : [ 3, 17 ],
       "id_str" : "158928552",
@@ -8329,7 +8329,7 @@ Grailbird.data.tweets_2014_04 =
     "id" : 450422672766164992,
     "created_at" : "2014-03-31 00:01:48 +0000",
     "user" : {
-      "name" : "\u3088\u304F\u7720\u308A\u305F\u307E\u306B\u8272\u3005\u8003\u3048\u308B\u4E3B\u5A66 \u7518\u6728\u30B5\u30AB\u30F1",
+      "name" : "\u3088\u304F\u7720\u308A\u305F\u307E\u306B\u8272\u3005\u8003\u3048\u308B\u4E3B\u5A66 \u7518\u6728\u30B5\u30AB\u30F1 \u7D19\u66F8\u7C4D\u767A\u58F2\u4E2D",
       "screen_name" : "toppinpararin",
       "protected" : false,
       "id_str" : "158928552",

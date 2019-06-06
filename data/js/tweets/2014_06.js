@@ -219,11 +219,11 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/b.hatena.ne.jp\/\" rel=\"nofollow\"\u003E\u306F\u3066\u306A\u30D6\u30C3\u30AF\u30DE\u30FC\u30AF\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "type",
+      "name" : "Xavier",
       "screen_name" : "type",
       "indices" : [ 85, 90 ],
-      "id_str" : "12055592",
-      "id" : 12055592
+      "id_str" : "2425184233",
+      "id" : 2425184233
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3196,7 +3196,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30E1\u30D3\u30A6\u30B91",
+      "name" : "\u751F\u5B58\u30D0\u30A4\u30A2\u30B9\u306E\u738B",
       "screen_name" : "yoshiori",
       "indices" : [ 0, 9 ],
       "id_str" : "3213261",
@@ -3339,7 +3339,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30E2\u30FC\u30EB\u30E9\u30C3\u30C8\u3057\u3093\u3054",
+      "name" : "\u50CD\u304F\u3057\u3093\u3054",
       "screen_name" : "shingo",
       "indices" : [ 0, 7 ],
       "id_str" : "4956571",
@@ -4132,7 +4132,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3066\u3043\u3070",
+      "name" : "-TiDD-\u3066\u3043\u3070DrivenDevelopment",
       "screen_name" : "rechiba3",
       "indices" : [ 3, 12 ],
       "id_str" : "43306194",
@@ -4159,11 +4159,11 @@ Grailbird.data.tweets_2014_06 =
     "id" : 478528807888896000,
     "created_at" : "2014-06-16 13:25:33 +0000",
     "user" : {
-      "name" : "\u3066\u3043\u3070",
+      "name" : "-TiDD-\u3066\u3043\u3070DrivenDevelopment",
       "screen_name" : "rechiba3",
       "protected" : false,
       "id_str" : "43306194",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/950560835365040128\/x9TzxY0q_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1124657794441814016\/NNqajFku_normal.png",
       "id" : 43306194,
       "verified" : false
     }
@@ -6604,7 +6604,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u307C\u308A",
+      "name" : "\u307C\u308A\uD83C\uDF02",
       "screen_name" : "bori_so1",
       "indices" : [ 0, 9 ],
       "id_str" : "91105992",
@@ -6637,7 +6637,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30E2\u30FC\u30EB\u30E9\u30C3\u30C8\u3057\u3093\u3054",
+      "name" : "\u50CD\u304F\u3057\u3093\u3054",
       "screen_name" : "shingo",
       "indices" : [ 0, 7 ],
       "id_str" : "4956571",
@@ -7462,7 +7462,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/b.hatena.ne.jp\/\" rel=\"nofollow\"\u003E\u306F\u3066\u306A\u30D6\u30C3\u30AF\u30DE\u30FC\u30AF\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "chrisgotwork\uD83D\uDC4C",
+      "name" : "Chris Green",
       "screen_name" : "it",
       "indices" : [ 67, 70 ],
       "id_str" : "243850444",
@@ -7928,7 +7928,7 @@ Grailbird.data.tweets_2014_06 =
       "id_str" : "4596601",
       "id" : 4596601
     }, {
-      "name" : "mochiko\uFF20\u300CAWS\u3092\u306F\u3058\u3081\u3088\u3046\u300D\u3092BOOTH\u3067\u767A\u58F2\u4E2D\u2661",
+      "name" : "mochiko\uFF20DNS\u597D\u304D\u306A:astech:\u306E\u3082\u3061\u3053",
       "screen_name" : "mochikoAsTech",
       "indices" : [ 11, 25 ],
       "id_str" : "13437942",

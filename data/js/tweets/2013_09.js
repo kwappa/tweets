@@ -285,7 +285,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728",
+      "name" : "\u30E1\u30EB\u30D8\u30F3\u30CF\u30C3\u30C8\u306E\u307F\u307F\u304C\u597D\u304D",
       "screen_name" : "miyucy",
       "indices" : [ 0, 7 ],
       "id_str" : "18154852",
@@ -1321,7 +1321,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "nipotan",
+      "name" : "nipotan (\u8C37\u53E3\u516C\u4E00)",
       "screen_name" : "nipotan",
       "indices" : [ 3, 11 ],
       "id_str" : "1410371",
@@ -1348,7 +1348,7 @@ Grailbird.data.tweets_2013_09 =
     "id" : 383247493447696385,
     "created_at" : "2013-09-26 15:11:37 +0000",
     "user" : {
-      "name" : "nipotan",
+      "name" : "nipotan (\u8C37\u53E3\u516C\u4E00)",
       "screen_name" : "nipotan",
       "protected" : false,
       "id_str" : "1410371",
@@ -4997,7 +4997,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728\u2728",
+      "name" : "\u30E1\u30EB\u30D8\u30F3\u30CF\u30C3\u30C8\u306E\u307F\u307F\u304C\u597D\u304D",
       "screen_name" : "miyucy",
       "indices" : [ 0, 7 ],
       "id_str" : "18154852",
@@ -8804,7 +8804,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "masahiro nagano",
+      "name" : "Masahiro \uD83D\uDCBA",
       "screen_name" : "kazeburo",
       "indices" : [ 3, 12 ],
       "id_str" : "4166171",
@@ -8831,7 +8831,7 @@ Grailbird.data.tweets_2013_09 =
     "id" : 375517482296958976,
     "created_at" : "2013-09-05 07:15:19 +0000",
     "user" : {
-      "name" : "masahiro nagano",
+      "name" : "Masahiro \uD83D\uDCBA",
       "screen_name" : "kazeburo",
       "protected" : false,
       "id_str" : "4166171",

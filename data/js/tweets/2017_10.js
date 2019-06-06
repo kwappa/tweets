@@ -208,7 +208,7 @@ Grailbird.data.tweets_2017_10 =
   "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003EFoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "tatsuoSakurai",
+      "name" : "tatsuosakurai",
       "screen_name" : "tatsuoSakurai",
       "indices" : [ 34, 48 ],
       "id_str" : "15399993",
@@ -2304,7 +2304,7 @@ Grailbird.data.tweets_2017_10 =
   "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter Web App\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u6597\u9B45@\u82E5\u304B\u308F\u3044\u3044",
+      "name" : "\u6597\u9B45\uFF20\u82E5\u304B\u308F\u3044\u3044",
       "screen_name" : "102_tobi_103",
       "indices" : [ 3, 16 ],
       "id_str" : "314363996",
@@ -2393,11 +2393,11 @@ Grailbird.data.tweets_2017_10 =
     "id" : 917027019430309888,
     "created_at" : "2017-10-08 14:00:53 +0000",
     "user" : {
-      "name" : "\u6597\u9B45@\u82E5\u304B\u308F\u3044\u3044",
+      "name" : "\u6597\u9B45\uFF20\u82E5\u304B\u308F\u3044\u3044",
       "screen_name" : "102_tobi_103",
       "protected" : false,
       "id_str" : "314363996",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1080977569858482176\/0_8YwOAf_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1132941585107234816\/sK2FrahS_normal.jpg",
       "id" : 314363996,
       "verified" : false
     }
@@ -3077,7 +3077,7 @@ Grailbird.data.tweets_2017_10 =
   "source" : "\u003Ca href=\"http:\/\/b.hatena.ne.jp\/\" rel=\"nofollow\"\u003E\u306F\u3066\u306A\u30D6\u30C3\u30AF\u30DE\u30FC\u30AF\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "chrisgotwork\uD83D\uDC4C",
+      "name" : "Chris Green",
       "screen_name" : "it",
       "indices" : [ 75, 78 ],
       "id_str" : "243850444",
@@ -3683,7 +3683,7 @@ Grailbird.data.tweets_2017_10 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "GNUE(\u9D7A) \u2744\uFE0F",
+      "name" : "GNUE(\u9D7A)",
       "screen_name" : "gnue",
       "indices" : [ 0, 5 ],
       "id_str" : "15647244",

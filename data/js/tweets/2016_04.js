@@ -79,7 +79,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3010\u516C\u5F0F\u3011\u8D85\u4F1A\u8B702019@4\/27,28",
+      "name" : "\u3010\u516C\u5F0F\u3011\u8D85\u4F1A\u8B702019@4\/27-28\u5E55\u5F35\u30E1\u30C3\u30BB\u3067\u958B\u50AC\uFF01",
       "screen_name" : "chokaigi_PR",
       "indices" : [ 3, 15 ],
       "id_str" : "3166617174",
@@ -202,11 +202,11 @@ Grailbird.data.tweets_2016_04 =
     "id" : 726237184844419072,
     "created_at" : "2016-04-30 02:30:12 +0000",
     "user" : {
-      "name" : "\u3010\u516C\u5F0F\u3011\u8D85\u4F1A\u8B702019@4\/27,28",
+      "name" : "\u3010\u516C\u5F0F\u3011\u8D85\u4F1A\u8B702019@4\/27-28\u5E55\u5F35\u30E1\u30C3\u30BB\u3067\u958B\u50AC\uFF01",
       "screen_name" : "chokaigi_PR",
       "protected" : false,
       "id_str" : "3166617174",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/973978270348713984\/EnKRBKp-_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1092733513873350657\/JXP9PUzI_normal.jpg",
       "id" : 3166617174,
       "verified" : true
     }
@@ -638,7 +638,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/b.hatena.ne.jp\/\" rel=\"nofollow\"\u003E\u306F\u3066\u306A\u30D6\u30C3\u30AF\u30DE\u30FC\u30AF\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "chrisgotwork\uD83D\uDC4C",
+      "name" : "Chris Green",
       "screen_name" : "it",
       "indices" : [ 78, 81 ],
       "id_str" : "243850444",
@@ -3292,7 +3292,7 @@ Grailbird.data.tweets_2016_04 =
       "screen_name" : "ish_mac",
       "protected" : false,
       "id_str" : "5465102",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/705892418814521344\/e0RPirgZ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1100394167186804736\/2gF7Mtut_normal.jpg",
       "id" : 5465102,
       "verified" : false
     }

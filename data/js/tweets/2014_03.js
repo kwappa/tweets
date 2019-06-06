@@ -128,7 +128,7 @@ Grailbird.data.tweets_2014_03 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30E1\u30D3\u30A6\u30B91",
+      "name" : "\u751F\u5B58\u30D0\u30A4\u30A2\u30B9\u306E\u738B",
       "screen_name" : "yoshiori",
       "indices" : [ 3, 12 ],
       "id_str" : "3213261",
@@ -155,7 +155,7 @@ Grailbird.data.tweets_2014_03 =
     "id" : 450502533643902976,
     "created_at" : "2014-03-31 05:19:08 +0000",
     "user" : {
-      "name" : "\u30E1\u30D3\u30A6\u30B91",
+      "name" : "\u751F\u5B58\u30D0\u30A4\u30A2\u30B9\u306E\u738B",
       "screen_name" : "yoshiori",
       "protected" : false,
       "id_str" : "3213261",
@@ -3620,7 +3620,7 @@ Grailbird.data.tweets_2014_03 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3066\u3043\u3070",
+      "name" : "-TiDD-\u3066\u3043\u3070DrivenDevelopment",
       "screen_name" : "rechiba3",
       "indices" : [ 0, 9 ],
       "id_str" : "43306194",
@@ -4399,7 +4399,7 @@ Grailbird.data.tweets_2014_03 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30E2\u30FC\u30EB\u30E9\u30C3\u30C8\u3057\u3093\u3054",
+      "name" : "\u50CD\u304F\u3057\u3093\u3054",
       "screen_name" : "shingo",
       "indices" : [ 0, 7 ],
       "id_str" : "4956571",
@@ -6267,7 +6267,7 @@ Grailbird.data.tweets_2014_03 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30E2\u30FC\u30EB\u30E9\u30C3\u30C8\u3057\u3093\u3054",
+      "name" : "\u50CD\u304F\u3057\u3093\u3054",
       "screen_name" : "shingo",
       "indices" : [ 0, 7 ],
       "id_str" : "4956571",

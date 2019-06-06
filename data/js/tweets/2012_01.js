@@ -124,7 +124,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "\u003Ca href=\"http:\/\/b.hatena.ne.jp\/\" rel=\"nofollow\"\u003E\u306F\u3066\u306A\u30D6\u30C3\u30AF\u30DE\u30FC\u30AF\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "chrisgotwork\uD83D\uDC4C",
+      "name" : "Chris Green",
       "screen_name" : "it",
       "indices" : [ 43, 46 ],
       "id_str" : "243850444",
@@ -2940,7 +2940,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "\u003Ca href=\"http:\/\/b.hatena.ne.jp\/\" rel=\"nofollow\"\u003E\u306F\u3066\u306A\u30D6\u30C3\u30AF\u30DE\u30FC\u30AF\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "chrisgotwork\uD83D\uDC4C",
+      "name" : "Chris Green",
       "screen_name" : "it",
       "indices" : [ 65, 68 ],
       "id_str" : "243850444",
@@ -5513,7 +5513,13 @@ Grailbird.data.tweets_2012_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/sites.google.com\/site\/yorufukurou\/\" rel=\"nofollow\"\u003EYoruFukurou\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Inabask INCET",
+      "screen_name" : "InabaskI",
+      "indices" : [ 0, 9 ],
+      "id_str" : "1099395377420218368",
+      "id" : 1099395377420218368
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -6383,7 +6389,7 @@ Grailbird.data.tweets_2012_01 =
       "screen_name" : "shokos",
       "protected" : false,
       "id_str" : "19187659",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1065559641659138049\/rfWV9AQ6_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1127205285825658880\/_f8VY0Sc_normal.jpg",
       "id" : 19187659,
       "verified" : false
     }
@@ -7264,7 +7270,7 @@ Grailbird.data.tweets_2012_01 =
       "screen_name" : "toriimiyukki",
       "protected" : false,
       "id_str" : "38626600",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/525445864400355328\/8alSZ-Gy_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1112657499990028288\/z3s3VPU8_normal.png",
       "id" : 38626600,
       "verified" : false
     }
@@ -9284,27 +9290,16 @@ Grailbird.data.tweets_2012_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/sites.google.com\/site\/yorufukurou\/\" rel=\"nofollow\"\u003EYoruFukurou\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "MIZOGUCHI Coji",
-      "screen_name" : "coji",
-      "indices" : [ 0, 5 ],
-      "id_str" : "5512352",
-      "id" : 5512352
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "159215228033310720",
   "geo" : { },
   "id_str" : "159217669478948864",
-  "in_reply_to_user_id" : 5512352,
   "text" : "@coji \uFF3E\u30FC\uFF3E",
   "id" : 159217669478948864,
-  "in_reply_to_status_id" : 159215228033310720,
   "created_at" : "2012-01-17 10:17:05 +0000",
-  "in_reply_to_screen_name" : "coji",
-  "in_reply_to_user_id_str" : "5512352",
   "user" : {
     "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",
@@ -10243,7 +10238,7 @@ Grailbird.data.tweets_2012_01 =
       "screen_name" : "gizmodojapan",
       "protected" : false,
       "id_str" : "16181752",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/875673298998149120\/AxlPt750_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1104329078759280640\/N9IqVEvv_normal.jpg",
       "id" : 16181752,
       "verified" : true
     }
@@ -13408,7 +13403,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u304D\u3087\u3093\uFF20\u3046\u3055\u307F\u307F\u30E2\u30FC\u30C9",
+      "name" : "\u304D\u3087\u3093\uFF20\u30A2\u30B8\u30E3\u30A4\u30EB\u30B3\u30FC\u30C1\u3001\u30B7\u30B9\u30C6\u30E0\u30A2\u30FC\u30AD\u30C6\u30AF\u30C8",
       "screen_name" : "kyon_mm",
       "indices" : [ 0, 8 ],
       "id_str" : "68047912",
@@ -14826,7 +14821,13 @@ Grailbird.data.tweets_2012_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Inabask INCET",
+      "screen_name" : "InabaskI",
+      "indices" : [ 0, 9 ],
+      "id_str" : "1099395377420218368",
+      "id" : 1099395377420218368
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -15597,7 +15598,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "\u003Ca href=\"http:\/\/sites.google.com\/site\/yorufukurou\/\" rel=\"nofollow\"\u003EYoruFukurou\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30E2\u30D2\u304A \uD83C\uDF17\uFE0F Loft",
+      "name" : "\u30E2\u30D2\u304A \u26C5\uFE0F Loft",
       "screen_name" : "akitsukada",
       "indices" : [ 0, 11 ],
       "id_str" : "43361083",
@@ -16456,7 +16457,7 @@ Grailbird.data.tweets_2012_01 =
       "screen_name" : "toriimiyukki",
       "protected" : false,
       "id_str" : "38626600",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/525445864400355328\/8alSZ-Gy_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1112657499990028288\/z3s3VPU8_normal.png",
       "id" : 38626600,
       "verified" : false
     }
@@ -16603,7 +16604,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "\u003Ca href=\"http:\/\/sites.google.com\/site\/yorufukurou\/\" rel=\"nofollow\"\u003EYoruFukurou\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30E1\u30D3\u30A6\u30B91",
+      "name" : "\u751F\u5B58\u30D0\u30A4\u30A2\u30B9\u306E\u738B",
       "screen_name" : "yoshiori",
       "indices" : [ 0, 9 ],
       "id_str" : "3213261",
@@ -16982,7 +16983,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u304B\u3093\u305F\u3093Ruby\u592A\u90CE",
+      "name" : "\u30EB\u30D3\u30FC\u30FB\u30AB\u30F3\u30BF\u30F3\u30FB\u592A\u90CE",
       "screen_name" : "sugamasao",
       "indices" : [ 0, 10 ],
       "id_str" : "4579301",
@@ -17219,7 +17220,13 @@ Grailbird.data.tweets_2012_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.osfoora.com\" rel=\"nofollow\"\u003EOsfoora HD\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Inabask INCET",
+      "screen_name" : "InabaskI",
+      "indices" : [ 0, 9 ],
+      "id_str" : "1099395377420218368",
+      "id" : 1099395377420218368
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -19148,7 +19155,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30E2\u30D2\u304A \uD83C\uDF17\uFE0F Loft",
+      "name" : "\u30E2\u30D2\u304A \u26C5\uFE0F Loft",
       "screen_name" : "akitsukada",
       "indices" : [ 0, 11 ],
       "id_str" : "43361083",
@@ -19231,7 +19238,7 @@ Grailbird.data.tweets_2012_01 =
       "id_str" : "10835022",
       "id" : 10835022
     }, {
-      "name" : "\u30E2\u30D2\u304A \uD83C\uDF17\uFE0F Loft",
+      "name" : "\u30E2\u30D2\u304A \u26C5\uFE0F Loft",
       "screen_name" : "akitsukada",
       "indices" : [ 8, 19 ],
       "id_str" : "43361083",
@@ -19835,7 +19842,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "\u003Ca href=\"http:\/\/sites.google.com\/site\/yorufukurou\/\" rel=\"nofollow\"\u003EYoruFukurou\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30A4\u30C1\u30ED\u30F2@\u708E\u4E0A\u6848\u4EF6\u5BFE\u5FDC\u4E2D",
+      "name" : "\u30A4\u30C1\u30ED\u30F2",
       "screen_name" : "ichirowo",
       "indices" : [ 0, 9 ],
       "id_str" : "230188297",

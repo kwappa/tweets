@@ -1684,57 +1684,6 @@ Grailbird.data.tweets_2018_06 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter Web App\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u30DF\u30B6\u30EA",
-      "screen_name" : "s1ckbutpretty",
-      "indices" : [ 3, 17 ],
-      "id_str" : "4676444174",
-      "id" : 4676444174
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1006131175180492801",
-  "text" : "RT @s1ckbutpretty: \u4E07\u5F15\u304D\u5BB6\u65CF\u3001\u8CA7\u3057\u3044\u5BB6\u306F\u7269\u304C\u591A\u304F\u30B4\u30C1\u30E3\u30B4\u30C1\u30E3\u3057\u3066\u3044\u3066\u3001\u88D5\u798F\u306A\u5BB6\u306F\u30B7\u30F3\u30D7\u30EB\u306A\u5BB6\u5177\u3067\u3059\u3063\u304D\u308A\u3068\u7247\u4ED8\u3044\u3066\u3044\u308B\u3068\u3044\u3046\u5BFE\u6BD4\u304C\u8D85\u30EA\u30A2\u30EB\u3060\u3063\u305F\u3002\u5BB6\u5EAD\u6559\u5E2B\u3067\u3044\u308D\u3093\u306A\u5BB6\u884C\u3063\u305F\u3051\u3069\u3001\u307B\u3093\u3068\u306B\u305D\u308C\u3060\u3051\u3067\u5168\u3066\u304C\u308F\u304B\u3063\u3066\u3057\u307E\u3046\u3093\u3060\u3088\u306A",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "1005789929232744449",
-    "text" : "\u4E07\u5F15\u304D\u5BB6\u65CF\u3001\u8CA7\u3057\u3044\u5BB6\u306F\u7269\u304C\u591A\u304F\u30B4\u30C1\u30E3\u30B4\u30C1\u30E3\u3057\u3066\u3044\u3066\u3001\u88D5\u798F\u306A\u5BB6\u306F\u30B7\u30F3\u30D7\u30EB\u306A\u5BB6\u5177\u3067\u3059\u3063\u304D\u308A\u3068\u7247\u4ED8\u3044\u3066\u3044\u308B\u3068\u3044\u3046\u5BFE\u6BD4\u304C\u8D85\u30EA\u30A2\u30EB\u3060\u3063\u305F\u3002\u5BB6\u5EAD\u6559\u5E2B\u3067\u3044\u308D\u3093\u306A\u5BB6\u884C\u3063\u305F\u3051\u3069\u3001\u307B\u3093\u3068\u306B\u305D\u308C\u3060\u3051\u3067\u5168\u3066\u304C\u308F\u304B\u3063\u3066\u3057\u307E\u3046\u3093\u3060\u3088\u306A",
-    "id" : 1005789929232744449,
-    "created_at" : "2018-06-10 12:33:00 +0000",
-    "user" : {
-      "name" : "\u30DF\u30B6\u30EA",
-      "screen_name" : "s1ckbutpretty",
-      "protected" : false,
-      "id_str" : "4676444174",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/871478810297810944\/nwwZfiHr_normal.jpg",
-      "id" : 4676444174,
-      "verified" : false
-    }
-  },
-  "id" : 1006131175180492801,
-  "created_at" : "2018-06-11 11:08:59 +0000",
-  "user" : {
-    "name" : "\u304B\u3063\u3071",
-    "screen_name" : "kwappa",
-    "protected" : false,
-    "id_str" : "6304032",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2012344290\/kwappa_icon_large_normal.jpeg",
-    "id" : 6304032,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -2219,7 +2168,7 @@ Grailbird.data.tweets_2018_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u6B7B\u5F8C\u5F37\u307E\u308B\u30C4\u30A4\u30FC\u30C8",
+      "name" : "\u65E5\u672C\u306E\u30EA\u30A2\u30AF\u30BF\u30FC",
       "screen_name" : "mizchi",
       "indices" : [ 3, 10 ],
       "id_str" : "14407731",
@@ -2246,7 +2195,7 @@ Grailbird.data.tweets_2018_06 =
     "id" : 1003441502993805312,
     "created_at" : "2018-06-04 01:01:12 +0000",
     "user" : {
-      "name" : "\u6B7B\u5F8C\u5F37\u307E\u308B\u30C4\u30A4\u30FC\u30C8",
+      "name" : "\u65E5\u672C\u306E\u30EA\u30A2\u30AF\u30BF\u30FC",
       "screen_name" : "mizchi",
       "protected" : false,
       "id_str" : "14407731",
@@ -3096,7 +3045,7 @@ Grailbird.data.tweets_2018_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3066\u3043\u3070",
+      "name" : "-TiDD-\u3066\u3043\u3070DrivenDevelopment",
       "screen_name" : "rechiba3",
       "indices" : [ 0, 9 ],
       "id_str" : "43306194",

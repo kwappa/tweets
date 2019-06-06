@@ -843,7 +843,7 @@ Grailbird.data.tweets_2017_06 =
   "source" : "\u003Ca href=\"http:\/\/b.hatena.ne.jp\/\" rel=\"nofollow\"\u003E\u306F\u3066\u306A\u30D6\u30C3\u30AF\u30DE\u30FC\u30AF\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "chrisgotwork\uD83D\uDC4C",
+      "name" : "Chris Green",
       "screen_name" : "it",
       "indices" : [ 69, 72 ],
       "id_str" : "243850444",
@@ -1607,7 +1607,7 @@ Grailbird.data.tweets_2017_06 =
       "screen_name" : "chiecco009",
       "protected" : false,
       "id_str" : "6803402",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1013246902190522369\/i3m10FsI_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1120996309719113728\/sCRRn-Km_normal.jpg",
       "id" : 6803402,
       "verified" : false
     }

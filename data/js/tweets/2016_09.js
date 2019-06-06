@@ -1910,7 +1910,7 @@ Grailbird.data.tweets_2016_09 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u306A\u3064\u3081",
+      "name" : "\u306A\u3064\u3081\uD83D\uDCDB",
       "screen_name" : "natsumesou",
       "indices" : [ 0, 11 ],
       "id_str" : "9753612",
@@ -2822,7 +2822,7 @@ Grailbird.data.tweets_2016_09 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3059\u3048\u305A@\u304A\u4ED5\u4E8B\u52DF\u96C6",
+      "name" : "suezu@\u304A\u4ED5\u4E8B\u52DF\u96C6",
       "screen_name" : "suezu1022",
       "indices" : [ 3, 13 ],
       "id_str" : "193700249",
@@ -2849,11 +2849,11 @@ Grailbird.data.tweets_2016_09 =
     "id" : 771676743350444033,
     "created_at" : "2016-09-02 11:50:47 +0000",
     "user" : {
-      "name" : "\u3059\u3048\u305A@\u304A\u4ED5\u4E8B\u52DF\u96C6",
+      "name" : "suezu@\u304A\u4ED5\u4E8B\u52DF\u96C6",
       "screen_name" : "suezu1022",
       "protected" : false,
       "id_str" : "193700249",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1010101276653187073\/vv08y6Rv_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1123964875569496064\/UI_JXusE_normal.png",
       "id" : 193700249,
       "verified" : false
     }

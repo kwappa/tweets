@@ -309,11 +309,11 @@ Grailbird.data.tweets_2016_12 =
   "source" : "\u003Ca href=\"http:\/\/b.hatena.ne.jp\/\" rel=\"nofollow\"\u003E\u306F\u3066\u306A\u30D6\u30C3\u30AF\u30DE\u30FC\u30AF\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "type",
+      "name" : "Xavier",
       "screen_name" : "type",
       "indices" : [ 85, 90 ],
-      "id_str" : "12055592",
-      "id" : 12055592
+      "id_str" : "2425184233",
+      "id" : 2425184233
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -592,7 +592,7 @@ Grailbird.data.tweets_2016_12 =
   "source" : "\u003Ca href=\"http:\/\/b.hatena.ne.jp\/\" rel=\"nofollow\"\u003E\u306F\u3066\u306A\u30D6\u30C3\u30AF\u30DE\u30FC\u30AF\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "chrisgotwork\uD83D\uDC4C",
+      "name" : "Chris Green",
       "screen_name" : "it",
       "indices" : [ 17, 20 ],
       "id_str" : "243850444",

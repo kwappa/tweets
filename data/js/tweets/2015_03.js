@@ -5930,7 +5930,7 @@ Grailbird.data.tweets_2015_03 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u6B7B\u5F8C\u5F37\u307E\u308B\u30C4\u30A4\u30FC\u30C8",
+      "name" : "\u65E5\u672C\u306E\u30EA\u30A2\u30AF\u30BF\u30FC",
       "screen_name" : "mizchi",
       "indices" : [ 0, 7 ],
       "id_str" : "14407731",
@@ -5963,7 +5963,7 @@ Grailbird.data.tweets_2015_03 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u6B7B\u5F8C\u5F37\u307E\u308B\u30C4\u30A4\u30FC\u30C8",
+      "name" : "\u65E5\u672C\u306E\u30EA\u30A2\u30AF\u30BF\u30FC",
       "screen_name" : "mizchi",
       "indices" : [ 0, 7 ],
       "id_str" : "14407731",

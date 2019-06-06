@@ -151,7 +151,7 @@ Grailbird.data.tweets_2018_04 =
   "source" : "\u003Ca href=\"http:\/\/b.hatena.ne.jp\/\" rel=\"nofollow\"\u003E\u306F\u3066\u306A\u30D6\u30C3\u30AF\u30DE\u30FC\u30AF\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "chrisgotwork\uD83D\uDC4C",
+      "name" : "Chris Green",
       "screen_name" : "it",
       "indices" : [ 81, 84 ],
       "id_str" : "243850444",
@@ -211,7 +211,7 @@ Grailbird.data.tweets_2018_04 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30E1\u30D3\u30A6\u30B91",
+      "name" : "\u751F\u5B58\u30D0\u30A4\u30A2\u30B9\u306E\u738B",
       "screen_name" : "yoshiori",
       "indices" : [ 0, 9 ],
       "id_str" : "3213261",
@@ -1876,51 +1876,6 @@ Grailbird.data.tweets_2018_04 =
   "text" : "\u30BB\u30D6\u30F3\u30A4\u30EC\u30D6\u30F3\u306E\u65B0\u5546\u54C1\u304C\u300C\u30B5\u30E9\u30C0\u30C1\u30AD\u30F3\u30D5\u30E9\u30A4\u300D\u3060\u3063\u305F\u3002\u75E9\u305B\u305F\u3044\u306E\u304B\u592A\u308A\u305F\u3044\u306E\u304B\u306F\u3063\u304D\u308A\u3057\u308D\u3068\u7533\u3057\u4E0A\u3052\u305F\u3044\uFF08\u3046\u307E\u304B\u3063\u305F\uFF09\u3002",
   "id" : 981071319168004096,
   "created_at" : "2018-04-03 07:30:04 +0000",
-  "user" : {
-    "name" : "\u304B\u3063\u3071",
-    "screen_name" : "kwappa",
-    "protected" : false,
-    "id_str" : "6304032",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2012344290\/kwappa_icon_large_normal.jpeg",
-    "id" : 6304032,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "980646427410903041",
-  "text" : "RT @reisamk2: \u65B0\u793E\u4F1A\u4EBA\u306E\u307F\u3093\u306A\u3078\u3001\u793E\u4F1A\u4EBA3\u5E74\u751F\u306E\u308C\u3044\u3055\u3055\u3093\u304B\u3089\u751F\u6D3B\u306E\u77E5\u6075\u3092\u6559\u3048\u3066\u3042\u3052\u308B\u305E\uFF01\uFF01\n\n\u30FB\u30EA\u30DC\u6255\u3044\u306F\u3084\u3081\u3068\u3051\n\u30FB\u30EA\u30DC\u6255\u3044\u306F\u5207\u308C\n\u30FB\u30EA\u30DC\u6255\u3044\u3092\u4F7F\u3046\u306A\n\u30FB\u30AF\u30EC\u30AB\u306F\u6301\u3063\u3066\u3044\u3044\u3002\u3060\u304C\u30EA\u30DC\u6255\u3044\u306F\u5916\u305B\u3002\n\u30FB\u6D88\u8CBB\u8005\u91D1\u878D\u306F\u501F\u5165\u5C65\u6B74\u306E\u7121\u3044\u4EBA\u306A\u3089\u65B0\u793E\u4F1A\u4EBA\u3060\u308D\u3046\u3068\u559C\u3093\u3067\u8CB8\u3057\u3066\u304F\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "980577508998356992",
-    "text" : "\u65B0\u793E\u4F1A\u4EBA\u306E\u307F\u3093\u306A\u3078\u3001\u793E\u4F1A\u4EBA3\u5E74\u751F\u306E\u308C\u3044\u3055\u3055\u3093\u304B\u3089\u751F\u6D3B\u306E\u77E5\u6075\u3092\u6559\u3048\u3066\u3042\u3052\u308B\u305E\uFF01\uFF01\n\n\u30FB\u30EA\u30DC\u6255\u3044\u306F\u3084\u3081\u3068\u3051\n\u30FB\u30EA\u30DC\u6255\u3044\u306F\u5207\u308C\n\u30FB\u30EA\u30DC\u6255\u3044\u3092\u4F7F\u3046\u306A\n\u30FB\u30AF\u30EC\u30AB\u306F\u6301\u3063\u3066\u3044\u3044\u3002\u3060\u304C\u30EA\u30DC\u6255\u3044\u306F\u5916\u305B\u3002\n\u30FB\u6D88\u8CBB\u8005\u91D1\u878D\u306F\u501F\u5165\u5C65\u6B74\u306E\u7121\u3044\u4EBA\u306A\u3089\u65B0\u793E\u4F1A\u4EBA\u3060\u308D\u3046\u3068\u559C\u3093\u3067\u8CB8\u3057\u3066\u304F\u308C\u308B\u304B\u3089\u3084\u3081\u3068\u3051\n\u30FB\u30EA\u30DC\u6255\u3044\u3092\u3084\u3081\u308D",
-    "id" : 980577508998356992,
-    "created_at" : "2018-04-01 22:47:51 +0000",
-    "user" : {
-      "name" : "\u308C\u3044\u3055\u3061\u3083\u3093\u3055\u3093",
-      "screen_name" : "AsagiriReisa",
-      "protected" : false,
-      "id_str" : "956189143385571328",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1088875065263845376\/apTMjh4q_normal.jpg",
-      "id" : 956189143385571328,
-      "verified" : false
-    }
-  },
-  "id" : 980646427410903041,
-  "created_at" : "2018-04-02 03:21:42 +0000",
   "user" : {
     "name" : "\u304B\u3063\u3071",
     "screen_name" : "kwappa",

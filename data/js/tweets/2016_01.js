@@ -3364,13 +3364,7 @@ Grailbird.data.tweets_2016_01 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Libra Studio\u516C\u5F0F\u30A2\u30AB\u30A6\u30F3\u30C8",
-      "screen_name" : "librastudio_jp",
-      "indices" : [ 0, 15 ],
-      "id_str" : "252168016",
-      "id" : 252168016
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3383,7 +3377,7 @@ Grailbird.data.tweets_2016_01 =
   "id" : 684216007506788352,
   "in_reply_to_status_id" : 684215823792123904,
   "created_at" : "2016-01-05 03:33:02 +0000",
-  "in_reply_to_screen_name" : "librastudio_jp",
+  "in_reply_to_screen_name" : "daihase69",
   "in_reply_to_user_id_str" : "252168016",
   "user" : {
     "name" : "\u304B\u3063\u3071",
@@ -3397,13 +3391,7 @@ Grailbird.data.tweets_2016_01 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Libra Studio\u516C\u5F0F\u30A2\u30AB\u30A6\u30F3\u30C8",
-      "screen_name" : "librastudio_jp",
-      "indices" : [ 0, 15 ],
-      "id_str" : "252168016",
-      "id" : 252168016
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3416,7 +3404,7 @@ Grailbird.data.tweets_2016_01 =
   "id" : 684214411981004800,
   "in_reply_to_status_id" : 684213906391216128,
   "created_at" : "2016-01-05 03:26:42 +0000",
-  "in_reply_to_screen_name" : "librastudio_jp",
+  "in_reply_to_screen_name" : "daihase69",
   "in_reply_to_user_id_str" : "252168016",
   "user" : {
     "name" : "\u304B\u3063\u3071",

@@ -395,7 +395,7 @@ Grailbird.data.tweets_2018_08 =
   "source" : "\u003Ca href=\"http:\/\/b.hatena.ne.jp\/\" rel=\"nofollow\"\u003E\u306F\u3066\u306A\u30D6\u30C3\u30AF\u30DE\u30FC\u30AF\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "chrisgotwork\uD83D\uDC4C",
+      "name" : "Chris Green",
       "screen_name" : "it",
       "indices" : [ 50, 53 ],
       "id_str" : "243850444",
@@ -1099,7 +1099,7 @@ Grailbird.data.tweets_2018_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3068\u308A\u304B\u3089\uFF20\u571F\u66DC\u67713\u30B1-44a",
+      "name" : "\u3068\u308A\u304B\u3089\uFF20\u30B3\u30DF\u30C6\u30A3\u30A2\u300E\u308026a\u300F",
       "screen_name" : "torikara_no_su",
       "indices" : [ 3, 18 ],
       "id_str" : "1459503140",
@@ -1374,7 +1374,7 @@ Grailbird.data.tweets_2018_08 =
     "id" : 1028606583280791552,
     "created_at" : "2018-08-12 11:38:14 +0000",
     "user" : {
-      "name" : "\u3068\u308A\u304B\u3089\uFF20\u30B3\u30DF\u30C6\u30A3\u30A2\u300E\u304614a\u300F",
+      "name" : "\u3068\u308A\u304B\u3089\uFF20\u30B3\u30DF\u30C6\u30A3\u30A2\u300E\u308026a\u300F",
       "screen_name" : "torikara_no_su",
       "protected" : false,
       "id_str" : "1459503140",
@@ -2429,7 +2429,7 @@ Grailbird.data.tweets_2018_08 =
       "screen_name" : "shokos",
       "protected" : false,
       "id_str" : "19187659",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1065559641659138049\/rfWV9AQ6_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1127205285825658880\/_f8VY0Sc_normal.jpg",
       "id" : 19187659,
       "verified" : false
     }

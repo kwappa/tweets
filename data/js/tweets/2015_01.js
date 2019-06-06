@@ -4428,7 +4428,7 @@ Grailbird.data.tweets_2015_01 =
       "screen_name" : "junya",
       "protected" : false,
       "id_str" : "2799501",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1056785476290404353\/hd2pc9W8_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1134664711251697664\/PPn7dmNc_normal.jpg",
       "id" : 2799501,
       "verified" : false
     }
@@ -6976,7 +6976,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30E1\u30D3\u30A6\u30B91",
+      "name" : "\u751F\u5B58\u30D0\u30A4\u30A2\u30B9\u306E\u738B",
       "screen_name" : "yoshiori",
       "indices" : [ 0, 9 ],
       "id_str" : "3213261",
@@ -7509,7 +7509,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3066\u3043\u3070",
+      "name" : "-TiDD-\u3066\u3043\u3070DrivenDevelopment",
       "screen_name" : "rechiba3",
       "indices" : [ 0, 9 ],
       "id_str" : "43306194",
@@ -7689,7 +7689,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30AB\u30C3\u30B7\u30FC@TheCreative",
+      "name" : "\u30AB\u30C3\u30B7\u30FC@\u30D5\u30EA\u30FC\u30E9\u30F3\u30B9\u30FB\u30AF\u30EA\u30A8\u30A4\u30BF\u30FC\u306E\u99C6\u3051\u8FBC\u307F\u5BFA",
       "screen_name" : "strive",
       "indices" : [ 3, 10 ],
       "id_str" : "5926562",
@@ -7721,7 +7721,7 @@ Grailbird.data.tweets_2015_01 =
     "id" : 553344975476232192,
     "created_at" : "2015-01-09 00:18:17 +0000",
     "user" : {
-      "name" : "\u30AB\u30C3\u30B7\u30FC@TheCreative",
+      "name" : "\u30AB\u30C3\u30B7\u30FC@\u30D5\u30EA\u30FC\u30E9\u30F3\u30B9\u30FB\u30AF\u30EA\u30A8\u30A4\u30BF\u30FC\u306E\u99C6\u3051\u8FBC\u307F\u5BFA",
       "screen_name" : "strive",
       "protected" : false,
       "id_str" : "5926562",

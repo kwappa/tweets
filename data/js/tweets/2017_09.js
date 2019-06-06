@@ -1221,7 +1221,7 @@ Grailbird.data.tweets_2017_09 =
       "screen_name" : "Robinyan_mstdn",
       "protected" : false,
       "id_str" : "903562183140720640",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1089461489511976960\/g2AhgMu8_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1132084090029522944\/_HcfXXAf_normal.jpg",
       "id" : 903562183140720640,
       "verified" : false
     }
@@ -1344,7 +1344,7 @@ Grailbird.data.tweets_2017_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30B4\u30DF\u7BB1",
+      "name" : "\u8349\u30D6\u30EC\u30FC\u30C9",
       "screen_name" : "gomi_ningen",
       "indices" : [ 0, 12 ],
       "id_str" : "37937394",
@@ -3657,7 +3657,7 @@ Grailbird.data.tweets_2017_09 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30B4\u30DF\u7BB1",
+      "name" : "\u8349\u30D6\u30EC\u30FC\u30C9",
       "screen_name" : "gomi_ningen",
       "indices" : [ 3, 15 ],
       "id_str" : "37937394",
@@ -3710,7 +3710,7 @@ Grailbird.data.tweets_2017_09 =
     "id" : 908935716549287937,
     "created_at" : "2017-09-16 06:08:56 +0000",
     "user" : {
-      "name" : "\u30B4\u30DF\u7BB1",
+      "name" : "\u8349\u30D6\u30EC\u30FC\u30C9",
       "screen_name" : "gomi_ningen",
       "protected" : false,
       "id_str" : "37937394",
@@ -3759,7 +3759,7 @@ Grailbird.data.tweets_2017_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "nekoTheShadow@\u8EE2\u8077\u6D3B\u52D5\u518D\u958B\u4E2D",
+      "name" : "nekoTheShadow",
       "screen_name" : "neko_the_shadow",
       "indices" : [ 3, 19 ],
       "id_str" : "2565030710",
@@ -3854,7 +3854,7 @@ Grailbird.data.tweets_2017_09 =
     "id" : 908929829835116544,
     "created_at" : "2017-09-16 05:45:33 +0000",
     "user" : {
-      "name" : "nekoTheShadow@\u8EE2\u8077\u6D3B\u52D5\u518D\u958B\u4E2D",
+      "name" : "nekoTheShadow",
       "screen_name" : "neko_the_shadow",
       "protected" : false,
       "id_str" : "2565030710",
@@ -3971,7 +3971,7 @@ Grailbird.data.tweets_2017_09 =
       "screen_name" : "codeiq_moffers",
       "protected" : false,
       "id_str" : "446685346",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/988958491615248385\/DlKIbfim_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1118794553362792449\/W8Nwwjd2_normal.png",
       "id" : 446685346,
       "verified" : false
     }

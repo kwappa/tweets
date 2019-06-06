@@ -5907,7 +5907,7 @@ Grailbird.data.tweets_2013_10 =
       "id_str" : "15562743",
       "id" : 15562743
     }, {
-      "name" : "\u007B \u5927\u548C\u7530: \u7D14 \u007D",
+      "name" : "\u5927\u548C\u7530\u7D14\u3068\u7533\u3057\u307E\u3059",
       "screen_name" : "june29",
       "indices" : [ 9, 16 ],
       "id_str" : "2388101",
@@ -7725,7 +7725,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003EFoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30E1\u30D3\u30A6\u30B91",
+      "name" : "\u751F\u5B58\u30D0\u30A4\u30A2\u30B9\u306E\u738B",
       "screen_name" : "yoshiori",
       "indices" : [ 29, 38 ],
       "id_str" : "3213261",
@@ -8800,7 +8800,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "ryoshr",
       "protected" : false,
       "id_str" : "6417322",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1079743862367633408\/4xJ_uVYE_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1117086775615217664\/z-gjVbgo_normal.png",
       "id" : 6417322,
       "verified" : false
     }

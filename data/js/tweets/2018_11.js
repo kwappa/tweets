@@ -958,7 +958,7 @@ Grailbird.data.tweets_2018_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Forkwell",
+      "name" : "Forkwell@\u30EF\u30FC\u30C9\u30AF\u30E9\u30A6\u30C9\u30AD\u30E3\u30F3\u30DA\u30FC\u30F3\u4E2D",
       "screen_name" : "Forkwell_ja",
       "indices" : [ 3, 15 ],
       "id_str" : "544865208",
@@ -1002,7 +1002,7 @@ Grailbird.data.tweets_2018_11 =
     "id" : 1060361242848587776,
     "created_at" : "2018-11-08 02:39:55 +0000",
     "user" : {
-      "name" : "Forkwell",
+      "name" : "Forkwell@\u30EF\u30FC\u30C9\u30AF\u30E9\u30A6\u30C9\u30AD\u30E3\u30F3\u30DA\u30FC\u30F3\u4E2D",
       "screen_name" : "Forkwell_ja",
       "protected" : false,
       "id_str" : "544865208",

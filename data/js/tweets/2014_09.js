@@ -405,7 +405,7 @@ Grailbird.data.tweets_2014_09 =
       "screen_name" : "miyohide",
       "protected" : false,
       "id_str" : "14495552",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/697157202\/twitter_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1107069748024532994\/Vraprvc8_normal.png",
       "id" : 14495552,
       "verified" : false
     }
@@ -1128,7 +1128,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u306D\u3053\u30AF\u30FC\u30EB",
+      "name" : "ayumiko",
       "screen_name" : "ayumiko",
       "indices" : [ 0, 8 ],
       "id_str" : "18263761",
@@ -1503,7 +1503,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Yuta Kurotaki",
+      "name" : "Yuta Kurotaki\uD83C\uDF5A",
       "screen_name" : "kurotaky",
       "indices" : [ 0, 9 ],
       "id_str" : "285404730",
@@ -2232,7 +2232,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Yuta Kurotaki",
+      "name" : "Yuta Kurotaki\uD83C\uDF5A",
       "screen_name" : "kurotaky",
       "indices" : [ 0, 9 ],
       "id_str" : "285404730",
@@ -4457,7 +4457,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u304D\u30FC (Mitsukuni Sato)",
+      "name" : "key",
       "screen_name" : "key3",
       "indices" : [ 0, 5 ],
       "id_str" : "5121031",
@@ -8306,7 +8306,7 @@ Grailbird.data.tweets_2014_09 =
       "screen_name" : "bash0C7",
       "protected" : false,
       "id_str" : "3987001",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/828909459388796928\/7FTRHGtR_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1119991918954332166\/emyeK7Z4_normal.jpg",
       "id" : 3987001,
       "verified" : false
     }
@@ -10588,13 +10588,13 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/b.hatena.ne.jp\/\" rel=\"nofollow\"\u003E\u306F\u3066\u306A\u30D6\u30C3\u30AF\u30DE\u30FC\u30AF\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "chrisgotwork\uD83D\uDC4C",
+      "name" : "Chris Green",
       "screen_name" : "it",
       "indices" : [ 19, 22 ],
       "id_str" : "243850444",
       "id" : 243850444
     }, {
-      "name" : "chrisgotwork\uD83D\uDC4C",
+      "name" : "Chris Green",
       "screen_name" : "it",
       "indices" : [ 90, 93 ],
       "id_str" : "243850444",

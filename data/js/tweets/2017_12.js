@@ -524,13 +524,13 @@ Grailbird.data.tweets_2017_12 =
   "source" : "\u003Ca href=\"http:\/\/b.hatena.ne.jp\/\" rel=\"nofollow\"\u003E\u306F\u3066\u306A\u30D6\u30C3\u30AF\u30DE\u30FC\u30AF\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "chrisgotwork\uD83D\uDC4C",
+      "name" : "Chris Green",
       "screen_name" : "it",
       "indices" : [ 66, 69 ],
       "id_str" : "243850444",
       "id" : 243850444
     }, {
-      "name" : "chrisgotwork\uD83D\uDC4C",
+      "name" : "Chris Green",
       "screen_name" : "it",
       "indices" : [ 108, 111 ],
       "id_str" : "243850444",
@@ -671,7 +671,7 @@ Grailbird.data.tweets_2017_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u007B \u5927\u548C\u7530: \u7D14 \u007D",
+      "name" : "\u5927\u548C\u7530\u7D14\u3068\u7533\u3057\u307E\u3059",
       "screen_name" : "june29",
       "indices" : [ 0, 7 ],
       "id_str" : "2388101",
@@ -3513,7 +3513,7 @@ Grailbird.data.tweets_2017_12 =
   "source" : "\u003Ca href=\"http:\/\/b.hatena.ne.jp\/\" rel=\"nofollow\"\u003E\u306F\u3066\u306A\u30D6\u30C3\u30AF\u30DE\u30FC\u30AF\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3046\u305F\u3082(\u304F)",
+      "name" : "\u3046\u305F\u3082\u304F",
       "screen_name" : "utam0k",
       "indices" : [ 1, 8 ],
       "id_str" : "333401343",
@@ -4823,7 +4823,7 @@ Grailbird.data.tweets_2017_12 =
   "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter Web App\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u516B\u96F2\u8056@1\/27\u8056\u8A95\u30AA\u30D5\u4F1A",
+      "name" : "\u516B\u96F2\u8056\uFE0F\uFE0F\uFE0F\u26C5\uFE0F",
       "screen_name" : "E_H_true",
       "indices" : [ 3, 12 ],
       "id_str" : "759176306",
@@ -5036,11 +5036,11 @@ Grailbird.data.tweets_2017_12 =
     "id" : 936831763053101056,
     "created_at" : "2017-12-02 05:37:52 +0000",
     "user" : {
-      "name" : "\u516B\u96F2\u8056@1\/27\u8056\u8A95\u30AA\u30D5\u4F1A",
+      "name" : "\u516B\u96F2\u8056\uFE0F\uFE0F\uFE0F\u26C5\uFE0F",
       "screen_name" : "E_H_true",
       "protected" : false,
       "id_str" : "759176306",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1088808708384133120\/L1hutBDY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1133988903117942785\/Gu0XeEhO_normal.jpg",
       "id" : 759176306,
       "verified" : false
     }

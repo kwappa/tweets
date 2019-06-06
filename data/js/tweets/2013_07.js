@@ -1216,7 +1216,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "HyadainMaeyamad",
       "protected" : false,
       "id_str" : "115629541",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000678339959\/f038bae520bb3efa3779d44474638262_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1098574764900110336\/VR6jIT_o_normal.jpg",
       "id" : 115629541,
       "verified" : false
     }
@@ -4304,7 +4304,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30E1\u30D3\u30A6\u30B91",
+      "name" : "\u751F\u5B58\u30D0\u30A4\u30A2\u30B9\u306E\u738B",
       "screen_name" : "yoshiori",
       "indices" : [ 0, 9 ],
       "id_str" : "3213261",
@@ -6489,7 +6489,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u5C0F\u7B20\u539F \u79C0\u884C",
+      "name" : "\u304A\u304C",
       "screen_name" : "Ogaaaan",
       "indices" : [ 0, 8 ],
       "id_str" : "933558377199812610",
@@ -6953,7 +6953,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u5C0F\u7B20\u539F \u79C0\u884C",
+      "name" : "\u304A\u304C",
       "screen_name" : "Ogaaaan",
       "indices" : [ 0, 8 ],
       "id_str" : "933558377199812610",
@@ -8072,7 +8072,7 @@ Grailbird.data.tweets_2013_07 =
       "id_str" : "3857121",
       "id" : 3857121
     }, {
-      "name" : "chrisgotwork\uD83D\uDC4C",
+      "name" : "Chris Green",
       "screen_name" : "it",
       "indices" : [ 11, 14 ],
       "id_str" : "243850444",
@@ -8089,7 +8089,7 @@ Grailbird.data.tweets_2013_07 =
     "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "chrisgotwork\uD83D\uDC4C",
+        "name" : "Chris Green",
         "screen_name" : "it",
         "indices" : [ 0, 3 ],
         "id_str" : "243850444",
@@ -10824,13 +10824,13 @@ Grailbird.data.tweets_2013_07 =
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "\u99D2\u5D0E\u5F18\u6A39 \uFF08 Hiroki Komazaki \uFF09",
+        "name" : "\u99D2\u5D0E\u5F18\u6A39 \uFF08 Hiroki Komazaki \uFF09@\u75C5\u5150\u4FDD\u80B2\u5165\u4F1A\u53D7\u4ED8\u4E2D",
         "screen_name" : "Hiroki_Komazaki",
         "indices" : [ 115, 131 ],
         "id_str" : "69259365",
         "id" : 69259365
       }, {
-        "name" : "\u3076\u3045",
+        "name" : "\u3076\u3045@\u738B\u69D8\u306E\u8033\u306F\u30ED\u30D0\u306E\u8033",
         "screen_name" : "bu0210",
         "indices" : [ 132, 139 ],
         "id_str" : "276574980",

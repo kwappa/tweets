@@ -605,7 +605,7 @@ Grailbird.data.tweets_2015_04 =
       "id_str" : "16541084",
       "id" : 16541084
     }, {
-      "name" : "\u30E2\u30D2\u304A \uD83C\uDF24\uFE0F\uFE0F Loft",
+      "name" : "\u30E2\u30D2\u304A \u26C5\uFE0F Loft",
       "screen_name" : "akitsukada",
       "indices" : [ 8, 19 ],
       "id_str" : "43361083",
@@ -617,7 +617,7 @@ Grailbird.data.tweets_2015_04 =
       "id_str" : "6257222",
       "id" : 6257222
     }, {
-      "name" : "\u8170\u75DB\u7BB1",
+      "name" : "\u65E9\u5BDD\u65E9\u8D77\u304D",
       "screen_name" : "jwhaco",
       "indices" : [ 28, 35 ],
       "id_str" : "57255534",
@@ -650,7 +650,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30E2\u30D2\u304A \uD83C\uDF24\uFE0F\uFE0F Loft",
+      "name" : "\u30E2\u30D2\u304A \u26C5\uFE0F Loft",
       "screen_name" : "akitsukada",
       "indices" : [ 0, 11 ],
       "id_str" : "43361083",
@@ -662,7 +662,7 @@ Grailbird.data.tweets_2015_04 =
       "id_str" : "6257222",
       "id" : 6257222
     }, {
-      "name" : "\u8170\u75DB\u7BB1",
+      "name" : "\u65E9\u5BDD\u65E9\u8D77\u304D",
       "screen_name" : "jwhaco",
       "indices" : [ 20, 27 ],
       "id_str" : "57255534",
@@ -701,7 +701,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30E2\u30D2\u304A \uD83C\uDF17\uFE0F Loft",
+      "name" : "\u30E2\u30D2\u304A \u26C5\uFE0F Loft",
       "screen_name" : "akitsukada",
       "indices" : [ 0, 11 ],
       "id_str" : "43361083",
@@ -713,7 +713,7 @@ Grailbird.data.tweets_2015_04 =
       "id_str" : "6257222",
       "id" : 6257222
     }, {
-      "name" : "\u8170\u75DB\u304B\u3089\u89E3\u653E\u3055\u308C\u308B\u7BB1",
+      "name" : "\u65E9\u5BDD\u65E9\u8D77\u304D",
       "screen_name" : "jwhaco",
       "indices" : [ 20, 27 ],
       "id_str" : "57255534",
@@ -1811,7 +1811,7 @@ Grailbird.data.tweets_2015_04 =
     "user" : {
       "name" : "matsuou1",
       "screen_name" : "matsuou1",
-      "protected" : true,
+      "protected" : false,
       "id_str" : "9243262",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1261834737\/____001_normal.jpg",
       "id" : 9243262,
@@ -2108,7 +2108,7 @@ Grailbird.data.tweets_2015_04 =
       "screen_name" : "tanaka51",
       "protected" : false,
       "id_str" : "81307149",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/895422157039165441\/a1PRsHFr_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1128118309512040448\/Ln2HTs1-_normal.png",
       "id" : 81307149,
       "verified" : false
     }
@@ -2743,7 +2743,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u5EA7\u7D44",
+      "name" : "\uD83E\uDD7A",
       "screen_name" : "eiryu",
       "indices" : [ 0, 6 ],
       "id_str" : "15780142",
@@ -2979,7 +2979,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u5C71\u4E0B \u3042\u304B\u7406 \/ Akari Yamashita",
+      "name" : "\u5C71\u4E0B \u3042\u304B\u7406",
       "screen_name" : "AkrYmst",
       "indices" : [ 0, 8 ],
       "id_str" : "7707472",
@@ -4557,7 +4557,7 @@ Grailbird.data.tweets_2015_04 =
       "screen_name" : "shokos",
       "protected" : false,
       "id_str" : "19187659",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1065559641659138049\/rfWV9AQ6_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1127205285825658880\/_f8VY0Sc_normal.jpg",
       "id" : 19187659,
       "verified" : false
     }
